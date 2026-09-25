@@ -66,6 +66,7 @@ function SelectField({
 
 export default function ContactForm() {
   const [formData, setFormData] = useState<ContactFormData>(INITIAL_CONTACT_FORM);
+  const [honeypot, setHoneypot] = useState('');
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
   const [errorMessage, setErrorMessage] = useState('');
 
@@ -82,10 +83,10 @@ export default function ContactForm() {
     setErrorMessage('');
 
     try {
-      const response = await fetch('/api/contact', {
+      const response = await fetch('/api/contact/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData),
+        body: JSON.stringify({ ...formData, company_website: honeypot }),
       });
       const data = await response.json();
 
@@ -150,6 +151,19 @@ export default function ContactForm() {
                 </p>
 
                 <form onSubmit={handleSubmit} className="space-y-5">
+                  {/* Honeypot — hidden from humans, bots fill it and get dropped */}
+                  <div className="absolute -left-[9999px] top-auto w-px h-px overflow-hidden" aria-hidden="true">
+                    <label htmlFor="company_website">Do not fill this field</label>
+                    <input
+                      id="company_website"
+                      type="text"
+                      name="company_website"
+                      tabIndex={-1}
+                      autoComplete="off"
+                      value={honeypot}
+                      onChange={e => setHoneypot(e.target.value)}
+                    />
+                  </div>
                   <div className="grid sm:grid-cols-2 gap-4">
                     <div>
                       <label className={labelClass} htmlFor="contact-name">

@@ -1,12 +1,44 @@
 import { NextResponse } from 'next/server';
 import nodemailer from 'nodemailer';
 
+// Best-effort in-memory rate limit (per warm serverless instance).
+const RATE_LIMIT = 3; // submissions
+const RATE_WINDOW_MS = 10 * 60 * 1000; // per 10 minutes
+const hits = new Map<string, number[]>();
+
+function isRateLimited(ip: string): boolean {
+  const now = Date.now();
+  const recent = (hits.get(ip) || []).filter(t => now - t < RATE_WINDOW_MS);
+  recent.push(now);
+  hits.set(ip, recent);
+  return recent.length > RATE_LIMIT;
+}
+
 export async function POST(req: Request) {
   try {
-    const { name, email, company, jurisdiction, budget, message } = await req.json();
+    const body = await req.json();
+    const { name, email, company, jurisdiction, budget, message } = body;
+    // Honeypot: real users never fill this hidden field. Bots do.
+    const honeypot = body.company_website || body.website || '';
+
+    if (honeypot) {
+      // Silently accept and drop — don't tip off the bot.
+      return NextResponse.json({ success: true, message: 'Inquiry sent successfully!' });
+    }
 
     if (!name || !email || !message) {
       return NextResponse.json({ error: 'Name, email, and message are required.' }, { status: 400 });
+    }
+
+    const ip =
+      (req.headers.get('x-forwarded-for') || '').split(',')[0].trim() ||
+      req.headers.get('x-real-ip') ||
+      'unknown';
+    if (isRateLimited(ip)) {
+      return NextResponse.json(
+        { error: 'Too many submissions. Please try again in a few minutes.' },
+        { status: 429 },
+      );
     }
 
     const host = process.env.SMTP_HOST || '';
@@ -59,19 +91,23 @@ ${message}
       `,
     };
 
-    if (host && user && pass) {
-      const transporter = nodemailer.createTransport({
-        host,
-        port,
-        secure: port === 465,
-        auth: { user, pass },
-      });
-      await transporter.sendMail(mailOptions);
-      console.log('Email sent successfully via SMTP.');
-    } else {
-      console.warn('SMTP settings missing in environment variables. Logging mail options instead:');
-      console.log(JSON.stringify(mailOptions, null, 2));
+    if (!host || !user || !pass) {
+      // Fail LOUD instead of faking success and silently losing the lead.
+      console.error('SMTP env vars missing — cannot send inquiry. Set SMTP_HOST/SMTP_USER/SMTP_PASS.');
+      return NextResponse.json(
+        { error: 'We could not send your inquiry right now. Please email sudonexofficial@gmail.com directly.' },
+        { status: 500 },
+      );
     }
+
+    const transporter = nodemailer.createTransport({
+      host,
+      port,
+      secure: port === 465,
+      auth: { user, pass },
+    });
+    await transporter.sendMail(mailOptions);
+    console.log('Email sent successfully via SMTP.');
 
     return NextResponse.json({ success: true, message: 'Inquiry sent successfully!' });
   } catch (error: any) {

@@ -58,6 +58,7 @@ function ContactModal() {
     budget: 'Under $5k',
     message: '',
   });
+  const [honeypot, setHoneypot] = useState('');
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
   const [errorMessage, setErrorMessage] = useState('');
 
@@ -72,10 +73,10 @@ function ContactModal() {
     setErrorMessage('');
 
     try {
-      const response = await fetch('/api/contact', {
+      const response = await fetch('/api/contact/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData),
+        body: JSON.stringify({ ...formData, company_website: honeypot }),
       });
 
       const data = await response.json();
@@ -162,6 +163,18 @@ function ContactModal() {
               </p>
 
               <form onSubmit={handleSubmit} className="space-y-4">
+                <div className="absolute -left-[9999px] top-auto w-px h-px overflow-hidden" aria-hidden="true">
+                  <label htmlFor="modal_company_website">Do not fill this field</label>
+                  <input
+                    id="modal_company_website"
+                    type="text"
+                    name="company_website"
+                    tabIndex={-1}
+                    autoComplete="off"
+                    value={honeypot}
+                    onChange={e => setHoneypot(e.target.value)}
+                  />
+                </div>
                 <div className="grid grid-cols-2 gap-4">
                   <div>
                     <label className="text-[10px] font-semibold text-ink-dim uppercase tracking-wider mb-1.5 block">
