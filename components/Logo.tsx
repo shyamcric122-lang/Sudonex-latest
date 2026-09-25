@@ -7,10 +7,10 @@ export default function Logo({ className = '', onClick }: { className?: string; 
       <Image
         src="/logo.png"
         alt="Sudonex — Software | Solutions | Success"
-        width={160}
-        height={160}
+        width={200}
+        height={200}
         priority
-        className="h-12 w-auto object-contain group-hover:scale-105 transition-transform"
+        className="h-14 w-auto object-contain group-hover:scale-105 transition-transform"
       />
     </Link>
   );
