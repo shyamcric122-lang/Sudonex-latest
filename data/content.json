@@ -3548,6 +3548,11 @@
         "to": "/contact/",
         "anchor": "request a technical consultation",
         "reason": "funnel-down"
+      },
+      {
+        "to": "/resources/igaming-platform-sla-uptime-guide/",
+        "anchor": "iGaming platform SLA & uptime",
+        "reason": "cluster-support"
       }
     ],
     "inbound_from": [
@@ -5333,6 +5338,11 @@
         "to": "/igaming-software-development/",
         "anchor": "iGaming software development",
         "reason": "pillar-cluster"
+      },
+      {
+        "to": "/resources/igaming-platform-sla-uptime-guide/",
+        "anchor": "iGaming platform SLA guide",
+        "reason": "cluster-support"
       }
     ],
     "inbound_from": [
@@ -22365,6 +22375,11 @@
         "to": "/contact/",
         "anchor": "tell us what you are building",
         "reason": "cta"
+      },
+      {
+        "to": "/resources/igaming-platform-sla-uptime-guide/",
+        "anchor": "iGaming platform SLA and uptime",
+        "reason": "cluster-support"
       }
     ],
     "inbound_from": [
@@ -23121,5 +23136,200 @@
         "reason": "cta"
       }
     ]
+  },
+  "/resources/igaming-platform-sla-uptime-guide/": {
+    "path": "/resources/igaming-platform-sla-uptime-guide/",
+    "layer": "resource",
+    "seo_title": "iGaming Platform SLA & Uptime Guide 2026 | Sudonex",
+    "meta_description": "What SLA and uptime to demand from an iGaming platform so downtime never costs you bets. Engineered for reliability since 2018. Read the operator's guide.",
+    "h1": "iGaming Platform SLA and Uptime: What Operators Should Demand",
+    "canonical": "https://www.sudonex.com/resources/igaming-platform-sla-uptime-guide/",
+    "body_html": "<p>An <strong>iGaming platform SLA</strong> is the clause that quietly decides whether your casino or sportsbook is taking bets during the moments that actually make money. Most operators skim the headline uptime number, sign, and never test what it really promises. This guide explains what a service-level agreement covers in iGaming, the uptime figures that matter in real downtime minutes, and exactly what an operator should demand from a platform or payment provider before committing.</p>\n<p><strong>Quick answer:</strong> A strong iGaming platform SLA guarantees at least 99.9% uptime (ideally 99.95% or higher), defines planned-maintenance windows, incident response and resolution times, 24/7 support, an escalation path, and service credits for breaches &mdash; and it must state whether that uptime covers only the core platform or the game providers and payment rails too.</p>\n<h2 id=\"what-is-an-sla-in-igaming\">What an SLA is in iGaming &mdash; and why it decides revenue</h2>\n<p>A service-level agreement is a provider's binding, measurable promise about how available and responsive their software will be, and what happens when they miss. In most industries a few minutes of downtime is an inconvenience. In iGaming it is lost revenue that never comes back: a player who cannot place a bet during a big match, or whose deposit fails at the checkout, does not wait &mdash; they leave for a competitor and often do not return. Because your platform holds real money and settles bets in real time, availability is not a technical nicety, it is the direct input to gross gaming revenue. That is why the SLA belongs in your commercial due diligence, not in the small print your lawyer skims after the deal is agreed.</p>\n<h2 id=\"uptime-numbers-that-matter\">99.9% vs 99.95% vs 99.99%: what each really means</h2>\n<p>Vendors quote uptime as a percentage because it sounds reassuring, but the only honest way to read it is as downtime minutes per year. The difference between one extra nine is enormous:</p>\n<ul>\n<li><strong>99.9% (\"three nines\")</strong> &mdash; about 8 hours 46 minutes of downtime a year, or roughly 43 minutes a month. Acceptable as a floor, but a single bad incident can eat the whole annual budget.</li>\n<li><strong>99.95%</strong> &mdash; about 4 hours 23 minutes a year, or roughly 22 minutes a month. A sensible target for a serious real-money platform.</li>\n<li><strong>99.99% (\"four nines\")</strong> &mdash; about 52 minutes a year, or under 5 minutes a month. This is what tier-one operators expect for the core wallet and betting engine.</li>\n</ul>\n<p>The catch is the denominator. \"99.9% uptime\" measured across a calendar year can hide a two-hour outage during a championship final, because the rest of the year averages it away. Always ask how uptime is calculated, over what window, and whether planned maintenance is excluded from the figure &mdash; exclusions are where a generous-looking number goes to die.</p>\n<h2 id=\"what-a-real-sla-must-specify\">What a real iGaming SLA must specify</h2>\n<p>A one-line uptime promise is not an SLA. A real one spells out every term an operator can hold the provider to:</p>\n<ul>\n<li><strong>Uptime commitment and measurement</strong> &mdash; the exact percentage, the calculation method, and the reporting cadence.</li>\n<li><strong>Planned-maintenance windows</strong> &mdash; when maintenance can happen (ideally off-peak for your key markets), how much notice you get, and whether it counts against uptime.</li>\n<li><strong>Incident response and resolution times</strong> &mdash; how fast the provider acknowledges an issue and how fast they commit to restoring service, graded by severity.</li>\n<li><strong>Escalation path</strong> &mdash; named contacts and a clear ladder to senior engineers, not a shared inbox.</li>\n<li><strong>Support hours</strong> &mdash; genuine 24/7 coverage with people, not just a status page, because incidents do not respect business hours.</li>\n<li><strong>Service credits and penalties</strong> &mdash; what you are owed when the SLA is breached, and how you claim it.</li>\n<li><strong>Scope</strong> &mdash; the single most-overlooked term: does the guarantee cover the whole player journey, or only the provider's core while game studios and payment gateways sit outside it?</li>\n</ul>\n<p>Scope matters because your players experience one product. If the core platform is up but the game aggregator or payment gateway is down, the operator still loses the bet &mdash; and a narrow SLA leaves you carrying that risk alone. Clarify at the outset how integrations are covered, which is exactly the kind of contract detail that surfaces during proper <a href=\"/igaming-api-integration/\">iGaming API integration</a> planning.</p>\n<h2 id=\"peak-event-load\">Peak-event load: why \"average\" uptime hides the failures that cost you</h2>\n<p>Availability and capacity are different problems, and the SLA usually only covers the first. A platform can be technically \"up\" while timing out under load, which is functionally identical to an outage for the player trying to bet. The failures that hurt most cluster around exactly the moments that drive revenue: a major sporting final, a jackpot climax, a marketing push that lands. Average uptime smooths these spikes into invisibility.</p>\n<p>So look past the percentage and ask about behaviour under stress. Has the provider load-tested for the concurrency your peak events create? Does the architecture auto-scale, and how quickly? What is the tested transaction throughput of the wallet and ledger when everyone bets in the same ninety seconds? A provider that engineers for peak load answers with numbers and test evidence; one that cannot is selling you an average that will fail when it matters.</p>\n<h2 id=\"payment-psp-sla\">Payment and PSP SLA specifics</h2>\n<p>Payments are where uptime turns directly into cash, so the payment layer deserves its own SLA scrutiny beyond the platform figure. Ask for three distinct commitments: <strong>gateway uptime</strong> (the availability of the payment integration itself), <strong>transaction success rate</strong> (the share of deposits and withdrawals that complete without error), and <strong>settlement timing</strong> (how quickly funds actually move and reconcile). A gateway can be \"available\" while quietly declining a chunk of deposits, which is why success rate is often the more revealing metric.</p>\n<p>Because most operators run several PSPs, the platform should cascade to a backup provider automatically when one degrades, so a single gateway problem never blocks deposits outright. That resilience is a design decision made during <a href=\"/casino-payment-integration/\">casino payment integration</a>, not a setting toggled later &mdash; and it is worth confirming a provider builds for it before you sign.</p>\n<h2 id=\"monitoring-redundancy-dr\">Monitoring, redundancy and disaster recovery (RTO and RPO)</h2>\n<p>Uptime is an outcome; monitoring and redundancy are how a provider earns it. Expect real-time monitoring and alerting so problems are caught before players notice, redundancy so no single server or component takes the platform down, and a documented disaster-recovery plan for the worst case. Two DR terms belong in plain language in your due diligence:</p>\n<ul>\n<li><strong>RTO (Recovery Time Objective)</strong> &mdash; how long it takes to get the platform back up after a major failure. Lower is better.</li>\n<li><strong>RPO (Recovery Point Objective)</strong> &mdash; how much data, measured in time, you could lose in that failure. For a real-money wallet the honest answer should be effectively zero &mdash; no settled bet or balance should ever vanish.</li>\n</ul>\n<p>Ask when the DR plan was last tested, not just whether it exists. An untested recovery plan is a document, not a safeguard.</p>\n<h2 id=\"red-flags-questions\">Red flags in a vendor SLA and the questions to ask</h2>\n<p>Some warning signs recur across weak agreements. Treat these as red flags: a bare uptime percentage with no measurement method; planned maintenance excluded from the figure without limit; no service credits, or credits so small the provider is indifferent to breaching; a scope that quietly ends at the core and excludes games and payments; \"24/7 support\" that turns out to be a ticket queue; and no mention of RTO, RPO or DR testing at all. Vague answers to direct questions are themselves the signal.</p>\n<p>Before you sign, ask the provider to show &mdash; not just assert &mdash; its uptime history for the last twelve months, its incident-response and resolution times by severity, its most recent security audit and DR test, its peak-load test results, and precisely what the SLA covers end to end. A provider confident in its engineering welcomes these questions; one that deflects is telling you something. The same rigor applies when you evaluate the build itself, which is why reliability sits alongside certification in any serious <a href=\"/igaming-software-development/\">iGaming software development</a> assessment, and in the <a href=\"/resources/igaming-certification-testing-guide/\">iGaming certification and testing guide</a>.</p>\n<h2 id=\"how-sudonex-approaches-uptime\">How Sudonex approaches uptime and reliability</h2>\n<p>Sudonex is a B2B iGaming software development company (since 2018) building owned casino, slot, sportsbook, live-casino and crypto platforms for licensed operators across 17 regulated markets. We do not sell a one-size-fits-all uptime badge, because reliability depends on how a platform is architected for your markets and traffic. Instead we engineer for it: server-side wallet and ledger integrity so no settled bet is lost, real-time monitoring and 24/7 operations, redundancy across critical components, and payment integration that cascades across PSPs rather than betting your deposits on a single gateway. Because the technology is owned rather than rented, the SLA, the architecture and the certifications are yours to control. If you are evaluating what reliability you can actually demand &mdash; and what a provider should commit to in writing &mdash; <a href=\"/contact/\">tell us what you are building</a> and we will scope the platform, integrations and reliability targets for your target markets, usually within one working day.</p>",
+    "toc": [
+      {
+        "text": "What an SLA is in iGaming — and why it decides revenue",
+        "href": "#what-is-an-sla-in-igaming"
+      },
+      {
+        "text": "99.9% vs 99.95% vs 99.99%: what each really means",
+        "href": "#uptime-numbers-that-matter"
+      },
+      {
+        "text": "What a real iGaming SLA must specify",
+        "href": "#what-a-real-sla-must-specify"
+      },
+      {
+        "text": "Peak-event load: why \"average\" uptime hides failures",
+        "href": "#peak-event-load"
+      },
+      {
+        "text": "Payment and PSP SLA specifics",
+        "href": "#payment-psp-sla"
+      },
+      {
+        "text": "Monitoring, redundancy and disaster recovery (RTO and RPO)",
+        "href": "#monitoring-redundancy-dr"
+      },
+      {
+        "text": "Red flags in a vendor SLA and the questions to ask",
+        "href": "#red-flags-questions"
+      },
+      {
+        "text": "How Sudonex approaches uptime and reliability",
+        "href": "#how-sudonex-approaches-uptime"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What SLA does a typical iGaming payment solution offer?",
+        "a": "A typical iGaming payment or gateway SLA offers around 99.9% uptime, but the figures that matter more are transaction success rate (the share of deposits and withdrawals that complete) and settlement timing. Because operators run several PSPs, a strong setup also cascades to a backup gateway automatically so one provider's outage never blocks deposits. Always ask for gateway uptime, success rate and settlement terms as three separate commitments."
+      },
+      {
+        "q": "What uptime should an iGaming platform have?",
+        "a": "Demand at least 99.9% uptime as a floor and 99.95% or higher for the core wallet and betting engine. In real terms, 99.9% is about 8 hours 46 minutes of downtime a year, 99.95% about 4 hours 23 minutes, and 99.99% under an hour. Just as important, confirm the platform holds up under peak-event load, not only on average across the year."
+      },
+      {
+        "q": "What is an SLA in iGaming?",
+        "a": "An SLA (service-level agreement) is a provider's binding, measurable promise about how available and responsive their platform will be, and what compensation applies when they miss it. In iGaming it should specify uptime percentage, planned-maintenance windows, incident response and resolution times, 24/7 support, an escalation path, service credits for breaches, and exactly what scope the guarantee covers."
+      },
+      {
+        "q": "Does an iGaming SLA cover game providers and payment gateways?",
+        "a": "Not always — and this is the most overlooked term. Many SLAs only guarantee the provider's core platform, leaving game aggregators and payment gateways outside the promise. Since players experience one product, a core that is up while games or payments are down still loses you the bet. Clarify end-to-end scope and how third-party integrations are covered before signing."
+      },
+      {
+        "q": "What do RTO and RPO mean in an iGaming SLA?",
+        "a": "RTO (Recovery Time Objective) is how long it takes to restore the platform after a major failure — lower is better. RPO (Recovery Point Objective) is how much data, measured in time, you could lose in that failure. For a real-money wallet the RPO should be effectively zero: no settled bet or balance should ever disappear. Ask when the disaster-recovery plan was last tested, not just whether it exists."
+      },
+      {
+        "q": "Why does iGaming uptime matter so much for revenue?",
+        "a": "Because your platform settles real-money bets in real time, downtime is lost revenue that does not return. A player who cannot bet during a big match or whose deposit fails at checkout switches to a competitor. Outages also cluster around peak events — finals, jackpots, promotions — which are exactly the highest-revenue moments, so even brief downtime can cost far more than the minutes suggest."
+      },
+      {
+        "q": "What are the red flags in a vendor's iGaming SLA?",
+        "a": "Watch for a bare uptime percentage with no measurement method, unlimited planned maintenance excluded from the figure, no or negligible service credits, a scope that ends at the core and excludes games and payments, \"24/7 support\" that is really a ticket queue, and no mention of RTO, RPO or DR testing. Ask the provider to show its uptime history, incident-resolution times and peak-load test results rather than just assert them."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "name": "iGaming Platform SLA and Uptime Guide",
+        "headline": "iGaming Platform SLA and Uptime Guide",
+        "description": "iGaming Platform SLA and Uptime Guide — Sudonex",
+        "url": "https://sudonex.com/resources/igaming-platform-sla-uptime-guide/",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What SLA does a typical iGaming payment solution offer?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A typical iGaming payment or gateway SLA offers around 99.9% uptime, but the figures that matter more are transaction success rate (the share of deposits and withdrawals that complete) and settlement timing. Because operators run several PSPs, a strong setup also cascades to a backup gateway automatically so one provider's outage never blocks deposits. Always ask for gateway uptime, success rate and settlement terms as three separate commitments."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What uptime should an iGaming platform have?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Demand at least 99.9% uptime as a floor and 99.95% or higher for the core wallet and betting engine. In real terms, 99.9% is about 8 hours 46 minutes of downtime a year, 99.95% about 4 hours 23 minutes, and 99.99% under an hour. Just as important, confirm the platform holds up under peak-event load, not only on average across the year."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is an SLA in iGaming?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "An SLA (service-level agreement) is a provider's binding, measurable promise about how available and responsive their platform will be, and what compensation applies when they miss it. In iGaming it should specify uptime percentage, planned-maintenance windows, incident response and resolution times, 24/7 support, an escalation path, service credits for breaches, and exactly what scope the guarantee covers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does an iGaming SLA cover game providers and payment gateways?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Not always — and this is the most overlooked term. Many SLAs only guarantee the provider's core platform, leaving game aggregators and payment gateways outside the promise. Since players experience one product, a core that is up while games or payments are down still loses you the bet. Clarify end-to-end scope and how third-party integrations are covered before signing."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What do RTO and RPO mean in an iGaming SLA?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RTO (Recovery Time Objective) is how long it takes to restore the platform after a major failure — lower is better. RPO (Recovery Point Objective) is how much data, measured in time, you could lose in that failure. For a real-money wallet the RPO should be effectively zero: no settled bet or balance should ever disappear. Ask when the disaster-recovery plan was last tested, not just whether it exists."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why does iGaming uptime matter so much for revenue?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Because your platform settles real-money bets in real time, downtime is lost revenue that does not return. A player who cannot bet during a big match or whose deposit fails at checkout switches to a competitor. Outages also cluster around peak events — finals, jackpots, promotions — which are exactly the highest-revenue moments, so even brief downtime can cost far more than the minutes suggest."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the red flags in a vendor's iGaming SLA?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Watch for a bare uptime percentage with no measurement method, unlimited planned maintenance excluded from the figure, no or negligible service credits, a scope that ends at the core and excludes games and payments, \"24/7 support\" that is really a ticket queue, and no mention of RTO, RPO or DR testing. Ask the provider to show its uptime history, incident-resolution times and peak-load test results rather than just assert them."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "informational",
+    "funnel": "MOFU",
+    "cluster": "compliance",
+    "primary_kw": "iGaming platform SLA",
+    "secondary_kws": [
+      "igaming payment gateway sla",
+      "igaming uptime",
+      "casino platform sla",
+      "igaming platform availability",
+      "igaming sla uptime"
+    ],
+    "outbound_links": [
+      {
+        "to": "/casino-payment-integration/",
+        "anchor": "casino payment integration",
+        "reason": "feature"
+      },
+      {
+        "to": "/igaming-api-integration/",
+        "anchor": "iGaming API integration",
+        "reason": "feature"
+      },
+      {
+        "to": "/igaming-software-development/",
+        "anchor": "iGaming software development",
+        "reason": "pillar-cluster"
+      },
+      {
+        "to": "/resources/igaming-certification-testing-guide/",
+        "anchor": "iGaming certification and testing guide",
+        "reason": "cluster-guide"
+      },
+      {
+        "to": "/contact/",
+        "anchor": "tell us what you are building",
+        "reason": "cta"
+      }
+    ],
+    "inbound_from": [
+      "/casino-payment-integration/",
+      "/igaming-api-integration/",
+      "/igaming-software-development/",
+      "/resources/"
+    ],
+    "audit_missing": []
   }
 }
