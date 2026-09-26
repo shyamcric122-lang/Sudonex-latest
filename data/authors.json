@@ -33,44 +33,68 @@
     }
   },
   "page_authors": {
-    "_default": { "author": "engineering-lead", "reviewer": "compliance-lead" },
+    "_default": {
+      "author": "engineering-lead",
+      "reviewer": "compliance-lead"
+    },
     "by_layer": {
-      "service":     { "author": "engineering-lead", "reviewer": "compliance-lead" },
-      "subservice":  { "author": "engineering-lead", "reviewer": "compliance-lead" },
-      "solution":    { "author": "product-strategy", "reviewer": "engineering-lead" },
-      "industry":    { "author": "product-strategy", "reviewer": "compliance-lead" },
-      "resource":    { "author": "engineering-lead", "reviewer": "product-strategy" },
-      "casestudy":   { "author": "product-strategy", "reviewer": "engineering-lead" },
-      "geo":         { "author": "compliance-lead", "reviewer": "engineering-lead" },
-      "top":         { "author": "product-strategy", "reviewer": "engineering-lead" },
-      "home":        { "author": "product-strategy", "reviewer": "engineering-lead" }
+      "service": {
+        "author": "engineering-lead",
+        "reviewer": "compliance-lead"
+      },
+      "subservice": {
+        "author": "engineering-lead",
+        "reviewer": "compliance-lead"
+      },
+      "solution": {
+        "author": "product-strategy",
+        "reviewer": "engineering-lead"
+      },
+      "industry": {
+        "author": "product-strategy",
+        "reviewer": "compliance-lead"
+      },
+      "resource": {
+        "author": "engineering-lead",
+        "reviewer": "product-strategy"
+      },
+      "casestudy": {
+        "author": "product-strategy",
+        "reviewer": "engineering-lead"
+      },
+      "geo": {
+        "author": "compliance-lead",
+        "reviewer": "engineering-lead"
+      },
+      "top": {
+        "author": "product-strategy",
+        "reviewer": "engineering-lead"
+      },
+      "home": {
+        "author": "product-strategy",
+        "reviewer": "engineering-lead"
+      }
     }
   },
   "organization": {
     "name": "Sudonex",
     "legalName": "Sudonex Ltd.",
-    "url": "https://sudonex.com",
-    "logo": "https://sudonex.com/logo.png",
+    "url": "https://www.sudonex.com",
+    "logo": "https://www.sudonex.com/logo.png",
     "foundingDate": "2018-03-01",
-    "numberOfEmployees": "51-100",
-    "founders": [
-      { "@type": "Person", "name": "Sudonex Founders" }
-    ],
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Replace with real address",
-      "addressLocality": "Replace with city",
-      "addressRegion": "Replace",
-      "postalCode": "00000",
-      "addressCountry": "Replace"
-    },
+    "numberOfEmployees": "11",
     "contactPoint": [
-      { "@type": "ContactPoint", "contactType": "sales", "email": "hello@sudonex.com", "areaServed": "Worldwide" },
-      { "@type": "ContactPoint", "contactType": "technical support", "email": "support@sudonex.com", "areaServed": "Worldwide" }
+      {
+        "@type": "ContactPoint",
+        "contactType": "sales",
+        "email": "Sudonexofficial@gmail.com",
+        "telephone": "+91-8252595013",
+        "areaServed": "Worldwide",
+        "availableLanguage": "English"
+      }
     ],
     "sameAs": [
       "https://www.linkedin.com/company/sudonex/",
-      "https://twitter.com/sudonex",
       "https://github.com/sudonex"
     ],
     "knowsAbout": [
@@ -84,7 +108,10 @@
       "UKGC LCCP compliance"
     ],
     "memberOf": [
-      { "@type": "Organization", "name": "iGB Affiliate Network" }
+      {
+        "@type": "Organization",
+        "name": "iGB Affiliate Network"
+      }
     ],
     "awards": [
       "Trusted by 17+ licensed iGaming operators (placeholder — replace with real recognitions)"

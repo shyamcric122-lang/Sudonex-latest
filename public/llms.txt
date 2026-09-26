@@ -1,0 +1,112 @@
+# Sudonex
+> Custom iGaming software development company (founded 2018) building licensed-grade casino, slot, sportsbook, live-casino and crypto platforms for regulated operators. GLI-19 / iTech Labs ready; MGA, UKGC, Curaçao and Ontario fluent.
+
+Sudonex builds owned, certifiable iGaming technology — not rented white-label skins. Operators come to Sudonex for bespoke platforms, MVP-to-scale builds, and compliance-first engineering.
+
+## Core Services
+
+- [Casino App Development Company](https://www.sudonex.com/casino-app-development/): Launch native and PWA casino apps you fully own, engineered for licensed-grade compliance by an iGaming team building since 2018. Get a quote to start.
+- [iGaming API Integration Services](https://www.sudonex.com/igaming-api-integration/): Wire payments, KYC/AML, game aggregation and odds feeds into one clean layer, engineered to UKGC standards by a team building since 2018. Get a quote.
+- [iGaming Maintenance Services & SLA](https://www.sudonex.com/igaming-maintenance-debugging/): Protect uptime with clear-SLA iGaming maintenance: 24/7 monitoring, debugging and security patching from a team live in 17 markets. Book a call today.
+- [iGaming MVP Development Services](https://www.sudonex.com/igaming-mvp-consultancy/): Launch a compliant, fast, secure iGaming platform for regulated markets with full source ownership, built since 2018. Book a scoping call to map your MVP.
+- [iGaming Software Development Company](https://www.sudonex.com/igaming-software-development/): Build a licensed casino, sportsbook or crypto platform with an iGaming-only team. GLI-19 ready, live in 17 regulated markets since 2018. Get a scope.
+- [iGaming UI/UX Design Services](https://www.sudonex.com/igaming-ui-ux-design/): Lift deposits with conversion-led casino and sportsbook interfaces, responsible-gambling UX and mobile-first flows built to UKGC standards. Get a quote.
+- [Slot Game Development Company](https://www.sudonex.com/slot-game-development/): Build certifiable slots with certified RNG, PAR-sheet math and full art production, ready for GLI-19 sign-off since 2018. Get a quote to start your title.
+- [Sports Exchange Development Company](https://www.sudonex.com/sports-exchange-development/): Build a P2P betting platform with matching engine, liquidity tooling and licensed-grade compliance you fully own, live in 17 markets. Get a quote to start.
+
+
+## Specialized Services
+- [iGaming Technical Support, 24/7](https://www.sudonex.com/24-7-technical-support/): Keep your platform live around the clock with 24/7 iGaming support: incident response, live-ops and monitoring across 17 markets. Talk to our team.
+- [Betting Exchange Software Development](https://www.sudonex.com/betting-exchange-software/): Launch a betting exchange you fully own: proven matching engine, back and lay markets and licensed-grade compliance since 2018. Book a scoping call today.
+- [Casino App Maintenance Services](https://www.sudonex.com/casino-app-maintenance/): Protect your GGR with proactive casino app maintenance: bug fixing, RNG audits, OS-update fixes and security patching backed by GLI-19 rigor. Book a call.
+- [Casino Backend Development Services](https://www.sudonex.com/casino-backend-development/): Build a casino backend engineered to scale: wallet, RGS, bonusing and reporting with licensed-grade compliance and full ownership. Get a quote today.
+- [Casino Game Aggregator API Integration](https://www.sudonex.com/casino-game-aggregator-api/): Connect thousands of slots and live games through one RGS-ready layer with no revenue share and code you own outright. Book a scoping call to map it out.
+- [Casino Licensing & Compliance Services](https://www.sudonex.com/casino-licensing-compliance/): Clear the compliance hurdles fast: MGA, Curacao LOK, AML/KYC and RNG certification handled by MGA and UKGC-fluent specialists. Talk to our team today.
+- [Casino Lobby Design Services](https://www.sudonex.com/casino-lobby-design/): Turn browsers into depositors with conversion-led casino lobby design: personalized layouts and mobile-first UX proven across 17 markets. Get a quote.
+- [Casino MVP Development Company](https://www.sudonex.com/casino-mvp-development/): Launch a certified casino MVP on architecture you own, built to scale without a rebuild by a team live in 17 markets since 2018. Book a scoping call.
+- [Casino Payment Gateway Integration](https://www.sudonex.com/casino-payment-integration/): Get paid reliably with secure casino payment integration: PCI DSS, KYC/AML, crypto, multi-currency and smart routing you own end to end. Get a quote today.
+- [iGaming Conversion Rate Optimization](https://www.sudonex.com/conversion-rate-optimization/): See why responsible gambling drives 2.92x player loyalty, plus the KYC-friction and payment benchmarks that lift retention. Read before you optimize.
+- [Crypto Casino Development Company](https://www.sudonex.com/crypto-casino-development/): Own a provably fair crypto casino: smart contracts, multi-chain wallets and blockchain gaming built to licensed-grade standards since 2018. Get a quote.
+- [Crypto Payment Integration for Casinos](https://www.sudonex.com/crypto-payment-integration/): Accept crypto with confidence: multi-chain deposits, stablecoin support, on-chain settlement and KYC/AML controls you fully own. Book a scoping call today.
+- [Custom Casino Software Development](https://www.sudonex.com/custom-casino-software-development/): Own your platform outright: bespoke casino software engineered for licensed-grade compliance by an iGaming team building since 2018. Book a scoping call.
+- [Custom Slot Game Development](https://www.sudonex.com/custom-slot-game-development/): Build unique, revenue-driving slots with RNG-certified math, full GDD and clean iGaming integrations, ready for GLI-19 sign-off. Book a scoping call today.
+- [HTML5 Slot Game Development Services](https://www.sudonex.com/html5-slot-game-development/): Ship cross-platform HTML5 slots with certified RNG, sharp PAR-sheet math and studio-grade art that run in any browser. Book a scoping call to get building.
+- [iGaming Bug Fixing & 24/7 Support](https://www.sudonex.com/igaming-bug-fixing/): Kill launch failures, RNG errors, payment faults and compliance defects fast, with 24/7 support from specialists live in 17 markets. Book a scoping call.
+- [iGaming Startup Consulting Services](https://www.sudonex.com/igaming-startup-consulting/): Turn your idea into a live operator with licensing strategy, tech architecture and go-to-market planning from a team building since 2018. Get a quote.
+- [iGaming Wireframe Design Services](https://www.sudonex.com/igaming-wireframe-design/): See the casino lobby architecture, UKGC compliance UX and mobile-first flows that convert, plus real ROI benchmarks. Read before you brief a design agency.
+- [KYC/AML Integration for iGaming](https://www.sudonex.com/kyc-aml-api-integration/): Wire identity verification, sanctions screening and transaction monitoring into your platform without slowing deposits, built to own. Book a scoping call.
+- [Betting Liquidity Management Software](https://www.sudonex.com/liquidity-management-system/): Balance your book in real time with liquidity management software: live risk assessment, automated settlement and market-depth monitoring. Book a call.
+- [Live Casino & Live Dealer Development](https://www.sudonex.com/live-casino-app-development/): Launch live dealer games with studio-grade streaming, sub-second latency and licensed-grade compliance, built to own across 17 markets. Get a demo today.
+- [iGaming MVP to Scale Roadmap](https://www.sudonex.com/mvp-to-scale-roadmap/): Grow from launch to high concurrency without a costly rebuild, on architecture designed to scale by a team live in 17 markets. Book a scoping call today.
+- [Casino Payment Gateway Integration Guide](https://www.sudonex.com/payment-gateway-integration/): Understand PSP selection, cascading, KYC/AML and multi-currency routing before you integrate, explained by a team live in 17 markets. Book a scoping call.
+- [Peer-to-Peer Betting Platform Development](https://www.sudonex.com/peer-to-peer-betting-system/): Build a P2P betting platform with smart contracts, AMM liquidity and KYC/AML compliance as custom software you fully own. Get a quote to scope your build.
+- [Casino App Performance Optimization](https://www.sudonex.com/performance-optimization/): Survive peak events without losing revenue: distributed SQL, ultra-low-latency IAM and load tuning from a team live in 17 markets. Book a scoping call.
+- [Progressive Jackpot Slot Development](https://www.sudonex.com/progressive-jackpot-slot-games/): Build networked progressive jackpots with certified RNG, shared pools and precise PAR-sheet math, ready for GLI-19 sign-off. Book a scoping call today.
+- [Real Money Casino App Development](https://www.sudonex.com/real-money-casino-app-development/): Launch a real money casino app with licensed-grade compliance, secure payments and certified games you fully own, built since 2018. Get a quote to start.
+- [Real-Time Odds Engine Development](https://www.sudonex.com/real-time-odds-engine/): Publish odds in under 200ms with Skellam models, Kafka pipelines and AI fraud detection engineered to own, live in 17 markets. Book a scoping call today.
+- [RNG Integration Testing](https://www.sudonex.com/rng-integration-testing/): Pass certification the first time: GLI-19, iTech Labs, BMM and MGA-aligned statistical analysis, entropy review and audit-ready reports. Book a call.
+- [iGaming Security Audit & Pen Testing](https://www.sudonex.com/security-audit-penetration-testing/): Protect your platform with RNG verification, PCI DSS 4.0 and GLI-GSF-1 aligned security audits and penetration testing from experts. Get a quote today.
+- [Slot Game Math & RNG Development](https://www.sudonex.com/slot-game-math-rng/): Get slot math and RNG right: RTP, volatility, PAR sheets, NIST SP 800-22 and GLI-11 certification handled for studios. Book a scoping call today.
+- [Sports Trading Platform Development](https://www.sudonex.com/sports-trading-platform/): Build a custom sportsbook with real-time APIs, WebSocket feeds and risk management engineered for scale and full ownership. Get a quote today to start.
+- [Sportsbook MVP Development](https://www.sudonex.com/sportsbook-mvp-development/): See the real component costs, pre-match vs live betting strategy, US licensing reality and AI integration for a sportsbook MVP. Read before you build.
+- [Sportsbook UI/UX Design](https://www.sudonex.com/sportsbook-ui-ux-design/): Design live betting flows that convert: data visualization, cognitive-load control and real ROI benchmarks explained for operators. Read the full guide.
+- [Unity Slot Game Development](https://www.sudonex.com/unity-slot-game-development/): Build RNG-certified Unity slots with modular C# architecture, URP visuals and cross-platform deployment, ready for GLI sign-off. Book a scoping call today.
+- [White Label Casino Software Provider](https://www.sudonex.com/white-label-casino-software/): Go turnkey with thousands of games, MGA and Curacao licensing and AI-powered CRM in one platform, from GLI-19 experts. Book a scoping call to launch fast.
+
+
+## Packaged Solutions
+- [iGaming Software Providers 2026](https://www.sudonex.com/igaming-software-providers/): Platform vs game studio vs aggregator vs white-label vs custom: the stack to demand and how to choose the best provider in 2026. Read the full comparison.
+- [Crypto Casino Solutions](https://www.sudonex.com/solutions/crypto-casino-solutions/): Own a provably fair crypto casino with on-chain wallets and multi-chain deposits, in KYC-light or KYC-mandatory setups. Book a scoping call to pick yours.
+- [Custom iGaming Software Solutions](https://www.sudonex.com/solutions/custom-igaming-software-solutions/): When off-the-shelf no longer fits, own custom iGaming software from discovery to launch, built across 17 markets. See the architecture and cost ranges.
+- [Enterprise iGaming Platforms](https://www.sudonex.com/solutions/enterprise-igaming-platforms/): Run multi-brand, multi-region operations on microservice architecture with observability, scaling to 100k+ concurrent users. See how we build to own it.
+- [iGaming Startup Solutions](https://www.sudonex.com/solutions/igaming-startup-solutions/): Go from seed to Series A on fundraising-ready architecture, with MVP scope and a post-MVP roadmap built to own. Book a scoping call to plan your launch.
+- [Real Money Gaming Solutions](https://www.sudonex.com/solutions/real-money-gaming-solutions/): Launch in regulated markets with jurisdictional licensing, payment rails, fraud and AML controls and GLI/iTech RNG certification. See how we build it.
+- [White Label Casino Solutions](https://www.sudonex.com/solutions/white-label-casino-solutions/): Go live in 4 to 8 weeks with a pre-built lobby, payments, KYC and RNG-tested games, plus licensing handoff from GLI-19 experts. Book a scoping call today.
+
+
+## Industries Served
+- [Crypto Gambling Platform Development](https://www.sudonex.com/industries/crypto-gambling-platforms/): Build web3 casinos with on-chain provably fair games, multi-chain wallets and compliance tooling you fully own, live in 17 markets. See how we can help.
+- [Game Aggregator Platform Development](https://www.sudonex.com/industries/game-aggregators/): Build aggregator platforms with multi-vendor SDKs, RGS integrations and revenue-share infrastructure you own, live in 17 markets. See how we can help you.
+- [iGaming Startup Development Partner](https://www.sudonex.com/industries/igaming-startups/): Go from idea to live operator with MVPs, funding-ready prototypes and growth platforms built to own by a team live in 17 markets. See how we can help you.
+- [iGaming Tech Due Diligence & M&A](https://www.sudonex.com/industries/investors-enterprises/): De-risk your iGaming deal with technical due diligence, platform audits and M&A support from specialists building since 2018. See how we can help you.
+- [Casino Operator Software Development](https://www.sudonex.com/industries/online-casino-operators/): Grow GGR with platforms, integrations and compliance tooling built for online casino operators across regulated and grey markets. See how we can help you.
+- [Sportsbook & Exchange Development](https://www.sudonex.com/industries/sports-betting-operators/): Power your book with sportsbook engines, betting exchanges, trading tools and odds infrastructure you own, live in 17 markets. See how we can help you win.
+
+
+## Guides & Resources
+- [Casino App Development Guide 2026](https://www.sudonex.com/resources/casino-app-development-guide/): Plan your casino app the right way in 2026: real tech stacks, build costs, timelines and compliance, from a team live in 17 markets. Read the full guide.
+- [Casino Lobby Design Guide](https://www.sudonex.com/resources/casino-lobby-design-guide/): Learn the layout, personalization and mobile-first patterns that lift player engagement and retention, from a team live in 17 markets. Read the full guide.
+- [Casino Security Guide 2026](https://www.sudonex.com/resources/casino-security-guide/): See how AI surveillance, 256-bit AES, KYC/AML, RNG certification and DDoS protection keep casinos safe in 2026, from GLI-19 experts. Read the full guide.
+- [Casino Software Development Cost Guide](https://www.sudonex.com/resources/casino-software-cost-guide/): See what casino software really costs, from MVP to enterprise, and the licensing and platform factors that move the budget. Read before you commit spend.
+- [Hire iGaming Software Developers](https://www.sudonex.com/resources/hire-igaming-software-developers/): How to hire iGaming software developers: in-house vs agency vs freelance, red flags and questions to ask. GLI-19-ready specialists live since 2018.
+- [How Betting Exchanges Work](https://www.sudonex.com/resources/how-betting-exchanges-work/): Back vs lay betting, commission models, liquidity and matching engines explained in one clear operator guide from specialists live in 17 markets. Read on.
+- [How to Build an Online Casino 2026](https://www.sudonex.com/resources/how-to-build-online-casino/): Licensing, architecture, payments, content and compliance explained, with budget tiers from a 50k MVP to 750k-plus enterprise build. Read the full guide.
+- [How to Launch an iGaming Startup](https://www.sudonex.com/resources/how-to-launch-igaming-startup/): Licensing routes, tech stack, payment gateways, budgets and the retention science behind platforms that last, live in 17 markets. Read the full guide.
+- [iGaming API Integration Guide](https://www.sudonex.com/resources/igaming-api-integration-guide/): API types, real integration costs, WebSocket vs REST architecture and KYC/AML considerations explained clearly for operators. Read before you integrate.
+- [iGaming Certification & Testing Guide](https://www.sudonex.com/resources/igaming-certification-testing-guide/): How GLI-19, RNG and RTP testing works, the accredited test houses and the steps to pass on first submission, from GLI-19 experts. Read the full guide.
+- [iGaming Maintenance Best Practices](https://www.sudonex.com/resources/igaming-maintenance-best-practices/): The practices behind 99.9% uptime, secure payments and peak performance, from a team running live platforms in 17 markets. Read the operations playbook.
+- [iGaming MVP Guide 2026](https://www.sudonex.com/resources/igaming-mvp-guide/): Why 75% of iGaming startups fail, plus real costs, Curacao vs MGA licensing and the retention science that works. Read before you build your MVP.
+- [iGaming Platform SLA & Uptime Guide 2026](https://www.sudonex.com/resources/igaming-platform-sla-uptime-guide/): What SLA and uptime to demand from an iGaming platform so downtime never costs you bets. Engineered for reliability since 2018. Read the operator's guide.
+- [iGaming Software Development Cost 2026](https://www.sudonex.com/resources/igaming-software-development-cost/): How much does iGaming software development cost in 2026? Real budget tiers for MVP, mid and enterprise builds from a GLI-19-ready studio. Get a scope.
+- [iGaming Software Development Process](https://www.sudonex.com/resources/igaming-software-development-process/): The iGaming software development process step by step: discovery to launch, PAM to certification, with realistic timelines from a team live since 2018.
+- [iGaming Tech Stack Explained](https://www.sudonex.com/resources/igaming-tech-stack/): What a modern iGaming tech stack is built on: backend, wallet, RNG, aggregation and payments, explained by a GLI-19-ready studio live since 2018.
+- [iGaming UI/UX Best Practices](https://www.sudonex.com/resources/igaming-ui-ux-best-practices/): Mobile-first design, responsible-gambling visibility, account-closure flows and 2026 UKGC compliance explained for operators. Read the full guide here.
+- [Payment Gateway for Casino Guide](https://www.sudonex.com/resources/payment-gateway-for-casino/): Choose the right casino payment gateway: real costs, rolling reserves, AML red flags and UK/US compliance explained. Read this before you integrate one.
+- [Slot Game Development Guide 2026](https://www.sudonex.com/resources/slot-game-development-guide/): Plan a slot the right way in 2026: math and RTP, volatility, RNG certification and production explained by GLI-19 experts. Read the full development guide.
+- [Slot Game Math & RTP Guide](https://www.sudonex.com/resources/slot-game-math-rtp/): RTP targets, volatility, hit frequency and PAR sheets explained for studios building certifiable slots, by GLI-19 experts. Read the technical design guide.
+- [Slot Game RNG Explained](https://www.sudonex.com/resources/slot-game-rng-explained/): How PRNG algorithms, modulo mapping, virtual reels and GLI-11 certification make every spin truly fair, explained by RNG experts. Read the full guide.
+- [Sports Exchange vs Sportsbook](https://www.sudonex.com/resources/sports-exchange-vs-sportsbook/): Compare revenue models, tech requirements, player experience and build effort in one operator decision guide from specialists live in 17 markets. Read on.
+
+
+## Case Studies
+- [Casino App Build Case Study](https://www.sudonex.com/case-studies/casino-app-development/): How we shipped a native casino app and PWA for a Tier-1 European operator across MGA and UKGC markets, fully certified and owned. See how it came together.
+- [Crypto Casino Build Case Study](https://www.sudonex.com/case-studies/crypto-casino-platforms/): How we built a multi-chain crypto casino with on-chain provably fair games and custodial and non-custodial wallets, owned outright. See the approach.
+- [Enterprise Replatforming Case Study](https://www.sudonex.com/case-studies/enterprise-igaming-platforms/): How we replatformed a multi-brand iGaming group across four brands and six jurisdictions with zero downtime and full source ownership. See how it was done.
+- [12-Week iGaming MVP Case Study](https://www.sudonex.com/case-studies/igaming-mvp-launches/): How we took a funded iGaming startup from kickoff to certified casino launch in just 12 weeks, on architecture they own. See the sprint-by-sprint story.
+- [Custom Slot Suite Case Study](https://www.sudonex.com/case-studies/slot-game-development/): How we built a six-title slot suite for a studio, from PAR-sheet math and art integration to RGS and GLI certification. See how the games reached market.
+- [Sports Exchange Build Case Study](https://www.sudonex.com/case-studies/sports-exchange-development/): How we built a peer-to-peer sports betting exchange with order book and matching engine for a regulated operator that owns every line. See the build.
+
+## Company
+- Founded: 2018 · Custom iGaming software development
+- Contact: Sudonexofficial@gmail.com · WhatsApp +91 8252595013
+- Homepage: https://www.sudonex.com/

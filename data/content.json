@@ -21716,6 +21716,30 @@
     "schemas": [
       {
         "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Resources",
+            "item": "https://sudonex.com/resources/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "iGaming Software Certification & Testing: GLI-19, RNG and Compliance Explained",
+            "item": "https://sudonex.com/resources/igaming-certification-testing-guide/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
         "@type": "Article",
         "headline": "iGaming Software Certification & Testing: GLI-19, RNG and Compliance Explained",
         "description": "How iGaming software certification works: GLI-19, RNG and RTP testing, accredited test houses, the process step by step, and how to pass first time.",
@@ -21946,6 +21970,30 @@
       }
     ],
     "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Solutions",
+            "item": "https://sudonex.com/solutions/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "iGaming Software Providers in 2026: Types, Stack and How to Choose the Best",
+            "item": "https://sudonex.com/igaming-software-providers/"
+          }
+        ]
+      },
       {
         "@context": "https://schema.org",
         "@type": "Service",
@@ -22222,6 +22270,30 @@
     "schemas": [
       {
         "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "iGaming Software Development: Build, Certify and Own Your Platform",
+            "item": "https://sudonex.com/igaming-software-development/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
         "@type": "Service",
         "name": "iGaming Software Development",
         "serviceType": "iGaming software development",
@@ -22464,6 +22536,30 @@
     "schemas": [
       {
         "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Resources",
+            "item": "https://sudonex.com/resources/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "iGaming Software Development Cost: Realistic 2026 Budget Tiers",
+            "item": "https://sudonex.com/resources/igaming-software-development-cost/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
         "@type": "Article",
         "headline": "iGaming Software Development Cost: Realistic 2026 Budget Tiers",
         "author": {
@@ -22657,6 +22753,30 @@
     "schemas": [
       {
         "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Resources",
+            "item": "https://sudonex.com/resources/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The iGaming Software Development Process, Step by Step",
+            "item": "https://sudonex.com/resources/igaming-software-development-process/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
         "@type": "Article",
         "headline": "The iGaming Software Development Process, Step by Step",
         "author": {
@@ -22846,6 +22966,30 @@
     "schemas": [
       {
         "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Resources",
+            "item": "https://sudonex.com/resources/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "iGaming Tech Stack: What a Modern Platform Is Built On",
+            "item": "https://sudonex.com/resources/igaming-tech-stack/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
         "@type": "Article",
         "headline": "iGaming Tech Stack: What a Modern Platform Is Built On",
         "author": {
@@ -23025,6 +23169,30 @@
       }
     ],
     "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Resources",
+            "item": "https://sudonex.com/resources/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "How to Hire iGaming Software Developers: The Operator's Guide",
+            "item": "https://sudonex.com/resources/hire-igaming-software-developers/"
+          }
+        ]
+      },
       {
         "@context": "https://schema.org",
         "@type": "Article",
@@ -23210,6 +23378,30 @@
       }
     ],
     "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Resources",
+            "item": "https://sudonex.com/resources/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "iGaming Platform SLA and Uptime: What Operators Should Demand",
+            "item": "https://sudonex.com/resources/igaming-platform-sla-uptime-guide/"
+          }
+        ]
+      },
       {
         "@context": "https://schema.org",
         "@type": "Article",

@@ -21,8 +21,12 @@ export const metadata: Metadata = {
     apple: [{ url: '/apple-touch-icon.png', type: 'image/png', sizes: '180x180' }],
     shortcut: '/favicon.ico',
   },
-  openGraph: { type: 'website', siteName: 'Sudonex' },
-  twitter: { card: 'summary_large_image' },
+  openGraph: {
+    type: 'website',
+    siteName: 'Sudonex',
+    images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Sudonex — iGaming Software Development Company' }],
+  },
+  twitter: { card: 'summary_large_image', images: ['/og-image.png'] },
   verification: {
     google: 'pU6azMxrGi8f69yZzdu-MYeavxCeqMwRXj5P5naBgZA',
   },

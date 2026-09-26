@@ -39,11 +39,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       description: page.meta_description,
       type: page.layer === 'resource' ? 'article' : 'website',
       url: page.canonical || path,
+      images: [{ url: '/og-image.png', width: 1200, height: 630, alt: page.seo_title }],
     },
     twitter: {
       card: 'summary_large_image',
       title: page.seo_title,
       description: page.meta_description,
+      images: ['/og-image.png'],
     },
     other: {
       'sudonex-cluster': page.cluster || '',
