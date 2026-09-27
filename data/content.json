@@ -2027,6 +2027,11 @@
         "to": "/igaming-software-development/",
         "anchor": "iGaming software development",
         "reason": "pillar-cluster"
+      },
+      {
+        "to": "/casino-game-development/",
+        "anchor": "casino game development",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -2797,6 +2802,11 @@
         "to": "/contact/",
         "anchor": "request a technical consultation",
         "reason": "funnel-down"
+      },
+      {
+        "to": "/casino-game-development/",
+        "anchor": "casino game development",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -4589,6 +4599,11 @@
         "to": "/contact/",
         "anchor": "request a custom build quote",
         "reason": "funnel-down"
+      },
+      {
+        "to": "/casino-game-development/",
+        "anchor": "casino game development",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -18246,6 +18261,11 @@
         "to": "/igaming-software-development/",
         "anchor": "custom iGaming software development",
         "reason": "pillar-cluster"
+      },
+      {
+        "to": "/casino-game-development/",
+        "anchor": "casino game development",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -22452,6 +22472,11 @@
         "to": "/resources/igaming-platform-sla-uptime-guide/",
         "anchor": "iGaming platform SLA and uptime",
         "reason": "cluster-support"
+      },
+      {
+        "to": "/casino-game-development/",
+        "anchor": "casino game development",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -23523,5 +23548,274 @@
       "/resources/"
     ],
     "audit_missing": []
+  },
+  "/casino-game-development/": {
+    "path": "/casino-game-development/",
+    "layer": "service",
+    "seo_title": "Casino Game Development Company | Custom | Sudonex",
+    "meta_description": "Build certified casino games you fully own — slots, table, live and crash — engineered for GLI-19 and iTech Labs sign-off since 2018. Get a quote to start.",
+    "h1": "Casino Game Development Company 2026: Types, Cost & Certification Guide",
+    "canonical": "https://www.sudonex.com/casino-game-development/",
+    "body_html": "<p>The phrase \"casino game development\" hides an enormous range of scope. A single-payline three-reel slot and a multi-camera live dealer studio are both casino games, but they share almost no engineering, math, or certification path. The gap between them is where most operator budgets go wrong — commissioning a studio priced for one when the roadmap actually needs the other. This guide sets out what a casino game development company genuinely builds in 2026: the game types and why each carries a different cost and timeline, the math and RNG certification that decides whether a title can go live at all, the technology and aggregator plumbing that gets it in front of players, and what a realistic budget looks like across the range.</p>\n<p>Sudonex has built iGaming software since 2018 as a custom development company — we engineer on owned technology rather than reselling a white-label template, which means the math model, the game client, the RNG, and the certification package are all things we produce and can defend in a lab audit. That distinction matters more than any feature list, and it runs through every section below.</p>\n<h2 id=\"what-does-a-casino-game-development-company-actually-do\">What Does a Casino Game Development Company Actually Do?</h2>\n<p>A casino game development company designs, engineers, and certifies the individual games that run inside a casino platform — the slots, table games, live dealer streams, and instant-win titles players actually wager on — as distinct from the platform layer (wallet, PAM, cashier, admin) that hosts and manages them. The two are frequently confused, and the confusion is expensive: a <a href=\"https://www.sudonex.com/casino-app-development/\">casino app development company</a> builds the container and the operator systems, whereas game development builds the certified content that goes inside it.</p>\n<p>Game development spans five workstreams that each carry their own specialists. Concept and math design define the theme, mechanics, RTP, and volatility before a line of client code exists. Art and audio production build the symbols, animations, UI, and adaptive sound. Client engineering builds the playable game in HTML5 or Unity. RNG and server integration wire the game to a Random Number Generator and a Remote Game Server so it can process real-money rounds. Certification and compliance submit the finished title to an accredited laboratory for the sign-off that makes it legal to deploy. Skip or under-resource any one of these and the title either fails certification, underperforms commercially, or cannot be distributed at all.</p>\n<p>The commercial context is a market growing at roughly 7.7% CAGR through 2033, and that growth has intensified competition to the point where an undercertified or mathematically weak title does not merely underperform — it never reaches players, because aggregators and licensed operators will not distribute a game without a valid lab certificate. Game quality is now a distribution gate, not just a retention lever.</p>\n<h2 id=\"types-of-casino-games-we-develop\">Types of Casino Games We Develop</h2>\n<p>The single most useful thing an operator can do before briefing a studio is understand that \"casino game\" is a category, not a product. Each type below has a distinct engineering profile, math complexity, and certification burden.</p>\n<h3 id=\"slot-games\">Slot Games</h3>\n<p>Slots are the highest-volume casino game category and the most math-intensive relative to their visual simplicity. The RTP, volatility curve, and hit frequency are defined in a mathematical model — reel strips, symbol weightings, pay-rule prioritisation — before art or code begins. Everything from a classic three-reel title to a five-reel game with free spins, expanding wilds, and progressive jackpots falls here. Sudonex handles the full pipeline including the <a href=\"https://www.sudonex.com/slot-game-math-rng/\">slot game math and RNG development</a> that certification labs audit line by line, and delivers <a href=\"https://www.sudonex.com/custom-slot-game-development/\">custom slot game development</a> where the mechanic itself is proprietary rather than a reskin.</p>\n<h3 id=\"table-games\">Table Games</h3>\n<p>Table games — blackjack, roulette, baccarat, craps, and their variants — are mathematically well-defined by the rules of the game itself, so the modelling burden shifts from designing a payout curve to correctly implementing established odds and side-bet mathematics without introducing an RTP error. The engineering challenge is state management and bet resolution: a single roulette round can carry dozens of simultaneous bet types that must each resolve correctly and be independently auditable. RNG certification still applies to every outcome.</p>\n<h3 id=\"live-casino-games\">Live Casino Games</h3>\n<p>Live casino replaces the RNG with a real human dealer and a physical or studio-based game, streamed in real time with a betting layer overlaid. This is the most infrastructure-heavy game type: HD or 4K multi-camera capture, sub-second-latency streaming, optical character recognition to digitise physical outcomes, studio construction and dealer staffing, and a betting client that stays synchronised with the stream. Operators exploring this route should read our <a href=\"https://www.sudonex.com/live-casino-app-development/\">live casino app development</a> breakdown, because the software quote is only a fraction of the real cost.</p>\n<h3 id=\"crash-and-instant-games\">Crash and Instant-Win Games</h3>\n<p>Crash games, plinko-style titles, dice, and other instant-win formats have exploded in popularity through crypto-native platforms since 2023. Mechanically they are simple — a single provably fair multiplier or outcome per round — but that simplicity is exactly why the RNG or provably-fair implementation carries the entire trust burden. A crash game with a weak or unverifiable randomness source has no other layer to hide behind, which is why cryptographic RNG design is the core engineering task here rather than an afterthought.</p>\n<h3 id=\"video-poker-and-specialty-games\">Video Poker and Specialty Games</h3>\n<p>Video poker, keno, scratchcards, and bingo variants round out most operator catalogues. Video poker in particular rewards precise math implementation — the theoretical return of a given pay table is exactly calculable, and players who understand optimal strategy will notice a misconfigured one. Specialty games are typically fast to build but still require full RNG certification before deployment.</p>\n<h2 id=\"game-math-rtp-and-rng-certification\">Game Math, RTP and RNG Certification</h2>\n<p>The mathematics underneath a casino game determines whether it certifies, whether it retains players, and whether it generates the margin the business model requires. It is also the phase most first-time operators underestimate.</p>\n<h3 id=\"the-math-model\">The Math Model and RTP</h3>\n<p>RTP — Return to Player — is the average return expressed as a percentage of the average bet across millions of cycles, calculated as RTP = (Average Win / Average Bet) x 100. It is not a dial you set; it is the sum of the individual contributions of every pay rule in the game. A base game might contribute 85% and a bonus feature the remaining 11% for a 96% total. Change a multiplier or a trigger frequency and you change the certified RTP, which is why the model must be finalised and simulated before development starts. Volatility (the risk-reward distribution) and hit frequency (the share of spins that win anything) are set in the same phase and define the game's feel as much as the art does.</p>\n<h3 id=\"rng-certification-gli-19-and-itech-labs\">RNG Certification — GLI-19 and iTech Labs</h3>\n<p>No casino game goes live at a licensed operator without passing an independent laboratory audit. The core of that audit is RNG verification: the Random Number Generator must demonstrate that outcomes are statistically random, independently distributed, and unaffected by prior results. GLI-19 is the interactive-systems standard most widely referenced by regulators, and laboratories including <a href=\"https://www.gaminglabs.com/\">Gaming Laboratories International (GLI)</a> and <a href=\"https://itechlabs.com/\">iTech Labs</a> conduct the certification, reviewing the RNG algorithm, its seeding, the mathematical model, and full simulation outputs proving RTP convergence. Sudonex builds to GLI-19 and iTech readiness by default and is fluent in the additional player-protection requirements imposed by the <a href=\"https://www.gamblingcommission.gov.uk/\">UK Gambling Commission (UKGC)</a> and the Malta Gaming Authority (MGA) — the two regimes that set the ceiling most operators build toward. Building to the strictest applicable standard once is far cheaper than retrofitting compliance after a failed submission.</p>\n<h2 id=\"the-technology-html5-unity-and-aggregator-integration\">The Technology: HTML5, Unity and Aggregator Integration</h2>\n<p>The engine and distribution decisions determine a game's reach and how cleanly it plugs into the operators who will actually run it.</p>\n<h3 id=\"html5-vs-unity\">HTML5 vs Unity</h3>\n<p>HTML5, combined with JavaScript and WebGL, is the default for casino game development because it runs instantly in any mobile or desktop browser with no installation and integrates directly into browser-based operator environments. With more than 70% of casino sessions now on smartphones in most markets, that frictionless mobile delivery is decisive. Unity (C#) becomes the right choice when a title needs richer 3D animation, complex bonus cinematics, or native cross-platform builds from a single codebase — typically premium or branded games where visual differentiation is the product. The two are not quality tiers; they serve different distribution strategies, and picking the wrong one means rebuilding.</p>\n<h3 id=\"rgs-and-aggregator-integration\">RGS and Aggregator Integration</h3>\n<p>A finished game cannot process a real bet on its own. It communicates with an operator through a Remote Game Server (RGS) that manages sessions, bet placement, RNG calls, result processing, and wallet integration. Distribution then happens through aggregators — the platforms that carry a studio's catalogue to dozens of operators through a single integration. Sudonex builds both the game-side adapters and the operator-side connections, and our <a href=\"https://www.sudonex.com/casino-game-aggregator-api/\">casino game aggregator API integration</a> work is what lets a certified title reach the aggregator footprint operators genuinely use rather than a theoretical one. Confirming which RGS and aggregators your target operators support before briefing is one of the cheapest ways to avoid a costly integration surprise.</p>\n<h2 id=\"casino-game-development-cost-and-timeline\">Casino Game Development Cost and Timeline</h2>\n<p>Cost tracks game type and production tier more than anything else. A simple three-reel HTML5 slot starts around $30,000; a feature-rich five-reel title runs $70,000–$180,000; a premium 3D or branded production reaches $170,000–$425,000 or more. Table games typically fall between $25,000 and $80,000 depending on variant and side-bet complexity. Live casino sits in its own category — $100,000 to $300,000+ once studio, streaming, and staffing are counted, because most of that cost sits outside the software. Certification is a separate line item of roughly $8,000–$35,000 per jurisdiction, and a failed submission adds $10,000–$30,000 in rework.</p>\n<div class=\"table-wrap\"><table class=\"data-table\">\n<thead>\n<tr><th>Game Type</th><th>Development Cost</th><th>Timeline</th><th>Best For</th></tr>\n</thead><tbody>\n<tr><td>Simple 3-reel slot</td><td>$30,000–$60,000</td><td>3–5 months</td><td>Market testing, branded content</td></tr>\n<tr><td>Feature-rich 5-reel slot</td><td>$70,000–$180,000</td><td>5–8 months</td><td>Flagship catalogue titles</td></tr>\n<tr><td>Table game (blackjack, roulette)</td><td>$25,000–$80,000</td><td>3–5 months</td><td>Core catalogue coverage</td></tr>\n<tr><td>Crash / instant-win game</td><td>$25,000–$70,000</td><td>2–4 months</td><td>Crypto-native platforms</td></tr>\n<tr><td>Live casino title</td><td>$100,000–$300,000+</td><td>6–12 months</td><td>Premium / VIP segments</td></tr>\n<tr><td>Premium 3D / branded</td><td>$170,000–$425,000+</td><td>8–14 months</td><td>Visual differentiation</td></tr>\n</tbody>\n</table></div>\n<p>The highest-leverage decision an operator makes is investing properly in the math model. A studio pricing the modelling phase below $5,000 for anything past a basic three-reel game is cutting a corner that surfaces as an RTP error at certification — the single most common rejection reason, and the one that costs multiples to fix after the fact.</p>\n<h2 id=\"why-sudonex-for-casino-game-development\">Why Sudonex for Casino Game Development</h2>\n<p>Sudonex is a custom casino game development company, not a white-label reseller. We own the technology we build on, which means when a lab asks how the RNG is seeded or where an RTP contribution comes from, the answer is documented in source we wrote rather than in a vendor's black box. That ownership is the difference between a certification package that passes first time and one that enters a remediation cycle.</p>\n<p>We have built iGaming software since 2018, our math and engineering teams work in-house rather than through freelance handoffs, and we build to GLI-19 and iTech readiness with MGA and UKGC fluency baked into the design spec from the first sprint. Whether you need a single certified title, a full studio catalogue, or a game plugged into an existing operator platform through the aggregator layer, the delivery is sequenced as one pipeline — math, art, engineering, and certification — rather than a set of disconnected phases. It sits within our broader <a href=\"https://www.sudonex.com/igaming-software-development/\">iGaming software development</a> practice, so the game, the platform, and the integrations come from one engineering partner.</p>\n<h2 id=\"frequently-asked-questions\">Frequently Asked Questions</h2>\n<h3>Q: How much does casino game development cost?</h3>\n<p>Casino game development cost ranges from about $30,000 for a simple three-reel HTML5 slot to $425,000 or more for a premium 3D or branded production. Table games typically run $25,000–$80,000, crash and instant-win games $25,000–$70,000, and live casino titles $100,000–$300,000+ once studio and streaming infrastructure are included. Certification adds $8,000–$35,000 per jurisdiction on top of development. The single most cost-effective investment is a thorough mathematical modelling phase, because RTP errors caught at certification cost multiples of what accurate modelling would have.</p>\n<h3>Q: What types of casino games can you develop?</h3>\n<p>Sudonex develops slots (classic, video, and progressive jackpot), table games (blackjack, roulette, baccarat, craps and variants), live dealer games, crash and instant-win titles, and specialty games including video poker, keno, scratchcards, and bingo. Each type carries a distinct math, engineering, and certification profile, and we handle the full pipeline from concept and math design through art, client engineering, RNG integration, and lab certification.</p>\n<h3>Q: What certifications does a casino game need before launch?</h3>\n<p>Every casino game requires certification from an accredited independent testing laboratory before it can go live at a licensed operator. The audit covers the RNG implementation, the mathematical model, simulation outputs proving RTP convergence, and responsible gambling feature compliance. GLI-19 is the most widely referenced interactive-systems standard, and labs including GLI and iTech Labs perform the testing. UKGC and MGA impose additional player-protection requirements, and a game certified for one jurisdiction cannot be assumed to meet another's without further review.</p>\n<h3>Q: Are you a white-label provider or a custom developer?</h3>\n<p>Sudonex is a custom development company. We engineer on technology we own rather than reselling a white-label template, which means the math model, game client, RNG, and certification package are all things we produce and can defend in a lab audit. This is the key distinction for operators who need proprietary mechanics, full technical ownership, and a certification package that passes first time rather than a reskin of a shared codebase.</p>\n<h3>Q: How long does it take to develop a casino game?</h3>\n<p>A simple three-reel slot takes roughly three to five months from brief to certified launch, a feature-rich five-reel title five to eight months, and a premium 3D or branded game eight to fourteen months. Table games and crash games are typically faster (two to five months), while live casino titles take six to twelve months because of studio, streaming, and staffing setup. Certification adds four to eight weeks depending on jurisdiction, with UKGC and US state submissions taking longer than MGA.</p>\n<h3>Q: What is RTP and can I set a custom value?</h3>\n<p>RTP (Return to Player) is the average percentage of wagered money a game returns over millions of cycles, calculated as (Average Win / Average Bet) x 100. It is a commissioned specification, not a fixed standard — operators typically request values between 94% and 97%, and our mathematicians model the pay table and symbol weightings to hit the target. Multiple RTP variants can be built into a single title and toggled at the RGS level to meet different operator platform requirements.</p>\n<h3>Q: What is the difference between HTML5 and Unity for casino games?</h3>\n<p>HTML5 (with JavaScript and WebGL) produces instant-play browser games that run on any device with no installation and integrate directly into browser-based operator platforms — the default choice given mobile-dominant play. Unity (C#) suits titles needing richer 3D animation, complex bonus cinematics, or native cross-platform builds, typically premium or branded games. They serve different distribution strategies rather than different quality levels, and the choice should be confirmed at the briefing stage because switching later means rebuilding.</p>\n<h3>Q: How do casino games get distributed to operators?</h3>\n<p>A finished game connects to operators through a Remote Game Server (RGS) that manages sessions, bet placement, RNG calls, and wallet integration, then distributes through aggregators that carry a studio's catalogue to many operators via a single integration. Sudonex builds both the game-side adapters and the operator-side aggregator connections. Confirm which RGS and aggregators your target operators support before briefing, as this determines integration scope and compatibility.</p>\n<h3>Q: Can you build provably fair crash and crypto games?</h3>\n<p>Yes. Provably fair games use a cryptographic commitment scheme — the server commits to a seed before the round, the player contributes random input, and the outcome can be independently verified afterward. This is core to crash games and crypto-native platforms where players expect decentralised verification. Provably fair architecture is typically implemented in Rust for cryptographic security and does not map directly onto traditional lab certification pathways, so the right choice depends on your target market and licensing regime.</p>\n<h3>Q: How do I choose the right casino game development company?</h3>\n<p>Evaluate the number of certified titles shipped through your target jurisdiction's labs, whether math modelling is handled in-house by credentialed mathematicians, whether the company can provide prior RNG certification documentation, contract terms for RTP discrepancy rectification, which RGS and aggregators they already integrate with, and their post-launch support SLA. A custom developer that owns its technology carries materially lower certification and delivery risk than a white-label reseller. Request a sample pay table and a prior lab certificate before signing.</p>\n<h2 id=\"sources-amp-references\">Sources &amp; References</h2>\n<ul><li>Gaming Laboratories International — gaminglabs.com — GLI-19 interactive systems RNG certification standard and US state-by-state variance cited in the certification section</li><li>iTech Labs — itechlabs.com — RNG testing and certification process cited in the certification section</li><li>UK Gambling Commission — gamblingcommission.gov.uk — UKGC RTP, autoplay, and responsible gambling feature requirements cited in the certification section</li><li>Malta Gaming Authority — mga.org.mt — MGA certification requirements and jurisdiction comparison cited in the certification section</li></ul>",
+    "toc": [
+      {
+        "text": "What Does a Casino Game Development Company Actually Do?",
+        "href": "#what-does-a-casino-game-development-company-actually-do"
+      },
+      {
+        "text": "Types of Casino Games We Develop",
+        "href": "#types-of-casino-games-we-develop"
+      },
+      {
+        "text": "Game Math, RTP and RNG Certification",
+        "href": "#game-math-rtp-and-rng-certification"
+      },
+      {
+        "text": "The Technology: HTML5, Unity and Aggregator Integration",
+        "href": "#the-technology-html5-unity-and-aggregator-integration"
+      },
+      {
+        "text": "Casino Game Development Cost and Timeline",
+        "href": "#casino-game-development-cost-and-timeline"
+      },
+      {
+        "text": "Why Sudonex for Casino Game Development",
+        "href": "#why-sudonex-for-casino-game-development"
+      },
+      {
+        "text": "Frequently Asked Questions",
+        "href": "#frequently-asked-questions"
+      },
+      {
+        "text": "Sources &amp; References",
+        "href": "#sources-amp-references"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How much does casino game development cost?",
+        "a": "Casino game development cost ranges from about $30,000 for a simple three-reel HTML5 slot to $425,000+ for a premium 3D or branded production. Table games run $25,000–$80,000, crash games $25,000–$70,000, and live casino titles $100,000–$300,000+. Certification adds $8,000–$35,000 per jurisdiction. A thorough math modelling phase is the most cost-effective investment."
+      },
+      {
+        "q": "What types of casino games can you develop?",
+        "a": "Sudonex develops slots (classic, video, progressive jackpot), table games (blackjack, roulette, baccarat, craps), live dealer games, crash and instant-win titles, and specialty games including video poker, keno, and scratchcards — handling the full pipeline from math design through certification."
+      },
+      {
+        "q": "What certifications does a casino game need before launch?",
+        "a": "Every casino game needs certification from an accredited independent lab covering the RNG, the math model, RTP simulation outputs, and responsible gambling compliance. GLI-19 is the most widely referenced standard, with labs including GLI and iTech Labs performing the testing. UKGC and MGA impose additional player-protection requirements."
+      },
+      {
+        "q": "Are you a white-label provider or a custom developer?",
+        "a": "Sudonex is a custom development company. We engineer on technology we own rather than reselling a white-label template, so the math model, game client, RNG, and certification package are all things we produce and can defend in a lab audit — the difference between passing certification first time and entering a remediation cycle."
+      },
+      {
+        "q": "How long does it take to develop a casino game?",
+        "a": "A simple three-reel slot takes three to five months to certified launch, a feature-rich five-reel title five to eight months, and a premium 3D or branded game eight to fourteen months. Table and crash games are faster (two to five months); live casino titles take six to twelve months. Certification adds four to eight weeks by jurisdiction."
+      },
+      {
+        "q": "What is RTP and can I set a custom value?",
+        "a": "RTP (Return to Player) is the average percentage of wagered money a game returns over millions of cycles: (Average Win / Average Bet) x 100. It is a commissioned specification — operators typically request 94%–97%, and our mathematicians model the pay table to hit the target. Multiple RTP variants can be toggled at the RGS level."
+      },
+      {
+        "q": "What is the difference between HTML5 and Unity for casino games?",
+        "a": "HTML5 with WebGL produces instant-play browser games that run on any device with no installation — the default given mobile-dominant play. Unity (C#) suits titles needing richer 3D animation or native cross-platform builds, typically premium or branded games. They serve different distribution strategies, not different quality levels, so confirm the choice at the briefing stage."
+      },
+      {
+        "q": "How do casino games get distributed to operators?",
+        "a": "A finished game connects to operators through a Remote Game Server (RGS) managing sessions, bets, RNG calls, and wallet integration, then distributes through aggregators that carry a catalogue to many operators via one integration. Sudonex builds both game-side adapters and operator-side aggregator connections. Confirm supported RGS and aggregators before briefing."
+      },
+      {
+        "q": "Can you build provably fair crash and crypto games?",
+        "a": "Yes. Provably fair games use a cryptographic commitment scheme — the server commits to a seed, the player contributes random input, and the outcome is independently verifiable afterward. This is core to crash games and crypto-native platforms, typically implemented in Rust, and does not map directly onto traditional lab certification pathways, so the right choice depends on your target market."
+      },
+      {
+        "q": "How do I choose the right casino game development company?",
+        "a": "Evaluate certified titles shipped through your target labs, whether math modelling is in-house, prior RNG certification documentation, contract terms for RTP discrepancy rectification, existing RGS and aggregator integrations, and post-launch support SLA. A custom developer that owns its technology carries lower certification and delivery risk than a white-label reseller. Request a sample pay table and lab certificate before signing."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Casino Game Development Company",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        },
+        "name": "Casino Game Development Company 2026: Types, Cost & Certification Guide",
+        "description": "Casino game development company guide 2026 covering game types, math and RTP, RNG certification (GLI-19/iTech), HTML5 and Unity, aggregator integration, and cost",
+        "url": "https://sudonex.com/casino-game-development/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Casino Game Development Company",
+            "item": "https://sudonex.com/casino-game-development/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How much does casino game development cost?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Casino game development cost ranges from about $30,000 for a simple three-reel HTML5 slot to $425,000+ for a premium 3D or branded production. Table games run $25,000–$80,000, crash games $25,000–$70,000, and live casino titles $100,000–$300,000+. Certification adds $8,000–$35,000 per jurisdiction. A thorough math modelling phase is the most cost-effective investment."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What types of casino games can you develop?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sudonex develops slots (classic, video, progressive jackpot), table games (blackjack, roulette, baccarat, craps), live dealer games, crash and instant-win titles, and specialty games including video poker, keno, and scratchcards — handling the full pipeline from math design through certification."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What certifications does a casino game need before launch?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Every casino game needs certification from an accredited independent lab covering the RNG, the math model, RTP simulation outputs, and responsible gambling compliance. GLI-19 is the most widely referenced standard, with labs including GLI and iTech Labs performing the testing. UKGC and MGA impose additional player-protection requirements."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are you a white-label provider or a custom developer?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sudonex is a custom development company. We engineer on technology we own rather than reselling a white-label template, so the math model, game client, RNG, and certification package are all things we produce and can defend in a lab audit — the difference between passing certification first time and entering a remediation cycle."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long does it take to develop a casino game?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A simple three-reel slot takes three to five months to certified launch, a feature-rich five-reel title five to eight months, and a premium 3D or branded game eight to fourteen months. Table and crash games are faster (two to five months); live casino titles take six to twelve months. Certification adds four to eight weeks by jurisdiction."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is RTP and can I set a custom value?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RTP (Return to Player) is the average percentage of wagered money a game returns over millions of cycles: (Average Win / Average Bet) x 100. It is a commissioned specification — operators typically request 94%–97%, and our mathematicians model the pay table to hit the target. Multiple RTP variants can be toggled at the RGS level."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between HTML5 and Unity for casino games?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "HTML5 with WebGL produces instant-play browser games that run on any device with no installation — the default given mobile-dominant play. Unity (C#) suits titles needing richer 3D animation or native cross-platform builds, typically premium or branded games. They serve different distribution strategies, not different quality levels, so confirm the choice at the briefing stage."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do casino games get distributed to operators?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A finished game connects to operators through a Remote Game Server (RGS) managing sessions, bets, RNG calls, and wallet integration, then distributes through aggregators that carry a catalogue to many operators via one integration. Sudonex builds both game-side adapters and operator-side aggregator connections. Confirm supported RGS and aggregators before briefing."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can you build provably fair crash and crypto games?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Provably fair games use a cryptographic commitment scheme — the server commits to a seed, the player contributes random input, and the outcome is independently verifiable afterward. This is core to crash games and crypto-native platforms, typically implemented in Rust, and does not map directly onto traditional lab certification pathways, so the right choice depends on your target market."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I choose the right casino game development company?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Evaluate certified titles shipped through your target labs, whether math modelling is in-house, prior RNG certification documentation, contract terms for RTP discrepancy rectification, existing RGS and aggregator integrations, and post-launch support SLA. A custom developer that owns its technology carries lower certification and delivery risk than a white-label reseller. Request a sample pay table and lab certificate before signing."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "commercial",
+    "funnel": "MOFU",
+    "cluster": "casino-development",
+    "primary_kw": "casino game development company",
+    "secondary_kws": [
+      "casino game development services",
+      "casino game developer",
+      "custom casino game development",
+      "online casino game development company"
+    ],
+    "outbound_links": [
+      {
+        "to": "/custom-slot-game-development/",
+        "anchor": "custom slot game development",
+        "reason": "hub-spoke"
+      },
+      {
+        "to": "/slot-game-math-rng/",
+        "anchor": "slot game math and RNG development",
+        "reason": "hub-spoke"
+      },
+      {
+        "to": "/casino-app-development/",
+        "anchor": "casino app development company",
+        "reason": "hub-spoke"
+      },
+      {
+        "to": "/live-casino-app-development/",
+        "anchor": "live casino app development",
+        "reason": "hub-spoke"
+      },
+      {
+        "to": "/casino-game-aggregator-api/",
+        "anchor": "casino game aggregator API integration",
+        "reason": "hub-spoke"
+      },
+      {
+        "to": "/igaming-software-development/",
+        "anchor": "iGaming software development",
+        "reason": "pillar-cluster"
+      }
+    ],
+    "inbound_from": [
+      "/",
+      "/services/",
+      "/industries/online-casino-operators/",
+      "/industries/sports-betting-operators/",
+      "/casino-app-development/",
+      "/slot-game-development/"
+    ],
+    "audit_missing": [
+      "Casino game type breakdown (slots, table, live, crash, poker)",
+      "Game math model and RTP contribution explanation",
+      "RNG certification deep-dive (GLI-19, iTech Labs)",
+      "HTML5 vs Unity engine decision",
+      "RGS and aggregator distribution integration",
+      "Detailed cost-by-game-type table",
+      "Custom vs white-label positioning"
+    ]
   }
 }
