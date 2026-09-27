@@ -3,7 +3,7 @@
 import { useState, useMemo } from 'react';
 import { motion } from 'framer-motion';
 import { Globe2 } from 'lucide-react';
-import { getByLayer } from '@/lib/content';
+import { getByLayer } from '@/lib/nav';
 import {
   COUNTRY_LABELS,
   COUNTRY_CODES,

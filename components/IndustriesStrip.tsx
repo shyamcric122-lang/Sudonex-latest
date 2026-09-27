@@ -1,7 +1,7 @@
 'use client';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
-import { NAV } from '@/lib/content';
+import { NAV } from '@/lib/nav';
 import { Building2, Trophy, Rocket, Bitcoin, Layers, Briefcase } from 'lucide-react';
 
 const ICONS: Record<string, any> = {

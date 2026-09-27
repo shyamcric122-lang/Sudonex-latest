@@ -1,6 +1,6 @@
 'use client';
 import Link from 'next/link';
-import { NAV } from '@/lib/content';
+import { NAV } from '@/lib/nav';
 import { Mail, MapPin, ShieldCheck, AlertTriangle, Phone, Instagram, Facebook, Linkedin } from 'lucide-react';
 import Logo from '@/components/Logo';
 

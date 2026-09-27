@@ -2,7 +2,7 @@
 import Link from 'next/link';
 import { motion } from 'framer-motion';
 import { ArrowUpRight } from 'lucide-react';
-import { getPage } from '@/lib/content';
+import { getPage } from '@/lib/nav';
 
 export default function RelatedLinks({ links }: { links: { to: string; anchor: string }[] }) {
   if (!links?.length) return null;

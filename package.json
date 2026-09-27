@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "prebuild": "node scripts/gen_nav.js",
     "dev": "next dev -p 3030",
     "build": "next build --webpack",
     "start": "next start -p 3030",

@@ -7,7 +7,7 @@ import { CasinoSectionDivider } from '@/components/home/CasinoDecor';
 import CTABlock from '@/components/CTABlock';
 import IndustriesStrip from '@/components/IndustriesStrip';
 import TrustStrip from '@/components/TrustStrip';
-import GeoStrip from '@/components/GeoStrip';
+import GeoStripLazy from '@/components/GeoStripLazy';
 import FAQAccordion from '@/components/FAQAccordion';
 
 export const metadata: Metadata = {
@@ -33,7 +33,7 @@ export default function Home() {
       <ServiceCards />
       <CasinoSectionDivider />
       <IndustriesStrip />
-      <GeoStrip />
+      <GeoStripLazy />
       <TrustStrip />
       {home && home.faqs.length > 0 && <FAQAccordion items={home.faqs} />}
       <CTABlock />

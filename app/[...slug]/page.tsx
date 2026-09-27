@@ -8,7 +8,7 @@ import Breadcrumbs from '@/components/Breadcrumbs';
 import RelatedLinks from '@/components/RelatedLinks';
 import FAQAccordion from '@/components/FAQAccordion';
 import CTABlock from '@/components/CTABlock';
-import GeoStrip from '@/components/GeoStrip';
+import GeoStripLazy from '@/components/GeoStripLazy';
 import ContactForm from '@/components/ContactForm';
 import Citations from '@/components/Citations';
 import EditorialStandards from '@/components/EditorialStandards';
@@ -133,7 +133,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string[
       {page.path === '/about-us/' && <EditorialStandards />}
 
       {page.outbound_links.length > 0 && <RelatedLinks links={page.outbound_links} />}
-      {(page.layer === 'service' || page.layer === 'top') && page.path !== '/contact/' && <GeoStrip />}
+      {(page.layer === 'service' || page.layer === 'top') && page.path !== '/contact/' && <GeoStripLazy />}
       {page.faqs.length > 0 && <FAQAccordion items={page.faqs} />}
       {page.path !== '/contact/' && <CTABlock />}
     </>

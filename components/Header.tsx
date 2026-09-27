@@ -5,7 +5,7 @@ import { usePathname } from 'next/navigation';
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Menu, X, ChevronDown, ArrowRight } from 'lucide-react';
-import { NAV } from '@/lib/content';
+import { NAV } from '@/lib/nav';
 import Logo from '@/components/Logo';
 import { NavMegaTriggers, NavMegaPanel, buildMegaGroups } from '@/components/NavDropdown';
 
