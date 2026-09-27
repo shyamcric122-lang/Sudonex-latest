@@ -1067,6 +1067,11 @@
         "to": "/contact/",
         "anchor": "build your platform with Sudonex",
         "reason": "funnel-down"
+      },
+      {
+        "to": "/solutions/enterprise-igaming-platforms/",
+        "anchor": "enterprise iGaming platforms",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -3563,6 +3568,16 @@
         "to": "/resources/igaming-platform-sla-uptime-guide/",
         "anchor": "iGaming platform SLA & uptime",
         "reason": "cluster-support"
+      },
+      {
+        "to": "/igaming-api-integration/",
+        "anchor": "iGaming API integration services",
+        "reason": "related"
+      },
+      {
+        "to": "/slot-game-development/",
+        "anchor": "slot game development company",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -4158,6 +4173,16 @@
         "to": "/contact/",
         "anchor": "request a technical consultation",
         "reason": "funnel-down"
+      },
+      {
+        "to": "/igaming-api-integration/",
+        "anchor": "iGaming API integration services",
+        "reason": "related"
+      },
+      {
+        "to": "/slot-game-development/",
+        "anchor": "slot game development company",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -4357,6 +4382,11 @@
         "to": "/contact/",
         "anchor": "request a technical consultation",
         "reason": "funnel-down"
+      },
+      {
+        "to": "/casino-backend-development/",
+        "anchor": "casino backend development",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -5418,6 +5448,16 @@
         "to": "/resources/igaming-platform-sla-uptime-guide/",
         "anchor": "iGaming platform SLA guide",
         "reason": "cluster-support"
+      },
+      {
+        "to": "/slot-game-development/",
+        "anchor": "slot game development company",
+        "reason": "related"
+      },
+      {
+        "to": "/sports-exchange-development/",
+        "anchor": "sports exchange development company",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -5572,6 +5612,16 @@
         "to": "/contact/",
         "anchor": "request a technical consultation",
         "reason": "funnel-down"
+      },
+      {
+        "to": "/24-7-technical-support/",
+        "anchor": "iGaming technical support services",
+        "reason": "related"
+      },
+      {
+        "to": "/white-label-casino-software/",
+        "anchor": "white-label casino software provider",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -10684,6 +10734,11 @@
         "to": "/igaming-development-company-usa/",
         "anchor": "iGaming development in Usa",
         "reason": "geo-coverage"
+      },
+      {
+        "to": "/kyc-aml-api-integration/",
+        "anchor": "KYC AML integration for iGaming",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -13316,6 +13371,11 @@
         "to": "/contact/",
         "anchor": "request a technical consultation",
         "reason": "funnel-down"
+      },
+      {
+        "to": "/solutions/igaming-startup-solutions/",
+        "anchor": "iGaming startup solutions",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -13487,6 +13547,11 @@
         "to": "/contact/",
         "anchor": "request a technical consultation",
         "reason": "funnel-down"
+      },
+      {
+        "to": "/casino-backend-development/",
+        "anchor": "casino backend development",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -13824,6 +13889,11 @@
         "to": "/contact/",
         "anchor": "request a technical consultation",
         "reason": "funnel-down"
+      },
+      {
+        "to": "/conversion-rate-optimization/",
+        "anchor": "iGaming conversion rate optimization",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -15976,6 +16046,11 @@
         "to": "/resources/casino-security-guide/",
         "anchor": "read the guide on casino security guide",
         "reason": "cluster-sibling"
+      },
+      {
+        "to": "/24-7-technical-support/",
+        "anchor": "iGaming technical support services",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -16148,6 +16223,11 @@
         "to": "/resources/how-to-launch-igaming-startup/",
         "anchor": "read the guide on how to launch igaming startup",
         "reason": "cluster-sibling"
+      },
+      {
+        "to": "/mvp-to-scale-roadmap/",
+        "anchor": "iGaming MVP to scale roadmap",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -17256,6 +17336,11 @@
         "to": "/resources/slot-game-math-rtp/",
         "anchor": "read the guide on slot game math and rtp",
         "reason": "cluster-sibling"
+      },
+      {
+        "to": "/progressive-jackpot-slot-games/",
+        "anchor": "progressive jackpot slot game development",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -17574,6 +17659,11 @@
         "to": "/contact/",
         "anchor": "request a technical consultation",
         "reason": "funnel-down"
+      },
+      {
+        "to": "/kyc-aml-api-integration/",
+        "anchor": "KYC AML integration for iGaming",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -18386,6 +18476,11 @@
         "to": "/casino-game-development/",
         "anchor": "casino game development",
         "reason": "related"
+      },
+      {
+        "to": "/igaming-api-integration/",
+        "anchor": "iGaming API integration services",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -18626,6 +18721,11 @@
         "to": "/igaming-development-company-south-africa/",
         "anchor": "See also: South Africa",
         "reason": "geo-cross"
+      },
+      {
+        "to": "/progressive-jackpot-slot-games/",
+        "anchor": "progressive jackpot slot game development",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -18982,6 +19082,11 @@
         "to": "/contact/",
         "anchor": "get a solution quote",
         "reason": "funnel-down"
+      },
+      {
+        "to": "/white-label-casino-software/",
+        "anchor": "white-label casino software provider",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -19210,6 +19315,11 @@
         "to": "/igaming-software-development/",
         "anchor": "iGaming software development services",
         "reason": "pillar-cluster"
+      },
+      {
+        "to": "/solutions/enterprise-igaming-platforms/",
+        "anchor": "enterprise iGaming platforms",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -19628,6 +19738,11 @@
         "to": "/contact/",
         "anchor": "get a solution quote",
         "reason": "funnel-down"
+      },
+      {
+        "to": "/mvp-to-scale-roadmap/",
+        "anchor": "iGaming MVP to scale roadmap",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -19783,6 +19898,11 @@
         "to": "/contact/",
         "anchor": "start your iGaming project",
         "reason": "funnel-down"
+      },
+      {
+        "to": "/conversion-rate-optimization/",
+        "anchor": "iGaming conversion rate optimization",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -19994,6 +20114,11 @@
         "to": "/contact/",
         "anchor": "get a solution quote",
         "reason": "funnel-down"
+      },
+      {
+        "to": "/kyc-aml-api-integration/",
+        "anchor": "KYC AML integration for iGaming",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -20200,6 +20325,26 @@
         "to": "/contact/",
         "anchor": "get a solution quote",
         "reason": "funnel-down"
+      },
+      {
+        "to": "/conversion-rate-optimization/",
+        "anchor": "iGaming conversion rate optimization",
+        "reason": "related"
+      },
+      {
+        "to": "/custom-casino-software-development/",
+        "anchor": "custom casino software development",
+        "reason": "related"
+      },
+      {
+        "to": "/mvp-to-scale-roadmap/",
+        "anchor": "iGaming MVP to scale roadmap",
+        "reason": "related"
+      },
+      {
+        "to": "/solutions/igaming-startup-solutions/",
+        "anchor": "iGaming startup solutions",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -20545,6 +20690,16 @@
         "to": "/igaming-software-development/",
         "anchor": "iGaming software development services",
         "reason": "pillar-cluster"
+      },
+      {
+        "to": "/igaming-api-integration/",
+        "anchor": "iGaming API integration services",
+        "reason": "related"
+      },
+      {
+        "to": "/slot-game-development/",
+        "anchor": "slot game development company",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -21518,6 +21673,11 @@
         "to": "/contact/",
         "anchor": "request a technical consultation",
         "reason": "funnel-down"
+      },
+      {
+        "to": "/progressive-jackpot-slot-games/",
+        "anchor": "progressive jackpot slot game development",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -22597,6 +22757,11 @@
         "to": "/casino-game-development/",
         "anchor": "casino game development",
         "reason": "related"
+      },
+      {
+        "to": "/custom-casino-software-development/",
+        "anchor": "custom casino software development",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -23659,6 +23824,16 @@
         "to": "/contact/",
         "anchor": "tell us what you are building",
         "reason": "cta"
+      },
+      {
+        "to": "/24-7-technical-support/",
+        "anchor": "iGaming technical support services",
+        "reason": "related"
+      },
+      {
+        "to": "/casino-backend-development/",
+        "anchor": "casino backend development",
+        "reason": "related"
       }
     ],
     "inbound_from": [
@@ -23918,6 +24093,16 @@
         "to": "/igaming-software-development/",
         "anchor": "iGaming software development",
         "reason": "pillar-cluster"
+      },
+      {
+        "to": "/igaming-api-integration/",
+        "anchor": "iGaming API integration services",
+        "reason": "related"
+      },
+      {
+        "to": "/slot-game-development/",
+        "anchor": "slot game development company",
+        "reason": "related"
       }
     ],
     "inbound_from": [
