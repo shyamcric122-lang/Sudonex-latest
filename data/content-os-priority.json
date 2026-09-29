@@ -1,13 +1,320 @@
 {
   "generated": "2026-09-29",
   "source": "GSC not-indexed export (zero-impression published pages)",
-  "note": "Drain content tier first (Google crawled+rejected=content lever), then broken(404 fix/redirect), then authority(internal-link+onpage; DR1 root cause is links/backlinks not prose).",
+  "note": "Indexing forced via 3rd-party instant-index tool. Apply FULL CONTENT-OS refresh to EVERY content-tier page (quality upgrade so pages rank once indexed). broken=create-or-301.",
   "counts": {
-    "content": 11,
-    "broken": 2,
-    "authority": 44
+    "content": 55,
+    "broken": 2
   },
   "pages": [
+    {
+      "path": "/about-us/",
+      "url": "https://www.sudonex.com/about-us/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/betting-exchange-software/",
+      "url": "https://www.sudonex.com/betting-exchange-software/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/case-studies/",
+      "url": "https://www.sudonex.com/case-studies/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/case-studies/casino-app-development/",
+      "url": "https://www.sudonex.com/case-studies/casino-app-development/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/case-studies/slot-game-development/",
+      "url": "https://www.sudonex.com/case-studies/slot-game-development/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/case-studies/sports-exchange-development/",
+      "url": "https://www.sudonex.com/case-studies/sports-exchange-development/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/casino-app-development-company-usa/",
+      "url": "https://www.sudonex.com/casino-app-development-company-usa/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/casino-app-development/",
+      "url": "https://www.sudonex.com/casino-app-development/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/casino-backend-development/",
+      "url": "https://www.sudonex.com/casino-backend-development/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/casino-game-aggregator-api/",
+      "url": "https://www.sudonex.com/casino-game-aggregator-api/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/casino-licensing-compliance/",
+      "url": "https://www.sudonex.com/casino-licensing-compliance/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/casino-lobby-design/",
+      "url": "https://www.sudonex.com/casino-lobby-design/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/conversion-rate-optimization/",
+      "url": "https://www.sudonex.com/conversion-rate-optimization/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/custom-casino-software-development/",
+      "url": "https://www.sudonex.com/custom-casino-software-development/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/custom-slot-game-development/",
+      "url": "https://www.sudonex.com/custom-slot-game-development/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/html5-slot-game-development/",
+      "url": "https://www.sudonex.com/html5-slot-game-development/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/igaming-api-integration/",
+      "url": "https://www.sudonex.com/igaming-api-integration/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/igaming-development-company-netherlands/",
+      "url": "https://www.sudonex.com/igaming-development-company-netherlands/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/igaming-development-company-singapore/",
+      "url": "https://www.sudonex.com/igaming-development-company-singapore/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/igaming-development-company-south-africa/",
+      "url": "https://www.sudonex.com/igaming-development-company-south-africa/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/igaming-development-company-spain/",
+      "url": "https://www.sudonex.com/igaming-development-company-spain/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/igaming-mvp-development-company-usa/",
+      "url": "https://www.sudonex.com/igaming-mvp-development-company-usa/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/igaming-ui-ux-design/",
+      "url": "https://www.sudonex.com/igaming-ui-ux-design/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/igaming-wireframe-design/",
+      "url": "https://www.sudonex.com/igaming-wireframe-design/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/kyc-aml-api-integration/",
+      "url": "https://www.sudonex.com/kyc-aml-api-integration/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/liquidity-management-system/",
+      "url": "https://www.sudonex.com/liquidity-management-system/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/payment-gateway-integration/",
+      "url": "https://www.sudonex.com/payment-gateway-integration/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/peer-to-peer-betting-system/",
+      "url": "https://www.sudonex.com/peer-to-peer-betting-system/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/progressive-jackpot-slot-games/",
+      "url": "https://www.sudonex.com/progressive-jackpot-slot-games/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/real-time-odds-engine/",
+      "url": "https://www.sudonex.com/real-time-odds-engine/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/resources/casino-lobby-design-guide/",
+      "url": "https://www.sudonex.com/resources/casino-lobby-design-guide/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/resources/slot-game-rng-explained/",
+      "url": "https://www.sudonex.com/resources/slot-game-rng-explained/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/resources/sports-exchange-vs-sportsbook/",
+      "url": "https://www.sudonex.com/resources/sports-exchange-vs-sportsbook/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/rng-integration-testing/",
+      "url": "https://www.sudonex.com/rng-integration-testing/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/security-audit-penetration-testing/",
+      "url": "https://www.sudonex.com/security-audit-penetration-testing/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/services/",
+      "url": "https://www.sudonex.com/services/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/slot-game-development-company-uk/",
+      "url": "https://www.sudonex.com/slot-game-development-company-uk/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/slot-game-math-rng/",
+      "url": "https://www.sudonex.com/slot-game-math-rng/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/solutions/",
+      "url": "https://www.sudonex.com/solutions/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/sports-exchange-development-company-canada/",
+      "url": "https://www.sudonex.com/sports-exchange-development-company-canada/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/sports-trading-platform/",
+      "url": "https://www.sudonex.com/sports-trading-platform/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/sportsbook-ui-ux-design/",
+      "url": "https://www.sudonex.com/sportsbook-ui-ux-design/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/unity-slot-game-development/",
+      "url": "https://www.sudonex.com/unity-slot-game-development/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
+    {
+      "path": "/white-label-casino-software/",
+      "url": "https://www.sudonex.com/white-label-casino-software/",
+      "gsc_reason": "Discovered - currently not indexed",
+      "tier": "content",
+      "status": "pending"
+    },
     {
       "path": "/sportsbook-mvp-development/",
       "url": "https://www.sudonex.com/sportsbook-mvp-development/",
@@ -97,314 +404,6 @@
       "url": "https://www.sudonex.com/guide/online-casino-red-flags",
       "gsc_reason": "Not found (404)",
       "tier": "broken",
-      "status": "pending"
-    },
-    {
-      "path": "/about-us/",
-      "url": "https://www.sudonex.com/about-us/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/betting-exchange-software/",
-      "url": "https://www.sudonex.com/betting-exchange-software/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/case-studies/",
-      "url": "https://www.sudonex.com/case-studies/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/case-studies/casino-app-development/",
-      "url": "https://www.sudonex.com/case-studies/casino-app-development/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/case-studies/slot-game-development/",
-      "url": "https://www.sudonex.com/case-studies/slot-game-development/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/case-studies/sports-exchange-development/",
-      "url": "https://www.sudonex.com/case-studies/sports-exchange-development/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/casino-app-development-company-usa/",
-      "url": "https://www.sudonex.com/casino-app-development-company-usa/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/casino-app-development/",
-      "url": "https://www.sudonex.com/casino-app-development/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/casino-backend-development/",
-      "url": "https://www.sudonex.com/casino-backend-development/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/casino-game-aggregator-api/",
-      "url": "https://www.sudonex.com/casino-game-aggregator-api/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/casino-licensing-compliance/",
-      "url": "https://www.sudonex.com/casino-licensing-compliance/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/casino-lobby-design/",
-      "url": "https://www.sudonex.com/casino-lobby-design/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/conversion-rate-optimization/",
-      "url": "https://www.sudonex.com/conversion-rate-optimization/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/custom-casino-software-development/",
-      "url": "https://www.sudonex.com/custom-casino-software-development/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/custom-slot-game-development/",
-      "url": "https://www.sudonex.com/custom-slot-game-development/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/html5-slot-game-development/",
-      "url": "https://www.sudonex.com/html5-slot-game-development/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/igaming-api-integration/",
-      "url": "https://www.sudonex.com/igaming-api-integration/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/igaming-development-company-netherlands/",
-      "url": "https://www.sudonex.com/igaming-development-company-netherlands/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/igaming-development-company-singapore/",
-      "url": "https://www.sudonex.com/igaming-development-company-singapore/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/igaming-development-company-south-africa/",
-      "url": "https://www.sudonex.com/igaming-development-company-south-africa/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/igaming-development-company-spain/",
-      "url": "https://www.sudonex.com/igaming-development-company-spain/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/igaming-mvp-development-company-usa/",
-      "url": "https://www.sudonex.com/igaming-mvp-development-company-usa/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/igaming-ui-ux-design/",
-      "url": "https://www.sudonex.com/igaming-ui-ux-design/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/igaming-wireframe-design/",
-      "url": "https://www.sudonex.com/igaming-wireframe-design/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/kyc-aml-api-integration/",
-      "url": "https://www.sudonex.com/kyc-aml-api-integration/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/liquidity-management-system/",
-      "url": "https://www.sudonex.com/liquidity-management-system/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/payment-gateway-integration/",
-      "url": "https://www.sudonex.com/payment-gateway-integration/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/peer-to-peer-betting-system/",
-      "url": "https://www.sudonex.com/peer-to-peer-betting-system/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/progressive-jackpot-slot-games/",
-      "url": "https://www.sudonex.com/progressive-jackpot-slot-games/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/real-time-odds-engine/",
-      "url": "https://www.sudonex.com/real-time-odds-engine/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/resources/casino-lobby-design-guide/",
-      "url": "https://www.sudonex.com/resources/casino-lobby-design-guide/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/resources/slot-game-rng-explained/",
-      "url": "https://www.sudonex.com/resources/slot-game-rng-explained/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/resources/sports-exchange-vs-sportsbook/",
-      "url": "https://www.sudonex.com/resources/sports-exchange-vs-sportsbook/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/rng-integration-testing/",
-      "url": "https://www.sudonex.com/rng-integration-testing/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/security-audit-penetration-testing/",
-      "url": "https://www.sudonex.com/security-audit-penetration-testing/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/services/",
-      "url": "https://www.sudonex.com/services/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/slot-game-development-company-uk/",
-      "url": "https://www.sudonex.com/slot-game-development-company-uk/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/slot-game-math-rng/",
-      "url": "https://www.sudonex.com/slot-game-math-rng/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/solutions/",
-      "url": "https://www.sudonex.com/solutions/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/sports-exchange-development-company-canada/",
-      "url": "https://www.sudonex.com/sports-exchange-development-company-canada/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/sports-trading-platform/",
-      "url": "https://www.sudonex.com/sports-trading-platform/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/sportsbook-ui-ux-design/",
-      "url": "https://www.sudonex.com/sportsbook-ui-ux-design/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/unity-slot-game-development/",
-      "url": "https://www.sudonex.com/unity-slot-game-development/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
-      "status": "pending"
-    },
-    {
-      "path": "/white-label-casino-software/",
-      "url": "https://www.sudonex.com/white-label-casino-software/",
-      "gsc_reason": "Discovered - currently not indexed",
-      "tier": "authority",
       "status": "pending"
     }
   ]
