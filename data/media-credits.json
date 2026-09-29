@@ -1069,5 +1069,23 @@
     "video_by": "KoolShooters",
     "video_src": "https://www.pexels.com/video/a-person-holding-a-smartphone-6076998/",
     "video_link": "https://videos.pexels.com/video-files/6076998/6076998-sd_960_506_25fps.mp4"
+  },
+  "psp-integration-casino": {
+    "video_id": 8348322,
+    "video_by": "Kampus Production",
+    "video_src": "https://www.pexels.com/video/man-presenting-in-a-meeting-8348322/",
+    "video_link": "https://videos.pexels.com/video-files/8348322/8348322-sd_960_540_25fps.mp4",
+    "image_id": 9122014,
+    "image_by": "Towfiqu barbhuiya",
+    "image_src": "https://www.pexels.com/photo/contactless-payment-with-credit-card-9122014/"
+  },
+  "igaming-kyc-solutions": {
+    "video_id": 6963744,
+    "video_by": "Mikhail Nilov",
+    "video_src": "https://www.pexels.com/video/hacker-entering-codes-into-the-computer-6963744/",
+    "video_link": "https://videos.pexels.com/video-files/6963744/6963744-sd_960_540_25fps.mp4",
+    "image_id": 39356223,
+    "image_by": "DΛVΞ GΛRCIΛ",
+    "image_src": "https://www.pexels.com/photo/us-passport-with-visas-and-currency-close-up-39356223/"
   }
 }
