@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { NAV } from '@/lib/nav';
 import { Mail, MapPin, ShieldCheck, AlertTriangle, Phone, Instagram, Facebook, Linkedin } from 'lucide-react';
 import Logo from '@/components/Logo';
+import { trackLead } from '@/lib/track';
 
 const cols = [
   { title: 'Services', items: NAV.services },
@@ -23,7 +24,7 @@ export default function Footer() {
             <p className="text-sm text-ink-muted leading-relaxed mb-4">iGaming development built for operators who take compliance seriously. Founded 2018.</p>
             <ul className="space-y-2 text-xs text-ink-muted">
               <li className="flex items-center gap-2"><Mail size={12} className="text-purple-400" /> <a href="mailto:Sudonexofficial@gmail.com" className="hover:text-white">Sudonexofficial@gmail.com</a></li>
-              <li className="flex items-center gap-2"><Phone size={12} className="text-purple-400" /> <a href="https://wa.me/918252595013" target="_blank" rel="noopener noreferrer" className="hover:text-white">8252595013</a></li>
+              <li className="flex items-center gap-2"><Phone size={12} className="text-purple-400" /> <a href="https://wa.me/918252595013" target="_blank" rel="noopener noreferrer" className="hover:text-white" onClick={() => trackLead('whatsapp', 'footer')}>8252595013</a></li>
               <li className="flex items-center gap-2"><MapPin size={12} className="text-purple-400" /> Global delivery · 17 jurisdictions</li>
             </ul>
           </div>

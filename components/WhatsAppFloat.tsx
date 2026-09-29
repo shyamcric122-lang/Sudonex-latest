@@ -1,3 +1,7 @@
+'use client';
+
+import { trackLead } from '@/lib/track';
+
 const WA_HREF =
   'https://wa.me/918252595013?text=' +
   encodeURIComponent("Hi Sudonex, I'm interested in your iGaming development services.");
@@ -14,6 +18,7 @@ export default function WhatsAppFloat() {
       rel="noopener noreferrer"
       aria-label="Chat with us on WhatsApp"
       className="wa-float"
+      onClick={() => trackLead('whatsapp', 'float')}
     >
       <svg viewBox="0 0 24 24" aria-hidden="true">
         <path d={WA_PATH} />

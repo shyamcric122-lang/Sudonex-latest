@@ -1,3 +1,7 @@
+'use client';
+
+import { trackLead } from '@/lib/track';
+
 const WA_HREF =
   'https://wa.me/918252595013?text=' +
   encodeURIComponent("Hi Sudonex, I'm interested in your iGaming development services.");
@@ -8,7 +12,7 @@ const WA_PATH =
 export default function WhatsAppCTA() {
   return (
     <div className="wa-inline">
-      <a href={WA_HREF} target="_blank" rel="noopener noreferrer">
+      <a href={WA_HREF} target="_blank" rel="noopener noreferrer" onClick={() => trackLead('whatsapp', 'cta')}>
         <svg viewBox="0 0 24 24" aria-hidden="true">
           <path d={WA_PATH} />
         </svg>

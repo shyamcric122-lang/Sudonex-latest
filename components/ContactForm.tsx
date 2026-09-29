@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { motion } from 'framer-motion';
+import { trackLead } from '@/lib/track';
 import {
   Send,
   Sparkles,
@@ -92,6 +93,7 @@ export default function ContactForm() {
 
       if (response.ok) {
         setStatus('success');
+        trackLead('form', 'contact-form');
         setFormData(INITIAL_CONTACT_FORM);
       } else {
         setStatus('error');
