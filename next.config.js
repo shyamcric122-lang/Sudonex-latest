@@ -8,5 +8,5 @@ module.exports = {
   experimental: {
     optimizePackageImports: ['framer-motion', 'lucide-react'],
   },
-  // output: 'export', // uncomment for fully static export
+  output: 'export', // static export for Cloudflare Pages
 };

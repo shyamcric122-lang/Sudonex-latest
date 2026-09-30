@@ -1,6 +1,8 @@
 import type { MetadataRoute } from 'next';
 import { getAllPaths, getPage } from '@/lib/content';
 
+export const dynamic = 'force-static';
+
 const BASE = 'https://www.sudonex.com';
 
 const PRIORITY: Record<string, number> = {

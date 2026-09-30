@@ -1,0 +1,3 @@
+# Cloudflare Pages redirects (fix known broken /guide/ 404s from GSC)
+/guide/crypto-casino-risks-security-volatility-explained  /resources/  301
+/guide/online-casino-red-flags  /resources/  301
