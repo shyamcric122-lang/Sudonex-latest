@@ -20969,6 +20969,11 @@
         "to": "/sportsbook-payment-software/",
         "anchor": "sportsbook payment software",
         "reason": "related"
+      },
+      {
+        "to": "/sportsbook-software/",
+        "anchor": "sportsbook software",
+        "reason": "sibling"
       }
     ],
     "inbound_from": [
@@ -24898,6 +24903,11 @@
         "to": "/kyc-aml-api-integration/",
         "anchor": "KYC AML API integration",
         "reason": "sibling-cluster"
+      },
+      {
+        "to": "/sportsbook-software/",
+        "anchor": "sportsbook software",
+        "reason": "money-page"
       }
     ],
     "inbound_from": [
@@ -25423,5 +25433,464 @@
       "Responsible-gambling tie-in",
       "KYC provider integration vs custom"
     ]
+  },
+  "/sportsbook-software/": {
+    "path": "/sportsbook-software/",
+    "layer": "service",
+    "seo_title": "Sportsbook Software | Custom Betting Platform | Sudonex",
+    "meta_description": "Sportsbook software built to own: odds and trading engine, risk management, payments, KYC and 99.9% uptime for licensed betting operators. Talk to our team.",
+    "h1": "Sportsbook Software | Sudonex",
+    "canonical": "https://www.sudonex.com/sportsbook-software/",
+    "body_html": "<p>Sportsbook software is the end-to-end technology stack that lets a licensed operator accept bets on sporting events, price those bets in real time, manage risk, settle winnings and stay compliant across jurisdictions. It combines an odds and trading engine, a player account management (PAM) layer, payment and KYC/AML integrations, and front-end betting interfaces for web and mobile into one operational platform.</p>\n<p>For an operator, the sportsbook is not just a website with odds on it. It is a live financial system that has to price thousands of markets per second, absorb sharp action without bleeding margin, pay winners instantly and never go down during a Champions League final or an NFL Sunday. Get the software right and you have a durable, high-margin business. Get it wrong and every mispriced market or minute of downtime is money walking out the door.</p>\n<p>This guide explains what a modern betting software platform actually contains, how the trading engine protects your margin, the realistic cost and build timelines, and how to evaluate a bookmaker software partner. Sudonex builds compliant sportsbook and <a href=\"/sports-exchange-development/\">sports exchange development</a> systems for operators across MGA, UKGC and Curaçao markets.</p>\n<h2 id=\"what-is-sportsbook-software\">What Is Sportsbook Software?</h2>\n<p>A sportsbook software platform is the complete system a bookmaker uses to run betting operations. At its simplest it does four things: it ingests live sports data and generates odds, it presents markets to players and accepts stakes, it manages risk and liability across the book, and it settles bets and processes payouts. Around that core sit compliance, payments, bonusing, reporting and customer management.</p>\n<p>The term is used interchangeably with <strong>betting software platform</strong> and <strong>bookmaker software</strong>, but the serious distinction is between a thin skin over a shared odds feed and a genuinely ownable platform. An operator who controls their own risk rules, margins and player data has a business; one who rents everything has a marketing front end for someone else's book.</p>\n<h2 id=\"core-components\">Core Components of a Sportsbook Platform</h2>\n<p>A production sportsbook is modular. The components that matter most are:</p>\n<ul><li><strong>Odds and trading engine</strong> — consumes real-time data feeds, generates and updates prices, and applies margin (the overround) across pre-match and in-play markets.</li><li><strong>Player Account Management (PAM)</strong> — the system of record for accounts, wallets, bonuses, limits, KYC status and responsible-gambling controls.</li><li><strong>Risk and liability management</strong> — exposure limits, automated price moves, stake factoring and trader alerts that protect the hold.</li><li><strong>Payments and cashier</strong> — deposits, withdrawals, multi-currency and crypto via a PSP layer, built on reliable <a href=\"/sportsbook-payment-software/\">sportsbook payment software</a>.</li><li><strong>Front end</strong> — responsive web and native mobile apps with fast bet placement, bet slip, cash-out and bet-builder.</li><li><strong>Back office</strong> — CRM, bonusing, reporting, GGR/NGR analytics and compliance tooling.</li></ul>\n<h2 id=\"odds-risk-trading\">The Odds, Risk and Trading Engine</h2>\n<p>The trading engine is where a sportsbook makes or loses money. It subscribes to low-latency data feeds, prices markets with a built-in margin, and continuously adjusts odds as money comes in and as events unfold in play. In-play (live) betting now drives the majority of turnover for most operators, which means sub-second price updates and settlement are non-negotiable.</p>\n<h3 id=\"margin-overround\">Margin, Overround and Hold</h3>\n<p>Unlike casino games, a sportsbook has no fixed RTP. Profitability comes from the <em>overround</em> — the margin baked into the odds — and from disciplined risk management that keeps the realised <em>hold</em> close to the theoretical margin. A platform that lets you control margins per sport, per market and per customer segment is what separates a real book from a reseller skin.</p>\n<h3 id=\"risk-management\">Automated Risk Management</h3>\n<p>Mature platforms apply stake factoring, automatic liability caps and trader alerts so that sharp or coordinated action triggers price moves or limits before it damages the book. This automation is what lets a lean trading team run thousands of markets safely.</p>\n<h2 id=\"bet-types-markets\">Bet Types and Markets</h2>\n<p>A competitive sportsbook supports singles, accumulators, system bets, in-play, cash-out, bet-builder (same-game multis) and increasingly player-prop and micro-markets. Breadth of markets and the quality of the bet-builder are now primary acquisition and retention levers, especially on mobile where the bet slip experience directly drives conversion.</p>\n<h2 id=\"payments-kyc-compliance\">Payments, KYC and Compliance</h2>\n<p>Every regulated sportsbook must verify identity, screen for AML risk, enforce responsible-gambling limits and keep auditable records. That means KYC/AML onboarding, source-of-funds checks above thresholds, self-exclusion and deposit limits, and jurisdiction-specific reporting. Testing and certification against standards such as GLI-33 (sports wagering systems) and independent labs like iTech Labs or eCOGRA are expected in regulated markets including the MGA and UKGC; Curaçao-licensed operators face lighter but still real obligations.</p>\n<p>On payments, players judge a book by withdrawal speed. Smart routing across multiple PSPs, multi-currency support, and crypto rails reduce failed transactions and protect retention — the same discipline Sudonex applies in <a href=\"/sportsbook-payment-software/\">sportsbook payment software</a>.</p>\n<h2 id=\"build-options\">Build Options: Custom, White-Label and Turnkey</h2>\n<p>There are three realistic routes to market:</p>\n<ul><li><strong>White-label</strong> — fastest and cheapest to launch; you rent the platform and licence, trade margins and differentiation for speed.</li><li><strong>Turnkey</strong> — a pre-integrated platform you configure and brand, with more control than white-label.</li><li><strong>Custom build</strong> — full ownership of code, data, margins and roadmap; higher upfront cost, lowest long-term cost per bet and the only route to a genuinely differentiated product. Explore the <a href=\"/sportsbook-software-platform/\">sportsbook software platform</a> architecture to see what ownership involves.</li></ul>\n<h2 id=\"inplay-mobile\">In-Play Betting and the Mobile Experience</h2>\n<p>Mobile is where modern sportsbooks are won or lost. The majority of bets are now placed on phones, often in-play, so the speed of the bet slip, the reliability of cash-out and the quality of the bet-builder directly drive conversion and retention. A platform that renders odds instantly, keeps markets live without constant suspensions, and settles in-play bets in seconds will out-convert a slower competitor regardless of marketing spend. Native apps and progressive web apps both have a place; what matters is sub-second responsiveness under match-day load.</p>\n<p>In-play trading also raises the engineering bar: prices must react to events within a fraction of a second, and the risk engine must re-price or suspend markets the instant a goal, red card or injury changes the picture. This is why the trading and data-feed layer, not the front-end theme, is the real centre of gravity in sportsbook software.</p>\n<h2 id=\"crm-bonusing-reporting\">CRM, Bonusing and Reporting</h2>\n<p>Retention economics decide whether an operator survives acquisition costs. The back office needs segment-based CRM, flexible bonusing (free bets, odds boosts, acca insurance), and real-time reporting on GGR, NGR, hold and customer value. Owning this layer lets you run promotions that are profitable rather than generic, and to spot problem patterns — bonus abuse, arbitrage, or churn signals — early. Clean reporting also underpins regulatory returns and the commercial decisions that keep margins healthy.</p>\n<p>Responsible-gambling tooling belongs here too: deposit and loss limits, reality checks, self-exclusion and affordability signals. In regulated markets these are not optional extras but licence conditions, and a platform that treats them as first-class features protects both players and the operator's licence.</p>\n<h2 id=\"cost-timeline\">Sportsbook Software Cost and Timeline</h2>\n<p>Costs vary widely by model. As a realistic planning range: a white-label or turnkey launch typically runs from roughly USD 30,000 to USD 150,000 in setup plus ongoing revenue share, and can go live in about 6 to 12 weeks. A custom sportsbook platform generally starts around USD 150,000 and can exceed USD 500,000 for a full multi-market build, over a 4 to 9 month timeline. Licensing, data-feed contracts and payment setup are separate line items. Treat any provider quoting a flat, suspiciously low number with caution — real cost sits in trading, compliance and uptime, not the storefront.</p>\n<h2 id=\"choosing-provider\">How to Choose a Sportsbook Software Provider</h2>\n<p>Evaluate partners on five things: the independence of your trading and margins, the breadth and latency of live markets, compliance and certification track record, payment and withdrawal reliability, and a credible uptime SLA (99.9% or better) backed by real architecture. Ask to see how risk automation works and who owns the player data. Sudonex builds and operates sportsbook systems with those priorities baked in — <a href=\"/services/\">see our services</a> or talk to our team about a custom build.</p>",
+    "toc": [
+      {
+        "text": "What Is Sportsbook Software?",
+        "href": "#what-is-sportsbook-software"
+      },
+      {
+        "text": "Core Components of a Sportsbook Platform",
+        "href": "#core-components"
+      },
+      {
+        "text": "The Odds, Risk and Trading Engine",
+        "href": "#odds-risk-trading"
+      },
+      {
+        "text": "Bet Types and Markets",
+        "href": "#bet-types-markets"
+      },
+      {
+        "text": "In-Play Betting and the Mobile Experience",
+        "href": "#inplay-mobile"
+      },
+      {
+        "text": "CRM, Bonusing and Reporting",
+        "href": "#crm-bonusing-reporting"
+      },
+      {
+        "text": "Payments, KYC and Compliance",
+        "href": "#payments-kyc-compliance"
+      },
+      {
+        "text": "Build Options: Custom, White-Label and Turnkey",
+        "href": "#build-options"
+      },
+      {
+        "text": "Sportsbook Software Cost and Timeline",
+        "href": "#cost-timeline"
+      },
+      {
+        "text": "How to Choose a Sportsbook Software Provider",
+        "href": "#choosing-provider"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is sportsbook software?",
+        "a": "Sportsbook software is the full technology platform a licensed bookmaker uses to accept bets, price markets in real time, manage risk, process payments and stay compliant. It combines an odds and trading engine, player account management, payments/KYC and web and mobile front ends."
+      },
+      {
+        "q": "How much does sportsbook software cost?",
+        "a": "As a planning range, white-label or turnkey launches run from about USD 30,000 to USD 150,000 in setup plus revenue share, while a custom sportsbook platform generally starts near USD 150,000 and can exceed USD 500,000, depending on markets, data feeds and compliance scope."
+      },
+      {
+        "q": "How long does it take to launch a sportsbook?",
+        "a": "A white-label or turnkey sportsbook can typically go live in roughly 6 to 12 weeks, while a custom build usually takes 4 to 9 months including trading setup, payments, KYC and certification."
+      },
+      {
+        "q": "What is the difference between white-label and custom sportsbook software?",
+        "a": "White-label rents a shared platform and licence for speed but limits control of margins, data and roadmap. A custom build gives full ownership of code, risk rules, player data and differentiation at a higher upfront cost and lower long-term cost per bet."
+      },
+      {
+        "q": "How does a sportsbook make money?",
+        "a": "A sportsbook profits from the overround (the margin built into the odds) and from disciplined risk management that keeps the realised hold close to the theoretical margin. Unlike casino games, there is no fixed RTP."
+      },
+      {
+        "q": "Does sportsbook software need to be certified?",
+        "a": "In regulated markets it does. Sports wagering systems are commonly tested against standards such as GLI-33 and reviewed by independent labs like iTech Labs or eCOGRA, with jurisdiction-specific requirements in markets such as the MGA and UKGC."
+      },
+      {
+        "q": "What is in-play or live betting?",
+        "a": "In-play betting lets players bet on events as they happen, with odds updating in real time. It requires sub-second price updates and settlement and now drives the majority of turnover for most operators."
+      },
+      {
+        "q": "Can Sudonex build a custom sportsbook platform?",
+        "a": "Yes. Sudonex builds compliant, ownable sportsbook and sports-exchange platforms with independent trading, risk automation, reliable payments and a 99.9%+ uptime target for operators across MGA, UKGC and Curaçao markets."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Sportsbook Software",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        },
+        "name": "Sportsbook Software | Custom Betting Platform | Sudonex",
+        "description": "Sportsbook software built to own: odds and trading engine, risk management, payments, KYC and 99.9% uptime for licensed betting operators. Talk to our team.",
+        "url": "https://sudonex.com/sportsbook-software/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sportsbook Software | Sudonex",
+            "item": "https://www.sudonex.com/sportsbook-software/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is sportsbook software?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sportsbook software is the full technology platform a licensed bookmaker uses to accept bets, price markets in real time, manage risk, process payments and stay compliant. It combines an odds and trading engine, player account management, payments/KYC and web and mobile front ends."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How much does sportsbook software cost?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "As a planning range, white-label or turnkey launches run from about USD 30,000 to USD 150,000 in setup plus revenue share, while a custom sportsbook platform generally starts near USD 150,000 and can exceed USD 500,000, depending on markets, data feeds and compliance scope."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long does it take to launch a sportsbook?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A white-label or turnkey sportsbook can typically go live in roughly 6 to 12 weeks, while a custom build usually takes 4 to 9 months including trading setup, payments, KYC and certification."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between white-label and custom sportsbook software?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "White-label rents a shared platform and licence for speed but limits control of margins, data and roadmap. A custom build gives full ownership of code, risk rules, player data and differentiation at a higher upfront cost and lower long-term cost per bet."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a sportsbook make money?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A sportsbook profits from the overround (the margin built into the odds) and from disciplined risk management that keeps the realised hold close to the theoretical margin. Unlike casino games, there is no fixed RTP."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does sportsbook software need to be certified?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "In regulated markets it does. Sports wagering systems are commonly tested against standards such as GLI-33 and reviewed by independent labs like iTech Labs or eCOGRA, with jurisdiction-specific requirements in markets such as the MGA and UKGC."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is in-play or live betting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "In-play betting lets players bet on events as they happen, with odds updating in real time. It requires sub-second price updates and settlement and now drives the majority of turnover for most operators."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can Sudonex build a custom sportsbook platform?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Sudonex builds compliant, ownable sportsbook and sports-exchange platforms with independent trading, risk automation, reliable payments and a 99.9%+ uptime target for operators across MGA, UKGC and Curaçao markets."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "commercial",
+    "funnel": "BOFU",
+    "cluster": "sportsbook",
+    "primary_kw": "sportsbook software",
+    "secondary_kws": [
+      "betting software platform",
+      "bookmaker software",
+      "sports betting software"
+    ],
+    "outbound_links": [
+      {
+        "to": "/sports-exchange-development/",
+        "anchor": "sports exchange development",
+        "reason": "sibling"
+      },
+      {
+        "to": "/sportsbook-payment-software/",
+        "anchor": "sportsbook payment software",
+        "reason": "sibling"
+      },
+      {
+        "to": "/peer-to-peer-betting-system/",
+        "anchor": "peer-to-peer betting system",
+        "reason": "supporting"
+      },
+      {
+        "to": "/sportsbook-software-platform/",
+        "anchor": "sportsbook software platform",
+        "reason": "hub-spoke"
+      },
+      {
+        "to": "/services/",
+        "anchor": "our iGaming development services",
+        "reason": "hub"
+      }
+    ],
+    "inbound_from": [
+      "/sports-exchange-development/",
+      "/sportsbook-payment-software/"
+    ],
+    "audit_missing": []
+  },
+  "/sportsbook-software-platform/": {
+    "path": "/sportsbook-software-platform/",
+    "layer": "subservice",
+    "seo_title": "Sportsbook Software Platform | Architecture | Sudonex",
+    "meta_description": "Sportsbook software platform explained: odds management, risk engine, PAM, payments and 99.9% uptime architecture you can own. Talk to Sudonex about a build.",
+    "h1": "Sportsbook Software Platform | Sudonex",
+    "canonical": "https://www.sudonex.com/sportsbook-software-platform/",
+    "body_html": "<p>A sportsbook software platform is the core engineering foundation a bookmaker runs on — the services, databases and APIs that turn raw sports data into priced markets, accept and settle bets, and keep the whole operation compliant and online. Where a betting website is what players see, the platform is the machinery underneath that decides whether the business is profitable, scalable and ownable.</p>\n<p>Operators evaluating a betting platform software decision are really choosing how much of their book they will control. This page breaks down the architecture of a modern sportsbook platform, how odds and risk flow through it, and the deployment models available. It is the technical companion to our <a href=\"/sportsbook-software/\">sportsbook software</a> overview.</p>\n<h2 id=\"what-is\">What Is a Sportsbook Software Platform?</h2>\n<p>A sportsbook software platform is the integrated set of back-end systems that power betting operations: an odds and trading engine, a player account management (PAM) layer, a risk and liability service, a payments and KYC layer, and the APIs that feed web and mobile clients. A strong platform exposes clean interfaces so operators can control margins, limits and bonuses without re-engineering the core.</p>\n<h2 id=\"architecture\">Platform Architecture</h2>\n<p>Modern platforms are service-oriented and event-driven. A real-time ingestion layer consumes data feeds; a pricing service applies margin and generates odds; a risk service tracks exposure and triggers automated moves; the PAM holds accounts and wallets; and a settlement service grades bets the instant results are confirmed. Message queues and caching keep the system responsive under spikes, and everything is instrumented for monitoring so issues are caught before players feel them.</p>\n<h2 id=\"odds-management\">Odds Management and Data Feeds</h2>\n<p>The odds management system is the heart of the platform. It subscribes to low-latency sports data, generates pre-match and in-play prices with a configurable overround, and updates thousands of markets per second as money and match events arrive. Operators need control here — margin by sport and market, manual trader overrides, and the ability to suspend or re-price markets instantly.</p>\n<h2 id=\"player-bet-management\">Player and Bet Management</h2>\n<p>The PAM is the system of record: KYC status, wallets, bonuses, limits and responsible-gambling controls. Bet management handles the bet slip, accumulators, bet-builder, cash-out and settlement. Because these systems hold the player relationship and the money, owning them (rather than renting) is what gives an operator durable control over retention and margin.</p>\n<h2 id=\"scalability\">Scalability, Uptime and Latency</h2>\n<p>Betting traffic is spiky — a derby or a Grand Slam final can multiply load in minutes. A serious platform targets 99.9% uptime or better, scales horizontally for match-day peaks, and keeps in-play price and settlement latency low enough that cash-out and live bets feel instant. Downtime during a marquee event is the most expensive failure a sportsbook can have, so resilience is an architecture decision, not an afterthought.</p>\n<h2 id=\"integrations\">Integrations: Payments, KYC and Data</h2>\n<p>A platform is only as good as its integrations. Payments run through a PSP layer with smart routing, multi-currency and crypto support for fast deposits and withdrawals; KYC/AML providers handle onboarding and screening; and sports-data providers supply odds and results feeds. Clean, well-documented APIs make these swappable, so an operator is never trapped by a single vendor. The same payment discipline underpins our <a href=\"/sportsbook-payment-software/\">sportsbook payment software</a>.</p>\n<h2 id=\"security-compliance\">Security and Compliance Engineering</h2>\n<p>A sportsbook platform handles money, identity and regulated activity, so security is engineered in, not bolted on. That means encryption of sensitive data in transit and at rest, strict access controls, full audit logging, and segregation of player funds in the wallet layer. Compliance engineering adds KYC/AML workflows, configurable responsible-gambling limits, geo-fencing to enforce licensed jurisdictions, and the reporting hooks regulators expect. In markets such as the MGA and UKGC, systems are tested against recognised standards and independent labs (for example GLI-33 for sports wagering and reviewers like iTech Labs or eCOGRA), so the platform must be built to pass certification rather than retrofitted for it.</p>\n<h2 id=\"monitoring-observability\">Monitoring and Observability</h2>\n<p>Because downtime during a marquee event is the costliest failure a book can have, a serious platform is heavily instrumented. Metrics, logs and traces across the ingestion, pricing, risk and settlement services let the team detect latency creep or feed problems before players notice. Automated alerting, health checks and graceful degradation (suspending affected markets rather than crashing the whole book) are what turn a 99.9% uptime target into a reality instead of a marketing claim.</p>\n<h2 id=\"ownership\">Why Ownership Beats Renting at Scale</h2>\n<p>Rented platforms get an operator live quickly, but every bet carries someone else's margin and the player data lives in someone else's system. As volume grows, the economics flip: a custom or deeply configurable platform lets you set your own margins, keep your player data, ship features on your own roadmap and integrate the partners you choose. For operators who intend to scale, platform ownership is the difference between building an asset and renting a shopfront.</p>\n<h2 id=\"deployment-models\">Deployment Models</h2>\n<p>Platforms are delivered as white-label (rented, fastest), turnkey (configured and branded) or custom (fully owned). For operators who intend to scale and differentiate, a custom or deeply configurable platform pays back through controlled margins, owned player data and a roadmap that is yours. Compare the trade-offs in our <a href=\"/sportsbook-software/\">sportsbook software</a> guide, or explore <a href=\"/sports-exchange-development/\">sports exchange development</a> for an exchange model.</p>",
+    "toc": [
+      {
+        "text": "What Is a Sportsbook Software Platform?",
+        "href": "#what-is"
+      },
+      {
+        "text": "Platform Architecture",
+        "href": "#architecture"
+      },
+      {
+        "text": "Odds Management and Data Feeds",
+        "href": "#odds-management"
+      },
+      {
+        "text": "Player and Bet Management",
+        "href": "#player-bet-management"
+      },
+      {
+        "text": "Scalability, Uptime and Latency",
+        "href": "#scalability"
+      },
+      {
+        "text": "Integrations: Payments, KYC and Data",
+        "href": "#integrations"
+      },
+      {
+        "text": "Security and Compliance Engineering",
+        "href": "#security-compliance"
+      },
+      {
+        "text": "Monitoring and Observability",
+        "href": "#monitoring-observability"
+      },
+      {
+        "text": "Why Ownership Beats Renting at Scale",
+        "href": "#ownership"
+      },
+      {
+        "text": "Deployment Models",
+        "href": "#deployment-models"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is a sportsbook software platform?",
+        "a": "It is the core back-end system that powers a bookmaker: an odds and trading engine, player account management, risk and liability services, payments and KYC, and the APIs that serve web and mobile betting clients."
+      },
+      {
+        "q": "How is a platform different from a betting website?",
+        "a": "The website is the front end players see; the platform is the engineering underneath that prices markets, manages risk, processes payments and settles bets. The platform determines profitability, scalability and how much of the book an operator truly owns."
+      },
+      {
+        "q": "What is an odds management system?",
+        "a": "It is the service that ingests live sports data, generates pre-match and in-play prices with a configurable margin, and updates thousands of markets per second, with trader overrides and instant suspend or re-price controls."
+      },
+      {
+        "q": "What uptime should a sportsbook platform target?",
+        "a": "A serious platform targets 99.9% uptime or better and scales for match-day peaks, because downtime during a marquee event is the most costly failure a sportsbook can suffer."
+      },
+      {
+        "q": "Why does low latency matter in betting?",
+        "a": "In-play betting, cash-out and live settlement depend on sub-second price updates. High latency causes suspended markets, failed cash-outs and lost turnover, so latency is a core design constraint."
+      },
+      {
+        "q": "Can payments and KYC providers be changed later?",
+        "a": "On a well-architected platform, yes. Clean APIs make PSPs, KYC/AML and data providers swappable, so operators are not locked into a single vendor."
+      },
+      {
+        "q": "What deployment models are available?",
+        "a": "White-label (rented and fastest), turnkey (configured and branded) and custom (fully owned). Custom or deeply configurable platforms suit operators who intend to scale and differentiate."
+      },
+      {
+        "q": "Does Sudonex build custom sportsbook platforms?",
+        "a": "Yes. Sudonex engineers ownable sportsbook platforms with independent odds management, automated risk, reliable payments and a 99.9%+ uptime target for regulated operators."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Sportsbook Software Platform",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        },
+        "name": "Sportsbook Software Platform | Architecture | Sudonex",
+        "description": "Sportsbook software platform explained: odds management, risk engine, PAM, payments and 99.9% uptime architecture you can own. Talk to Sudonex about a build.",
+        "url": "https://sudonex.com/sportsbook-software-platform/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sportsbook Software Platform | Sudonex",
+            "item": "https://www.sudonex.com/sportsbook-software-platform/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is a sportsbook software platform?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It is the core back-end system that powers a bookmaker: an odds and trading engine, player account management, risk and liability services, payments and KYC, and the APIs that serve web and mobile betting clients."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is a platform different from a betting website?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The website is the front end players see; the platform is the engineering underneath that prices markets, manages risk, processes payments and settles bets. The platform determines profitability, scalability and how much of the book an operator truly owns."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is an odds management system?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It is the service that ingests live sports data, generates pre-match and in-play prices with a configurable margin, and updates thousands of markets per second, with trader overrides and instant suspend or re-price controls."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What uptime should a sportsbook platform target?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A serious platform targets 99.9% uptime or better and scales for match-day peaks, because downtime during a marquee event is the most costly failure a sportsbook can suffer."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why does low latency matter in betting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "In-play betting, cash-out and live settlement depend on sub-second price updates. High latency causes suspended markets, failed cash-outs and lost turnover, so latency is a core design constraint."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can payments and KYC providers be changed later?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "On a well-architected platform, yes. Clean APIs make PSPs, KYC/AML and data providers swappable, so operators are not locked into a single vendor."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What deployment models are available?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "White-label (rented and fastest), turnkey (configured and branded) and custom (fully owned). Custom or deeply configurable platforms suit operators who intend to scale and differentiate."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does Sudonex build custom sportsbook platforms?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Sudonex engineers ownable sportsbook platforms with independent odds management, automated risk, reliable payments and a 99.9%+ uptime target for regulated operators."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "commercial",
+    "funnel": "BOFU",
+    "cluster": "sportsbook",
+    "primary_kw": "sportsbook software platform",
+    "secondary_kws": [
+      "betting platform software",
+      "odds management system",
+      "betting software architecture"
+    ],
+    "outbound_links": [
+      {
+        "to": "/sportsbook-software/",
+        "anchor": "sportsbook software",
+        "reason": "pillar-up"
+      },
+      {
+        "to": "/sports-exchange-development/",
+        "anchor": "sports exchange development",
+        "reason": "sibling"
+      },
+      {
+        "to": "/sportsbook-payment-software/",
+        "anchor": "sportsbook payment software",
+        "reason": "supporting"
+      }
+    ],
+    "inbound_from": [
+      "/sportsbook-software/"
+    ],
+    "audit_missing": []
   }
 }
