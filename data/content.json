@@ -25661,6 +25661,16 @@
         "to": "/services/",
         "anchor": "our iGaming development services",
         "reason": "hub"
+      },
+      {
+        "to": "/turnkey-sportsbook-software/",
+        "anchor": "turnkey sportsbook software",
+        "reason": "hub-spoke"
+      },
+      {
+        "to": "/sportsbook-software-cost/",
+        "anchor": "sportsbook software cost",
+        "reason": "hub-spoke"
       }
     ],
     "inbound_from": [
@@ -25890,6 +25900,470 @@
     ],
     "inbound_from": [
       "/sportsbook-software/"
+    ],
+    "audit_missing": []
+  },
+  "/turnkey-sportsbook-software/": {
+    "path": "/turnkey-sportsbook-software/",
+    "layer": "subservice",
+    "seo_title": "Turnkey Sportsbook Software | Launch Fast | Sudonex",
+    "meta_description": "Turnkey sportsbook software to launch your branded book in weeks: odds engine, risk, payments, KYC and 99.9% uptime. Costs, timeline and how to choose.",
+    "h1": "Turnkey Sportsbook Software | Sudonex",
+    "canonical": "https://www.sudonex.com/turnkey-sportsbook-software/",
+    "body_html": "<p>Turnkey sportsbook software is a pre-built, ready-to-launch betting platform that an operator can brand, configure and take live quickly — without building the odds engine, risk system, payments and compliance stack from scratch. It sits between a fully rented white-label and a fully owned custom build: you get speed and a proven core, with more control over branding, margins and configuration than a thin white-label skin allows.</p>\n<p>For many new and mid-size operators, turnkey is the pragmatic route to market. You avoid 6-9 months of custom engineering, inherit a tested trading and settlement core, and focus your money on acquisition and retention instead of plumbing. This guide explains exactly what a turnkey sportsbook includes, how it compares to the alternatives, realistic cost and timelines, and how to choose a provider. It is part of our wider <a href=\"/sportsbook-software/\">sportsbook software</a> coverage.</p>\n<h2 id=\"what-is\">What Is Turnkey Sportsbook Software?</h2>\n<p>A turnkey sportsbook is a complete, pre-integrated betting platform delivered as a package: odds and trading engine, player account management (PAM), payments and KYC, web and mobile front ends, and a back office. \"Turnkey\" means the hard engineering is done — you turn the key, apply your brand, configure markets and limits, and launch. Unlike a bare white-label, a good turnkey solution lets you control margins, bonuses and risk rules rather than inheriting a shared, fixed configuration.</p>\n<h2 id=\"turnkey-vs\">Turnkey vs White-Label vs Custom</h2>\n<p>The three routes to market trade speed against control:</p>\n<ul><li><strong>White-label</strong> — fastest and cheapest; you rent platform and licence and accept shared margins and limited differentiation.</li><li><strong>Turnkey</strong> — a proven platform you brand and configure, with meaningful control over markets, margins and bonusing; faster than custom, more ownable than white-label.</li><li><strong>Custom</strong> — full ownership of code, data and roadmap at the highest upfront cost; the only route to deep differentiation. See the <a href=\"/sportsbook-software-platform/\">sportsbook software platform</a> breakdown.</li></ul>\n<p>If you want to be live in weeks with your own brand and sensible control, turnkey is usually the right balance. If you intend to build a large, differentiated book long term, plan a path from turnkey to custom.</p>\n<h2 id=\"whats-included\">What a Turnkey Sportsbook Includes</h2>\n<p>A credible turnkey package ships with: a pre-match and in-play odds feed and trading engine; risk and liability management; a PAM for accounts, wallets, bonuses and limits; a cashier built on reliable <a href=\"/sportsbook-payment-software/\">sportsbook payment software</a>; responsive web and native mobile clients with bet slip, cash-out and bet-builder; and a back office for CRM, bonusing and GGR/NGR reporting. Compliance tooling — KYC/AML, responsible-gambling limits, self-exclusion and reporting — is included and configured per jurisdiction.</p>\n<h2 id=\"odds-trading\">Odds, Trading and Risk</h2>\n<p>The trading core is what you are really buying. A good turnkey platform gives you configurable margin (overround) per sport and market, automated stake factoring and liability caps, and trader overrides to suspend or re-price instantly. In-play now drives most turnover, so sub-second price updates and settlement matter. Because a sportsbook has no fixed RTP, your profitability depends on the overround and on disciplined risk automation keeping the realised hold close to the theoretical margin.</p>\n<h2 id=\"payments-compliance\">Payments, KYC and Compliance</h2>\n<p>Players judge a book by withdrawal speed, so the turnkey cashier should support multiple PSPs with smart routing, multi-currency and crypto rails to cut failed transactions. On compliance, regulated markets expect KYC/AML onboarding, source-of-funds checks above thresholds, responsible-gambling limits, and certification against standards such as GLI-33 for sports wagering with independent labs like iTech Labs or eCOGRA. A turnkey provider operating in MGA, UKGC or Curaçao markets should have this built in rather than bolted on.</p>\n<h2 id=\"timeline\">Launch Timeline</h2>\n<p>A turnkey sportsbook typically goes live in roughly 6 to 12 weeks, depending on branding, payment and KYC setup, data-feed contracts and the licence. That compares with 4 to 9 months for a custom build. The biggest timeline variables are usually licensing and payment onboarding, not the platform itself — so start those early and in parallel.</p>\n<h2 id=\"pros-cons\">Pros, Cons and Who It Suits</h2>\n<p><strong>Pros:</strong> fast launch, proven core, lower upfront cost than custom, real control over brand and margins. <strong>Cons:</strong> less differentiation than custom, some dependency on the provider's roadmap, and configuration limits at the edges. <strong>Best for:</strong> new and mid-size operators who want to be live quickly with their own brand, and who may migrate to a custom platform as volume grows.</p>\n<h2 id=\"key-features\">Key Features to Expect</h2>\n<p>A competitive turnkey sportsbook should ship with the features players now treat as standard: a fast mobile bet slip, single and accumulator betting, in-play markets, cash-out (full and partial), bet-builder or same-game multis, and live streaming or match trackers where data rights allow. On the operator side, expect segment-based bonusing (free bets, odds boosts, acca insurance), a CRM for retention, and real-time dashboards for GGR, NGR, hold and liability. The quality of the mobile experience and the bet-builder are now primary drivers of conversion and retention, so weigh them heavily when comparing providers.</p>\n<p>Equally important is what you can control. A strong turnkey platform lets you set margins by sport and market, define player limits and stake factors, and run promotions that are profitable rather than generic. If a provider cannot show you those controls, you are closer to a white-label skin than a true turnkey solution.</p>\n<h2 id=\"crypto-markets\">Crypto, Currencies and New Markets</h2>\n<p>Many turnkey operators target multiple regions and player preferences, which makes payment breadth a competitive feature in itself. Look for multi-currency support, local payment methods per market, and crypto rails (stablecoins and major coins) that reduce friction for international players and speed up withdrawals. Crypto settlement can also lower payment costs and expand reach in markets where card acceptance is weak. Pair this with KYC/AML that is configured per jurisdiction so you stay compliant while onboarding players quickly.</p>\n<h2 id=\"cost\">Turnkey Sportsbook Cost</h2>\n<p>As a planning range, a turnkey sportsbook commonly runs from roughly USD 30,000 to USD 150,000 in setup, often plus an ongoing revenue share or monthly fee, with licensing, data feeds and payment setup as separate line items. The spread depends on markets covered, sports and bet types, and the depth of customisation. For a full cost comparison across models, see <a href=\"/sportsbook-software-cost/\">sportsbook software cost</a>.</p>\n<h2 id=\"choosing\">Choosing a Turnkey Provider</h2>\n<p>Evaluate providers on five points: how much control you keep over margins and player data, the breadth and latency of live markets, compliance and certification track record, payment and withdrawal reliability, and a credible uptime SLA (99.9% or better). Ask whether you can later migrate to a custom platform without losing your data and brand. Sudonex builds and operates turnkey and custom sportsbook systems with ownership and compliance as defaults — <a href=\"/services/\">see our services</a> or talk to our team.</p>",
+    "toc": [
+      {
+        "text": "What Is Turnkey Sportsbook Software?",
+        "href": "#what-is"
+      },
+      {
+        "text": "Turnkey vs White-Label vs Custom",
+        "href": "#turnkey-vs"
+      },
+      {
+        "text": "What a Turnkey Sportsbook Includes",
+        "href": "#whats-included"
+      },
+      {
+        "text": "Odds, Trading and Risk",
+        "href": "#odds-trading"
+      },
+      {
+        "text": "Payments, KYC and Compliance",
+        "href": "#payments-compliance"
+      },
+      {
+        "text": "Key Features to Expect",
+        "href": "#key-features"
+      },
+      {
+        "text": "Crypto, Currencies and New Markets",
+        "href": "#crypto-markets"
+      },
+      {
+        "text": "Launch Timeline",
+        "href": "#timeline"
+      },
+      {
+        "text": "Pros, Cons and Who It Suits",
+        "href": "#pros-cons"
+      },
+      {
+        "text": "Turnkey Sportsbook Cost",
+        "href": "#cost"
+      },
+      {
+        "text": "Choosing a Turnkey Provider",
+        "href": "#choosing"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is turnkey sportsbook software?",
+        "a": "Turnkey sportsbook software is a pre-built, ready-to-launch betting platform an operator can brand, configure and take live quickly, including the odds engine, risk system, PAM, payments, KYC and web/mobile front ends, without custom engineering from scratch."
+      },
+      {
+        "q": "What is the difference between turnkey and white-label sportsbook?",
+        "a": "White-label rents a shared platform and licence with limited control, while turnkey gives you a proven platform you brand and configure with meaningful control over markets, margins and bonusing. Turnkey is more ownable; white-label is faster and cheaper."
+      },
+      {
+        "q": "How much does a turnkey sportsbook cost?",
+        "a": "As a planning range, turnkey setup commonly runs from about USD 30,000 to USD 150,000, often plus a revenue share or monthly fee, with licensing, data feeds and payments as separate costs depending on markets and customisation."
+      },
+      {
+        "q": "How long does a turnkey sportsbook take to launch?",
+        "a": "Typically 6 to 12 weeks, with licensing and payment onboarding usually the biggest timeline variables rather than the platform itself. A custom build, by contrast, takes 4 to 9 months."
+      },
+      {
+        "q": "What is included in a turnkey sportsbook?",
+        "a": "A pre-match and in-play odds and trading engine, risk management, player account management, a multi-PSP cashier, responsive web and native mobile apps with cash-out and bet-builder, a back office for CRM and reporting, and jurisdiction-configured compliance tooling."
+      },
+      {
+        "q": "Can I move from turnkey to a custom platform later?",
+        "a": "With the right provider, yes. Look for a turnkey partner that lets you migrate to a custom, fully owned platform without losing player data or your brand as your volume grows."
+      },
+      {
+        "q": "Is turnkey sportsbook software certified?",
+        "a": "In regulated markets it should be. Sports wagering systems are commonly tested against standards such as GLI-33 and reviewed by independent labs like iTech Labs or eCOGRA, with jurisdiction-specific requirements in markets such as the MGA and UKGC."
+      },
+      {
+        "q": "Who is turnkey sportsbook software best for?",
+        "a": "New and mid-size operators who want to launch quickly under their own brand with real control over margins, and who may migrate to a custom platform as the business scales."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Turnkey Sportsbook Software",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        },
+        "name": "Turnkey Sportsbook Software | Launch Fast | Sudonex",
+        "description": "Turnkey sportsbook software to launch your branded book in weeks: odds engine, risk, payments, KYC and 99.9% uptime. Costs, timeline and how to choose.",
+        "url": "https://sudonex.com/turnkey-sportsbook-software/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Turnkey Sportsbook Software | Sudonex",
+            "item": "https://www.sudonex.com/turnkey-sportsbook-software/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is turnkey sportsbook software?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Turnkey sportsbook software is a pre-built, ready-to-launch betting platform an operator can brand, configure and take live quickly, including the odds engine, risk system, PAM, payments, KYC and web/mobile front ends, without custom engineering from scratch."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between turnkey and white-label sportsbook?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "White-label rents a shared platform and licence with limited control, while turnkey gives you a proven platform you brand and configure with meaningful control over markets, margins and bonusing. Turnkey is more ownable; white-label is faster and cheaper."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How much does a turnkey sportsbook cost?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "As a planning range, turnkey setup commonly runs from about USD 30,000 to USD 150,000, often plus a revenue share or monthly fee, with licensing, data feeds and payments as separate costs depending on markets and customisation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long does a turnkey sportsbook take to launch?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Typically 6 to 12 weeks, with licensing and payment onboarding usually the biggest timeline variables rather than the platform itself. A custom build, by contrast, takes 4 to 9 months."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is included in a turnkey sportsbook?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A pre-match and in-play odds and trading engine, risk management, player account management, a multi-PSP cashier, responsive web and native mobile apps with cash-out and bet-builder, a back office for CRM and reporting, and jurisdiction-configured compliance tooling."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I move from turnkey to a custom platform later?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "With the right provider, yes. Look for a turnkey partner that lets you migrate to a custom, fully owned platform without losing player data or your brand as your volume grows."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is turnkey sportsbook software certified?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "In regulated markets it should be. Sports wagering systems are commonly tested against standards such as GLI-33 and reviewed by independent labs like iTech Labs or eCOGRA, with jurisdiction-specific requirements in markets such as the MGA and UKGC."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who is turnkey sportsbook software best for?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "New and mid-size operators who want to launch quickly under their own brand with real control over margins, and who may migrate to a custom platform as the business scales."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "commercial",
+    "funnel": "BOFU",
+    "cluster": "sportsbook",
+    "primary_kw": "turnkey sportsbook software",
+    "secondary_kws": [
+      "ready-made sportsbook",
+      "white label sportsbook",
+      "turnkey betting software"
+    ],
+    "outbound_links": [
+      {
+        "to": "/sportsbook-software/",
+        "anchor": "sportsbook software",
+        "reason": "pillar-up"
+      },
+      {
+        "to": "/sportsbook-software-platform/",
+        "anchor": "sportsbook software platform",
+        "reason": "sibling"
+      },
+      {
+        "to": "/sportsbook-software-cost/",
+        "anchor": "sportsbook software cost",
+        "reason": "sibling"
+      },
+      {
+        "to": "/sportsbook-payment-software/",
+        "anchor": "sportsbook payment software",
+        "reason": "supporting"
+      },
+      {
+        "to": "/services/",
+        "anchor": "our iGaming development services",
+        "reason": "hub"
+      }
+    ],
+    "inbound_from": [
+      "/sportsbook-software/"
+    ],
+    "audit_missing": []
+  },
+  "/sportsbook-software-cost/": {
+    "path": "/sportsbook-software-cost/",
+    "layer": "subservice",
+    "seo_title": "Sportsbook Software Cost | 2026 Pricing Guide | Sudonex",
+    "meta_description": "Sportsbook software cost explained: white-label vs turnkey vs custom pricing, setup vs ongoing fees, hidden licensing/data/payment costs and a sample budget.",
+    "h1": "Sportsbook Software Cost | Sudonex",
+    "canonical": "https://www.sudonex.com/sportsbook-software-cost/",
+    "body_html": "<p>Sportsbook software cost depends far more on the operating model and scope than on any single price tag. A white-label launch can start in the low tens of thousands of dollars, while a fully custom, multi-market sportsbook platform can exceed half a million. The real question is not \"what does it cost?\" but \"what am I buying control of?\" — because margins, player data and roadmap ownership are where the long-term economics live.</p>\n<p>This guide breaks down sportsbook software pricing by model, separates one-off setup from ongoing costs, flags the line items operators forget (licensing, data feeds, payments), and gives a sample budget. It complements our <a href=\"/sportsbook-software/\">sportsbook software</a> and <a href=\"/turnkey-sportsbook-software/\">turnkey sportsbook software</a> guides.</p>\n<h2 id=\"cost-drivers\">What Drives Sportsbook Software Cost?</h2>\n<p>Five factors move the number most: the build model (white-label vs turnkey vs custom); the breadth of sports, markets and bet types; in-play and trading sophistication; compliance and certification scope across jurisdictions; and payments (number of PSPs, currencies and crypto rails). A single-market pre-match book is a fraction of the cost of a multi-market, in-play, multi-currency operation with a bet-builder and automated risk.</p>\n<h2 id=\"cost-by-model\">Cost by Model: White-Label, Turnkey, Custom</h2>\n<p>As realistic planning ranges: a <strong>white-label</strong> launch often starts from roughly USD 10,000 to USD 50,000 in setup plus revenue share; a <strong>turnkey</strong> sportsbook commonly runs from about USD 30,000 to USD 150,000 in setup plus revenue share or monthly fees; and a <strong>custom</strong> sportsbook platform generally starts near USD 150,000 and can exceed USD 500,000 for a full multi-market build. These are platform figures — licensing, data and payments sit on top.</p>\n<h2 id=\"setup-vs-ongoing\">Setup vs Ongoing Costs</h2>\n<p>Budget in two buckets. <strong>Setup</strong> covers platform build or configuration, branding, integrations and certification. <strong>Ongoing</strong> covers hosting and uptime, data-feed subscriptions, PSP fees, trading/risk operations, maintenance, and either a revenue share (white-label/turnkey) or your own team cost (custom). Many operators underestimate ongoing cost; a cheap setup with a high revenue share can cost far more over three years than a higher upfront custom build.</p>\n<h2 id=\"hidden-costs\">Hidden Costs: Licensing, Data, Payments</h2>\n<p>The line items operators forget: <strong>licensing</strong> (Curaçao is cheaper and faster; MGA and UKGC are costlier but higher-trust); <strong>sports data feeds</strong> (odds and results feeds are a recurring contract, often priced by sport and markets); <strong>payment setup</strong> (PSP onboarding, rolling reserves and per-transaction fees); and <strong>compliance/certification</strong> (GLI-33 testing and lab reviews). These can collectively match or exceed the platform cost, so model them from day one.</p>\n<h2 id=\"cost-breakdown\">Sample Cost Breakdown</h2>\n<p>An illustrative planning view (ranges, not quotes):</p>\n<table><thead><tr><th>Item</th><th>White-Label</th><th>Turnkey</th><th>Custom</th></tr></thead><tbody><tr><td>Platform setup</td><td>$10k-$50k</td><td>$30k-$150k</td><td>$150k-$500k+</td></tr><tr><td>Go-live timeline</td><td>4-8 weeks</td><td>6-12 weeks</td><td>4-9 months</td></tr><tr><td>Commercial model</td><td>Revenue share</td><td>Rev share / fee</td><td>You own it</td></tr><tr><td>Data feeds (ongoing)</td><td>Often bundled</td><td>Bundled / separate</td><td>Direct contract</td></tr><tr><td>Control of margins/data</td><td>Low</td><td>Medium-High</td><td>Full</td></tr></tbody></table>\n<p>Figures are indicative planning ranges and vary by market, sports coverage and provider; always validate against a scoped quote.</p>\n<h2 id=\"revshare-vs-flat\">Revenue Share vs Flat Fee</h2>\n<p>White-label and turnkey deals usually include a <strong>revenue share</strong> (a percentage of GGR/NGR) on top of setup, which keeps upfront cost low but scales with success — meaning a growing book pays more every month. A <strong>custom</strong> build is capital-heavy upfront but has no revenue share, so the cost per bet falls as volume rises. The crossover point is why scaling operators eventually move to custom.</p>\n<h2 id=\"three-year-tco\">Three-Year Total Cost of Ownership</h2>\n<p>The cheapest launch is rarely the cheapest business. Consider a simplified three-year view. A white-label operator pays a modest setup but a continuous revenue share; as monthly GGR grows, that share compounds into a large recurring cost, and the player data and margins still belong to the provider. A custom operator pays a heavy upfront build but no revenue share, so once volume ramps, the cost per bet keeps falling and the platform is an owned asset. Turnkey sits in between — a sensible middle path for operators who want speed now and the option to migrate later.</p>\n<p>This is why total cost of ownership, not setup price, should drive the decision. Model realistic GGR growth, apply the revenue share or team cost for each model, and compare the three-year totals. Many operators are surprised to find that a higher upfront custom or turnkey build is cheaper by year two or three than a low-setup, high-share white-label.</p>\n<h2 id=\"how-we-price\">How Sudonex Prices a Build</h2>\n<p>Sudonex scopes sportsbook builds transparently: we separate one-off engineering or configuration from ongoing data, payments and hosting, and we map the licensing and certification path for your target markets up front so there are no surprises. Whether you start turnkey for speed or go custom for ownership, we design a migration path so a fast launch does not lock you into someone else's margins and data. The result is a costed plan you can take to investors, not a vague monthly number.</p>\n<h2 id=\"budgeting\">How to Budget and Reduce Risk</h2>\n<p>Model three years, not three months: include setup, ongoing fees or team cost, data, payments and licensing. Start licensing and payment onboarding early — they drive timelines. Favour a provider that lets you control margins and own player data, and that offers a migration path from turnkey to custom so a cheap start does not trap you. Sudonex scopes transparent sportsbook builds across models — <a href=\"/services/\">see our services</a> or request a costed plan.</p>",
+    "toc": [
+      {
+        "text": "What Drives Sportsbook Software Cost?",
+        "href": "#cost-drivers"
+      },
+      {
+        "text": "Cost by Model: White-Label, Turnkey, Custom",
+        "href": "#cost-by-model"
+      },
+      {
+        "text": "Setup vs Ongoing Costs",
+        "href": "#setup-vs-ongoing"
+      },
+      {
+        "text": "Hidden Costs: Licensing, Data, Payments",
+        "href": "#hidden-costs"
+      },
+      {
+        "text": "Sample Cost Breakdown",
+        "href": "#cost-breakdown"
+      },
+      {
+        "text": "Revenue Share vs Flat Fee",
+        "href": "#revshare-vs-flat"
+      },
+      {
+        "text": "Three-Year Total Cost of Ownership",
+        "href": "#three-year-tco"
+      },
+      {
+        "text": "How Sudonex Prices a Build",
+        "href": "#how-we-price"
+      },
+      {
+        "text": "How to Budget and Reduce Risk",
+        "href": "#budgeting"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How much does sportsbook software cost?",
+        "a": "As planning ranges: white-label from about USD 10,000-50,000 in setup plus revenue share; turnkey from about USD 30,000-150,000 plus revenue share or fees; and custom from about USD 150,000, exceeding USD 500,000 for a full multi-market build. Licensing, data and payments are additional."
+      },
+      {
+        "q": "What is cheaper: white-label, turnkey or custom?",
+        "a": "White-label is cheapest to launch, turnkey sits in the middle, and custom is the highest upfront cost. But custom has no revenue share, so its cost per bet falls with volume, often making it cheaper over three years for scaling operators."
+      },
+      {
+        "q": "What ongoing costs does a sportsbook have?",
+        "a": "Hosting and uptime, sports data-feed subscriptions, PSP and transaction fees, trading and risk operations, maintenance, and either a revenue share (white-label/turnkey) or your own team cost (custom)."
+      },
+      {
+        "q": "Why is licensing a hidden sportsbook cost?",
+        "a": "Licences vary widely: Curaçao is cheaper and faster, while MGA and UKGC cost more but carry higher trust. Licensing, plus data feeds and payment onboarding, can match or exceed the platform cost, so it must be budgeted from day one."
+      },
+      {
+        "q": "What is a revenue share in sportsbook software?",
+        "a": "A revenue share is a percentage of gross or net gaming revenue paid to a white-label or turnkey provider on top of setup. It keeps upfront cost low but scales with your success, so a growing book pays more each month."
+      },
+      {
+        "q": "How long does it take to launch a sportsbook?",
+        "a": "Roughly 4-8 weeks for white-label, 6-12 weeks for turnkey, and 4-9 months for a custom build, with licensing and payment onboarding often the biggest timeline drivers."
+      },
+      {
+        "q": "Does sportsbook cost include data feeds?",
+        "a": "Sometimes. White-label and turnkey deals may bundle feeds, while a custom operator usually contracts sports data directly. Odds and results feeds are a recurring cost, often priced by sport and number of markets."
+      },
+      {
+        "q": "How can I reduce sportsbook software risk and cost?",
+        "a": "Model three years of setup plus ongoing costs, start licensing and payments early, keep control of margins and player data, and choose a provider offering a migration path from turnkey to custom so a cheap start does not lock you in."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Sportsbook Software Cost",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        },
+        "name": "Sportsbook Software Cost | 2026 Pricing Guide | Sudonex",
+        "description": "Sportsbook software cost explained: white-label vs turnkey vs custom pricing, setup vs ongoing fees, hidden licensing/data/payment costs and a sample budget.",
+        "url": "https://sudonex.com/sportsbook-software-cost/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sportsbook Software Cost | Sudonex",
+            "item": "https://www.sudonex.com/sportsbook-software-cost/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How much does sportsbook software cost?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "As planning ranges: white-label from about USD 10,000-50,000 in setup plus revenue share; turnkey from about USD 30,000-150,000 plus revenue share or fees; and custom from about USD 150,000, exceeding USD 500,000 for a full multi-market build. Licensing, data and payments are additional."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is cheaper: white-label, turnkey or custom?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "White-label is cheapest to launch, turnkey sits in the middle, and custom is the highest upfront cost. But custom has no revenue share, so its cost per bet falls with volume, often making it cheaper over three years for scaling operators."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What ongoing costs does a sportsbook have?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Hosting and uptime, sports data-feed subscriptions, PSP and transaction fees, trading and risk operations, maintenance, and either a revenue share (white-label/turnkey) or your own team cost (custom)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why is licensing a hidden sportsbook cost?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Licences vary widely: Curaçao is cheaper and faster, while MGA and UKGC cost more but carry higher trust. Licensing, plus data feeds and payment onboarding, can match or exceed the platform cost, so it must be budgeted from day one."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is a revenue share in sportsbook software?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A revenue share is a percentage of gross or net gaming revenue paid to a white-label or turnkey provider on top of setup. It keeps upfront cost low but scales with your success, so a growing book pays more each month."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long does it take to launch a sportsbook?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Roughly 4-8 weeks for white-label, 6-12 weeks for turnkey, and 4-9 months for a custom build, with licensing and payment onboarding often the biggest timeline drivers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does sportsbook cost include data feeds?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sometimes. White-label and turnkey deals may bundle feeds, while a custom operator usually contracts sports data directly. Odds and results feeds are a recurring cost, often priced by sport and number of markets."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How can I reduce sportsbook software risk and cost?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Model three years of setup plus ongoing costs, start licensing and payments early, keep control of margins and player data, and choose a provider offering a migration path from turnkey to custom so a cheap start does not lock you in."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "commercial",
+    "funnel": "BOFU",
+    "cluster": "sportsbook",
+    "primary_kw": "sportsbook software cost",
+    "secondary_kws": [
+      "sportsbook pricing",
+      "betting software price",
+      "cost to build a sportsbook"
+    ],
+    "outbound_links": [
+      {
+        "to": "/sportsbook-software/",
+        "anchor": "sportsbook software",
+        "reason": "pillar-up"
+      },
+      {
+        "to": "/turnkey-sportsbook-software/",
+        "anchor": "turnkey sportsbook software",
+        "reason": "sibling"
+      },
+      {
+        "to": "/sportsbook-software-platform/",
+        "anchor": "sportsbook software platform",
+        "reason": "sibling"
+      },
+      {
+        "to": "/services/",
+        "anchor": "our iGaming development services",
+        "reason": "hub"
+      }
+    ],
+    "inbound_from": [
+      "/sportsbook-software/",
+      "/turnkey-sportsbook-software/"
     ],
     "audit_missing": []
   }
