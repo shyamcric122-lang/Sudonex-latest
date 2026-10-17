@@ -25671,6 +25671,16 @@
         "to": "/sportsbook-software-cost/",
         "anchor": "sportsbook software cost",
         "reason": "hub-spoke"
+      },
+      {
+        "to": "/sportsbook-software-features/",
+        "anchor": "key features of sportsbook software",
+        "reason": "hub-spoke"
+      },
+      {
+        "to": "/price-per-head-sportsbook-software/",
+        "anchor": "price per head sportsbook software",
+        "reason": "hub-spoke"
       }
     ],
     "inbound_from": [
@@ -26364,6 +26374,453 @@
     "inbound_from": [
       "/sportsbook-software/",
       "/turnkey-sportsbook-software/"
+    ],
+    "audit_missing": []
+  },
+  "/sportsbook-software-features/": {
+    "path": "/sportsbook-software-features/",
+    "layer": "subservice",
+    "seo_title": "Key Features of Sportsbook Software | Sudonex",
+    "meta_description": "The key features of sportsbook software that win and keep players: bet-builder, in-play, cash-out, odds and risk engine, payments, CRM, compliance and reporting.",
+    "h1": "Key Features of Sportsbook Software | Sudonex",
+    "canonical": "https://www.sudonex.com/sportsbook-software-features/",
+    "body_html": "<p>The features of sportsbook software decide whether an operator wins players, keeps them, and protects margin. Modern bettors compare books in seconds: the one with a faster bet slip, deeper in-play markets, reliable cash-out and instant withdrawals keeps the player; the one that lags loses them for good. This guide covers the features that actually matter in a betting software platform — from the trading engine to mobile UX — and how they map to revenue and retention. It extends our main <a href=\"/sportsbook-software/\">sportsbook software</a> guide.</p>\n<p>It helps to split features into two groups: player-facing features that drive acquisition and conversion, and operator-facing features that protect margin and keep you compliant. A great book needs both. A beautiful front end over a weak trading engine bleeds money; a strong engine with a clumsy app never acquires players in the first place.</p>\n<h2 id=\"what-defines\">What Defines Good Sportsbook Software?</h2>\n<p>Good sportsbook software combines four qualities: breadth (sports, markets and bet types), speed (sub-second odds and settlement, especially in-play), control (margins, limits and risk rules you own), and trust (compliance, reliable payments and 99.9%+ uptime). Any platform can list features on a slide; the test is whether those features perform under match-day load and whether you control the commercial levers behind them.</p>\n<h2 id=\"betting-features\">Betting and Market Features</h2>\n<p>At minimum a competitive book offers singles, accumulators (parlays), system bets, and a wide market tree across football, cricket, tennis, basketball, esports and more. The features that now differentiate are the <strong>bet-builder</strong> (same-game multis), player props and micro-markets, request-a-bet, and boosted odds. Breadth of markets drives acquisition; the bet-builder and props drive both engagement and margin because they are harder for players to price perfectly.</p>\n<h2 id=\"inplay\">In-Play and Live Betting</h2>\n<p>In-play betting is now the majority of turnover for most operators, so live features are not optional. Expect real-time odds that react to match events within a fraction of a second, live match trackers or streaming where data rights allow, and full and partial <strong>cash-out</strong>. The engineering bar here is high: prices must update and markets must suspend or re-price the instant a goal, wicket or red card changes the game, and settlement must be near-instant so cash-out feels trustworthy.</p>\n<h2 id=\"odds-trading\">Odds, Trading and Risk Features</h2>\n<p>Behind the scenes, the trading features determine profitability. Look for configurable <strong>margin (overround)</strong> by sport and market, automated stake factoring, per-customer and per-market liability limits, and trader overrides to suspend or re-price instantly. Because a sportsbook has no fixed RTP, these controls are how you keep the realised hold close to the theoretical margin and absorb sharp action without bleeding profit. Risk automation is what lets a small trading team safely run thousands of markets.</p>\n<h2 id=\"payments\">Payments and Cashier Features</h2>\n<p>Players judge a book by withdrawal speed. Essential cashier features include multiple PSPs with smart routing, multi-currency support, local payment methods per market, and crypto rails for fast, low-cost settlement. Deposit and withdrawal flows should be quick and transparent, with clear limits and fraud checks that do not punish good players. These capabilities are the heart of reliable <a href=\"/sportsbook-payment-software/\">sportsbook payment software</a>.</p>\n<h2 id=\"player-crm\">Player Management and CRM</h2>\n<p>Retention economics decide survival. Strong platforms include segment-based CRM, flexible bonusing (free bets, odds boosts, acca insurance, deposit matches), loyalty and VIP tiers, and lifecycle automation that re-engages lapsing players. The key is control: you should be able to run promotions that are profitable for your book, not generic giveaways, and to detect bonus abuse and arbitrage early.</p>\n<h2 id=\"compliance\">Compliance and Responsible Gambling</h2>\n<p>In regulated markets, compliance features are licence conditions, not extras. Expect KYC/AML onboarding, source-of-funds checks above thresholds, geo-fencing to enforce licensed jurisdictions, deposit and loss limits, reality checks, self-exclusion, and the reporting hooks regulators require. Systems should be built to pass certification against standards such as GLI-33 for sports wagering, with independent lab reviews (iTech Labs, eCOGRA) expected in markets like the MGA and UKGC.</p>\n<h2 id=\"mobile-ux\">Mobile and UX Features</h2>\n<p>Most bets are placed on phones, often in-play, so mobile is where features convert or fail. Prioritise a fast, sticky bet slip, one-tap re-bet, quick-deposit, biometric login, push notifications for results and cash-out opportunities, and a responsive bet-builder. Native apps and progressive web apps both work; what matters is sub-second responsiveness and a frictionless path from market to confirmed bet.</p>\n<h2 id=\"reporting\">Reporting and Analytics</h2>\n<p>You cannot manage what you cannot see. Real-time dashboards for GGR, NGR, hold, turnover, liability and customer value let traders and management act fast. Good reporting also underpins regulatory returns and the commercial decisions — margin tuning, promotion ROI, segment targeting — that keep a book healthy. Sudonex builds sportsbook platforms with these features as defaults; <a href=\"/sportsbook-software-platform/\">see the platform architecture</a> or <a href=\"/services/\">our services</a>.</p>",
+    "toc": [
+      {
+        "text": "What Defines Good Sportsbook Software?",
+        "href": "#what-defines"
+      },
+      {
+        "text": "Betting and Market Features",
+        "href": "#betting-features"
+      },
+      {
+        "text": "In-Play and Live Betting",
+        "href": "#inplay"
+      },
+      {
+        "text": "Odds, Trading and Risk Features",
+        "href": "#odds-trading"
+      },
+      {
+        "text": "Payments and Cashier Features",
+        "href": "#payments"
+      },
+      {
+        "text": "Player Management and CRM",
+        "href": "#player-crm"
+      },
+      {
+        "text": "Compliance and Responsible Gambling",
+        "href": "#compliance"
+      },
+      {
+        "text": "Mobile and UX Features",
+        "href": "#mobile-ux"
+      },
+      {
+        "text": "Reporting and Analytics",
+        "href": "#reporting"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What are the key features of sportsbook software?",
+        "a": "The essentials are a broad market tree with bet-builder and in-play betting, a fast mobile bet slip with cash-out, a configurable odds and risk engine, multi-PSP payments with crypto, CRM and bonusing, compliance and responsible-gambling tooling, and real-time reporting on GGR, hold and liability."
+      },
+      {
+        "q": "What is a bet-builder?",
+        "a": "A bet-builder lets players combine multiple selections from the same event (same-game multi) into one bet. It drives engagement and margin because such combinations are harder for players to price accurately, and it is now a core differentiator on mobile."
+      },
+      {
+        "q": "Why is in-play betting important?",
+        "a": "In-play (live) betting is now the majority of turnover for most operators. It needs real-time odds that react within a fraction of a second, live trackers or streaming, and near-instant settlement so cash-out feels reliable."
+      },
+      {
+        "q": "What trading features protect a sportsbook's margin?",
+        "a": "Configurable margin (overround) by sport and market, automated stake factoring, per-customer and per-market liability limits, and trader overrides to suspend or re-price instantly. These keep the realised hold close to the theoretical margin."
+      },
+      {
+        "q": "What payment features should sportsbook software have?",
+        "a": "Multiple PSPs with smart routing, multi-currency support, local payment methods per market, crypto rails for fast low-cost settlement, and quick, transparent deposit and withdrawal flows, since players judge a book by withdrawal speed."
+      },
+      {
+        "q": "What compliance features are required?",
+        "a": "KYC/AML onboarding, source-of-funds checks, geo-fencing, deposit and loss limits, reality checks, self-exclusion and regulatory reporting, built to pass certification such as GLI-33 with independent lab reviews in markets like the MGA and UKGC."
+      },
+      {
+        "q": "Do mobile features really affect revenue?",
+        "a": "Yes. Most bets are placed on phones, so a fast bet slip, one-tap re-bet, quick deposits, biometric login and a responsive bet-builder directly drive conversion and retention. A slow mobile experience loses players regardless of marketing spend."
+      },
+      {
+        "q": "What reporting does a sportsbook need?",
+        "a": "Real-time dashboards for GGR, NGR, hold, turnover, liability and customer value, which let traders and management tune margins, measure promotion ROI, meet regulatory returns and keep the book profitable."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Key Features of Sportsbook Software",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        },
+        "name": "Key Features of Sportsbook Software | Sudonex",
+        "description": "The key features of sportsbook software that win and keep players: bet-builder, in-play, cash-out, odds and risk engine, payments, CRM, compliance and reporting.",
+        "url": "https://sudonex.com/sportsbook-software-features/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Key Features of Sportsbook Software | Sudonex",
+            "item": "https://www.sudonex.com/sportsbook-software-features/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What are the key features of sportsbook software?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The essentials are a broad market tree with bet-builder and in-play betting, a fast mobile bet slip with cash-out, a configurable odds and risk engine, multi-PSP payments with crypto, CRM and bonusing, compliance and responsible-gambling tooling, and real-time reporting on GGR, hold and liability."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is a bet-builder?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A bet-builder lets players combine multiple selections from the same event (same-game multi) into one bet. It drives engagement and margin because such combinations are harder for players to price accurately, and it is now a core differentiator on mobile."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why is in-play betting important?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "In-play (live) betting is now the majority of turnover for most operators. It needs real-time odds that react within a fraction of a second, live trackers or streaming, and near-instant settlement so cash-out feels reliable."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What trading features protect a sportsbook's margin?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Configurable margin (overround) by sport and market, automated stake factoring, per-customer and per-market liability limits, and trader overrides to suspend or re-price instantly. These keep the realised hold close to the theoretical margin."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What payment features should sportsbook software have?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Multiple PSPs with smart routing, multi-currency support, local payment methods per market, crypto rails for fast low-cost settlement, and quick, transparent deposit and withdrawal flows, since players judge a book by withdrawal speed."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What compliance features are required?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "KYC/AML onboarding, source-of-funds checks, geo-fencing, deposit and loss limits, reality checks, self-exclusion and regulatory reporting, built to pass certification such as GLI-33 with independent lab reviews in markets like the MGA and UKGC."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do mobile features really affect revenue?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Most bets are placed on phones, so a fast bet slip, one-tap re-bet, quick deposits, biometric login and a responsive bet-builder directly drive conversion and retention. A slow mobile experience loses players regardless of marketing spend."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What reporting does a sportsbook need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Real-time dashboards for GGR, NGR, hold, turnover, liability and customer value, which let traders and management tune margins, measure promotion ROI, meet regulatory returns and keep the book profitable."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "commercial",
+    "funnel": "BOFU",
+    "cluster": "sportsbook",
+    "primary_kw": "key features of sportsbook software",
+    "secondary_kws": [
+      "sportsbook features",
+      "betting software features",
+      "sportsbook functionality"
+    ],
+    "outbound_links": [
+      {
+        "to": "/sportsbook-software/",
+        "anchor": "sportsbook software",
+        "reason": "pillar-up"
+      },
+      {
+        "to": "/sportsbook-software-platform/",
+        "anchor": "sportsbook software platform",
+        "reason": "sibling"
+      },
+      {
+        "to": "/turnkey-sportsbook-software/",
+        "anchor": "turnkey sportsbook software",
+        "reason": "sibling"
+      },
+      {
+        "to": "/sportsbook-payment-software/",
+        "anchor": "sportsbook payment software",
+        "reason": "supporting"
+      },
+      {
+        "to": "/services/",
+        "anchor": "our iGaming development services",
+        "reason": "hub"
+      }
+    ],
+    "inbound_from": [
+      "/sportsbook-software/"
+    ],
+    "audit_missing": []
+  },
+  "/price-per-head-sportsbook-software/": {
+    "path": "/price-per-head-sportsbook-software/",
+    "layer": "subservice",
+    "seo_title": "Price Per Head Sportsbook Software (PPH) | Sudonex",
+    "meta_description": "Price per head (PPH) sportsbook software explained: how per-head pricing works, what bookie software includes, PPH vs turnkey vs custom, costs and what to watch for.",
+    "h1": "Price Per Head Sportsbook Software | Sudonex",
+    "canonical": "https://www.sudonex.com/price-per-head-sportsbook-software/",
+    "body_html": "<p>Price per head (PPH) sportsbook software is a pay-as-you-go model where a bookie or agent pays a small weekly fee per active betting customer — the \"head\" — instead of building or renting a full platform. The PPH provider supplies the betting website, the lines, grading and settlement, reporting and player management; the agent brings the players and manages credit and collections. It is the most common way independent bookies and sub-agents run a modern book without heavy upfront cost.</p>\n<p>This guide explains how PPH pricing and bookie software actually work, what a good service includes, how it compares to turnkey and custom builds, and what to watch for. If you are an operator rather than a per-head agent, see our broader <a href=\"/sportsbook-software/\">sportsbook software</a> and <a href=\"/sportsbook-software-cost/\">sportsbook software cost</a> guides.</p>\n<h2 id=\"what-is-pph\">What Is Price Per Head (PPH) Sportsbook Software?</h2>\n<p>PPH, also called pay-per-head or bookie software, is a hosted betting service billed per active player per week. The agent gets a branded betting site and mobile interface, a full sportsbook (and often casino and racebook), ready-made lines, automatic grading and settlement, and a back office to set limits and view reports. Players bet through the site; the agent handles the money relationship. Because billing is per active head, costs scale with the size of the active book rather than a fixed platform fee.</p>\n<h2 id=\"how-pricing-works\">How PPH Pricing Works</h2>\n<p>Agents typically pay a weekly fee per active player — commonly in the region of a few dollars up to around USD 10-15 per head per week, depending on the provider, features and volume. \"Active\" usually means a player who placed at least one bet that week, so dormant players often do not count. Many providers offer volume discounts, free trial weeks, and add-on fees for premium features like live betting, streaming or a casino module. Always confirm exactly how \"active\" is defined, because it drives your real cost.</p>\n<h2 id=\"whats-included\">What a PPH Service Includes</h2>\n<p>A solid PPH package provides: a branded betting website and mobile app, pre-match and in-play lines sourced and managed by the provider, automatic bet grading and settlement, player and agent back offices, configurable limits and bet types, and reporting on figures (win/loss) per player and per agent. Many also bundle a casino and racebook so agents can monetise players across products. What the agent still owns is the player relationship, credit and collections.</p>\n<h2 id=\"pph-vs\">PPH vs Turnkey vs Custom</h2>\n<p>PPH is the lightest model: no platform ownership, lowest upfront cost, fastest start, but you rent everything and control little beyond limits and your player list. A <a href=\"/turnkey-sportsbook-software/\">turnkey sportsbook</a> gives a branded, configurable platform with real control over margins and bonusing. A custom build gives full ownership of code, data and margins. PPH suits independent bookies and agents; turnkey and custom suit operators building a licensed, scalable brand.</p>\n<h2 id=\"agent-features\">Features Agents Need</h2>\n<p>The features that matter most to a per-head agent are: reliable, well-managed lines (so the book is not easily beaten), fast grading and accurate figures, flexible per-player limits and bet-type controls, clear reporting on weekly win/loss, and a smooth mobile experience for players. Live betting, cash-out and a casino module increase hold and player lifetime value. Uptime matters enormously — downtime during a big game is lost action and lost trust.</p>\n<h2 id=\"costs\">Costs and What to Watch For</h2>\n<p>Beyond the per-head fee, watch for: how \"active\" is counted (per bet vs per login), add-on fees for live betting, casino or streaming, minimum weekly charges, and the quality of line management (cheap services with weak lines can cost you more than they save). Also confirm data security and payment handling. The cheapest per-head price is not the best deal if the lines are soft or the platform is unreliable.</p>\n<h2 id=\"right-for-you\">Is PPH Right for You?</h2>\n<p>PPH is ideal if you are an independent bookie or agent who wants to run a book quickly with minimal upfront cost and no platform engineering. If you intend to build a licensed, branded operation with your own margins, player data and roadmap, a turnkey or custom sportsbook is the better long-term path. Sudonex builds ownable sportsbook platforms for operators who outgrow the per-head model — <a href=\"/services/\">see our services</a> or talk to our team.</p>",
+    "toc": [
+      {
+        "text": "What Is Price Per Head (PPH) Sportsbook Software?",
+        "href": "#what-is-pph"
+      },
+      {
+        "text": "How PPH Pricing Works",
+        "href": "#how-pricing-works"
+      },
+      {
+        "text": "What a PPH Service Includes",
+        "href": "#whats-included"
+      },
+      {
+        "text": "PPH vs Turnkey vs Custom",
+        "href": "#pph-vs"
+      },
+      {
+        "text": "Features Agents Need",
+        "href": "#agent-features"
+      },
+      {
+        "text": "Costs and What to Watch For",
+        "href": "#costs"
+      },
+      {
+        "text": "Is PPH Right for You?",
+        "href": "#right-for-you"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is price per head (PPH) sportsbook software?",
+        "a": "PPH is a pay-as-you-go bookie software model where an agent pays a small weekly fee per active betting customer. The provider supplies the betting site, lines, grading, settlement and reporting, while the agent brings players and manages credit and collections."
+      },
+      {
+        "q": "How much does price per head software cost?",
+        "a": "Agents typically pay a weekly fee per active player, commonly from a few dollars up to around USD 10-15 per head per week depending on provider, features and volume, often with volume discounts and add-on fees for live betting or a casino module."
+      },
+      {
+        "q": "What does 'active player' mean in PPH pricing?",
+        "a": "It usually means a player who placed at least one bet that week; dormant players often are not charged. Because the exact definition drives your real cost, always confirm whether 'active' is counted per bet or per login."
+      },
+      {
+        "q": "What is included in a PPH service?",
+        "a": "A branded betting website and mobile app, provider-managed pre-match and in-play lines, automatic grading and settlement, player and agent back offices, configurable limits and bet types, and weekly win/loss reporting, often with a casino and racebook bundled."
+      },
+      {
+        "q": "What is the difference between PPH and turnkey sportsbook?",
+        "a": "PPH rents everything with the lowest upfront cost and least control, suited to independent bookies and agents. A turnkey sportsbook is a branded, configurable platform with real control over margins and bonusing, suited to operators building a licensed brand."
+      },
+      {
+        "q": "What should I watch for when choosing PPH software?",
+        "a": "How 'active' is counted, add-on fees for live betting, casino or streaming, minimum weekly charges, the quality of line management, uptime, and data security. Cheap per-head pricing with soft lines or poor reliability can cost more than it saves."
+      },
+      {
+        "q": "Is PPH sportsbook software legal?",
+        "a": "The software itself is a technology service; legality depends on where and how the agent operates and the licensing of the betting activity. Operators building a licensed, compliant brand should consider turnkey or custom platforms rather than the per-head agent model."
+      },
+      {
+        "q": "When should I move from PPH to a custom sportsbook?",
+        "a": "When you want to build a licensed, branded operation with your own margins, player data and roadmap, and your volume justifies owning the platform. At that point a turnkey or custom sportsbook lowers cost per bet and turns the platform into an asset."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Price Per Head Sportsbook Software (PPH)",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        },
+        "name": "Price Per Head Sportsbook Software (PPH) | Sudonex",
+        "description": "Price per head (PPH) sportsbook software explained: how per-head pricing works, what bookie software includes, PPH vs turnkey vs custom, costs and what to watch for.",
+        "url": "https://sudonex.com/price-per-head-sportsbook-software/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Price Per Head Sportsbook Software | Sudonex",
+            "item": "https://www.sudonex.com/price-per-head-sportsbook-software/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is price per head (PPH) sportsbook software?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "PPH is a pay-as-you-go bookie software model where an agent pays a small weekly fee per active betting customer. The provider supplies the betting site, lines, grading, settlement and reporting, while the agent brings players and manages credit and collections."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How much does price per head software cost?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Agents typically pay a weekly fee per active player, commonly from a few dollars up to around USD 10-15 per head per week depending on provider, features and volume, often with volume discounts and add-on fees for live betting or a casino module."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What does 'active player' mean in PPH pricing?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It usually means a player who placed at least one bet that week; dormant players often are not charged. Because the exact definition drives your real cost, always confirm whether 'active' is counted per bet or per login."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is included in a PPH service?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A branded betting website and mobile app, provider-managed pre-match and in-play lines, automatic grading and settlement, player and agent back offices, configurable limits and bet types, and weekly win/loss reporting, often with a casino and racebook bundled."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between PPH and turnkey sportsbook?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "PPH rents everything with the lowest upfront cost and least control, suited to independent bookies and agents. A turnkey sportsbook is a branded, configurable platform with real control over margins and bonusing, suited to operators building a licensed brand."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What should I watch for when choosing PPH software?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "How 'active' is counted, add-on fees for live betting, casino or streaming, minimum weekly charges, the quality of line management, uptime, and data security. Cheap per-head pricing with soft lines or poor reliability can cost more than it saves."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is PPH sportsbook software legal?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The software itself is a technology service; legality depends on where and how the agent operates and the licensing of the betting activity. Operators building a licensed, compliant brand should consider turnkey or custom platforms rather than the per-head agent model."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When should I move from PPH to a custom sportsbook?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "When you want to build a licensed, branded operation with your own margins, player data and roadmap, and your volume justifies owning the platform. At that point a turnkey or custom sportsbook lowers cost per bet and turns the platform into an asset."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "commercial",
+    "funnel": "BOFU",
+    "cluster": "sportsbook",
+    "primary_kw": "price per head sportsbook software",
+    "secondary_kws": [
+      "pph sportsbook software",
+      "bookie software",
+      "pay per head software"
+    ],
+    "outbound_links": [
+      {
+        "to": "/sportsbook-software/",
+        "anchor": "sportsbook software",
+        "reason": "pillar-up"
+      },
+      {
+        "to": "/turnkey-sportsbook-software/",
+        "anchor": "turnkey sportsbook software",
+        "reason": "sibling"
+      },
+      {
+        "to": "/sportsbook-software-cost/",
+        "anchor": "sportsbook software cost",
+        "reason": "sibling"
+      },
+      {
+        "to": "/services/",
+        "anchor": "our iGaming development services",
+        "reason": "hub"
+      }
+    ],
+    "inbound_from": [
+      "/sportsbook-software/"
     ],
     "audit_missing": []
   }
