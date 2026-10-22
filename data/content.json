@@ -27268,6 +27268,16 @@
         "to": "/services/",
         "anchor": "our iGaming development services",
         "reason": "hub"
+      },
+      {
+        "to": "/white-label-casino-cost/",
+        "anchor": "white label casino cost",
+        "reason": "hub-spoke"
+      },
+      {
+        "to": "/turnkey-igaming-solutions/",
+        "anchor": "turnkey iGaming solutions",
+        "reason": "hub-spoke"
       }
     ],
     "inbound_from": [
@@ -27276,6 +27286,444 @@
       "/white-label-casino-software/",
       "/solutions/white-label-casino-solutions/",
       "/custom-casino-software-development/"
+    ],
+    "audit_missing": []
+  },
+  "/white-label-casino-cost/": {
+    "path": "/white-label-casino-cost/",
+    "layer": "subservice",
+    "seo_title": "White Label Casino Cost | Pricing Breakdown | Sudonex",
+    "meta_description": "White label casino cost explained: setup vs ongoing fees, the revenue-share model, hidden licensing/games/payment costs and a realistic three-year budget.",
+    "h1": "White Label Casino Cost | Sudonex",
+    "canonical": "https://www.sudonex.com/white-label-casino-cost/",
+    "body_html": "<p>White label casino cost is rarely a single number — it is a setup fee, a monthly or revenue-share charge, and a stack of third-party costs (licence, games, payments) that together decide whether your casino is actually profitable. A white label casino can start in the low tens of thousands of dollars to launch, but the ongoing revenue share is where the real money is paid over time. Understanding the full cost structure before you sign is the difference between a casino that compounds profit and one that quietly leaks it to the provider.</p>\n<p>This guide breaks white label casino pricing into setup versus ongoing costs, explains the revenue-share model that dominates the market, lists the third-party costs operators forget, and shows how to budget a realistic three-year total. It sits under our <a href=\"/white-label-igaming-solutions/\">white label iGaming solutions</a> pillar and complements <a href=\"/white-label-casino-software/\">white label casino software</a>.</p>\n<h2 id=\"what-drives-cost\">What Drives White Label Casino Cost?</h2>\n<p>Five factors move the number most: the provider and their platform quality; the games portfolio (more premium studios and live casino cost more); the commercial model (pure revenue share vs setup plus share vs monthly fee); the licensing route (operating under the provider's licence versus holding your own MGA, UKGC or Curaçao licence); and payments (number of PSPs, currencies and crypto rails). A lean, single-market casino under a provider's licence is far cheaper to start than a multi-market brand with its own licence and premium game mix.</p>\n<h2 id=\"setup-vs-ongoing\">Setup Cost vs Ongoing Cost</h2>\n<p>Budget in two buckets. <strong>Setup</strong> covers configuration, branding, integration and launch — commonly from roughly USD 25,000 to USD 100,000+ depending on provider and scope, though some providers advertise lower entry points with higher ongoing shares. <strong>Ongoing</strong> covers the revenue share (often a meaningful percentage of net gaming revenue), platform and hosting fees, payment processing fees, and games royalties. Many operators underestimate ongoing cost: a cheap setup with a high revenue share can cost far more over three years than a higher upfront, lower-share deal.</p>\n<h2 id=\"revenue-share\">The Revenue-Share Model</h2>\n<p>Most white label casino deals are built on a revenue share — the provider takes a percentage of your gross or net gaming revenue (GGR/NGR), typically somewhere in the region of 10% to 40% depending on volume, services and whether the licence is included. This keeps upfront cost low and aligns the provider with your growth, but it means a successful casino pays more every single month, forever, and the player data and margins stay with the provider. The higher your revenue, the more a revenue share costs you relative to owning the platform.</p>\n<h2 id=\"hidden-costs\">Third-Party Costs Operators Forget</h2>\n<p>Beyond the provider's fees, budget for: a <strong>gaming licence</strong> (Curaçao is cheaper and faster; MGA and UKGC cost more but carry higher trust); <strong>games and content</strong> (premium studios and live casino carry their own royalties); <strong>payments</strong> (PSP onboarding, rolling reserves and per-transaction fees); <strong>compliance and certification</strong> (RNG and system testing by labs such as iTech Labs, GLI or eCOGRA); and <strong>marketing</strong>, which is usually your single biggest spend. These can collectively match or exceed the platform cost.</p>\n<h2 id=\"three-year-view\">A Three-Year Total Cost View</h2>\n<p>Model three years, not three months. A white label operator pays a modest setup but a continuous revenue share, so as monthly GGR grows the cumulative share becomes large — and the platform is never yours. A turnkey or custom build costs more upfront but reduces or removes the revenue share, so the cost per player falls as volume rises and you own an asset. The crossover point is why scaling operators migrate off pure white label. Compare models in our <a href=\"/turnkey-igaming-solutions/\">turnkey iGaming solutions</a> and <a href=\"/custom-casino-software-development/\">custom casino software development</a> guides.</p>\n<h2 id=\"reduce-cost\">How to Budget and Reduce Risk</h2>\n<p>Get the full commercial in writing: setup, revenue-share percentage and how it is calculated (GGR vs NGR), minimums, games royalties, payment fees, and exit and data-portability terms. Favour a provider that lets you keep your player data and migrate to an owned platform later, so a cheap start does not trap you. Sudonex scopes white label, turnkey and custom casino builds transparently so you can compare true three-year cost — <a href=\"/services/\">see our services</a> or request a costed plan.</p>",
+    "toc": [
+      {
+        "text": "What Drives White Label Casino Cost?",
+        "href": "#what-drives-cost"
+      },
+      {
+        "text": "Setup Cost vs Ongoing Cost",
+        "href": "#setup-vs-ongoing"
+      },
+      {
+        "text": "The Revenue-Share Model",
+        "href": "#revenue-share"
+      },
+      {
+        "text": "Third-Party Costs Operators Forget",
+        "href": "#hidden-costs"
+      },
+      {
+        "text": "A Three-Year Total Cost View",
+        "href": "#three-year-view"
+      },
+      {
+        "text": "How to Budget and Reduce Risk",
+        "href": "#reduce-cost"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How much does a white label casino cost?",
+        "a": "As a planning range, setup commonly runs from about USD 25,000 to USD 100,000+ plus an ongoing revenue share, with licensing, games, payments and marketing as separate costs. Some providers offer lower entry fees in exchange for a higher revenue share."
+      },
+      {
+        "q": "What is the revenue share in a white label casino?",
+        "a": "Most deals take a percentage of your gross or net gaming revenue, typically in the region of 10% to 40% depending on volume, services and whether a licence is included. It keeps upfront cost low but means a growing casino pays more every month while the platform stays with the provider."
+      },
+      {
+        "q": "What ongoing costs does a white label casino have?",
+        "a": "The revenue share, platform and hosting fees, payment processing fees, games royalties, compliance and certification, and marketing, which is usually the largest spend. Ongoing cost often exceeds the setup fee over time."
+      },
+      {
+        "q": "Is a white label casino cheaper than a custom casino?",
+        "a": "It is cheaper to launch but not necessarily cheaper over three years. A revenue share scales with success, so a higher-upfront turnkey or custom build can cost less per player and become an owned asset as volume grows."
+      },
+      {
+        "q": "What hidden costs should I budget for?",
+        "a": "A gaming licence (Curaçao is cheaper; MGA and UKGC cost more), games and live-casino royalties, payment onboarding and transaction fees, RNG and system certification by labs like iTech Labs, GLI or eCOGRA, and marketing. These can match or exceed the platform cost."
+      },
+      {
+        "q": "Can I reduce white label casino costs?",
+        "a": "Negotiate the revenue-share percentage and how it is calculated, confirm minimums and games royalties, and secure data-portability and exit terms. Choosing a provider that allows migration to an owned platform protects you from a high-share deal as you scale."
+      },
+      {
+        "q": "Does white label casino cost include a licence?",
+        "a": "Sometimes. Many white label deals let you operate under the provider's umbrella licence as part of the revenue share, while others expect you to hold your own licence. Always confirm, because licensing materially changes both cost and control."
+      },
+      {
+        "q": "How should I budget for a white label casino?",
+        "a": "Model three years of setup plus ongoing revenue share, platform, payments, games, compliance and marketing, and compare against turnkey and custom builds. Get all commercial and exit terms in writing before signing."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "White Label Casino Cost",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        },
+        "name": "White Label Casino Cost | Pricing Breakdown | Sudonex",
+        "description": "White label casino cost explained: setup vs ongoing fees, the revenue-share model, hidden licensing/games/payment costs and a realistic three-year budget.",
+        "url": "https://sudonex.com/white-label-casino-cost/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "White Label Casino Cost | Sudonex",
+            "item": "https://www.sudonex.com/white-label-casino-cost/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How much does a white label casino cost?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "As a planning range, setup commonly runs from about USD 25,000 to USD 100,000+ plus an ongoing revenue share, with licensing, games, payments and marketing as separate costs. Some providers offer lower entry fees in exchange for a higher revenue share."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the revenue share in a white label casino?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most deals take a percentage of your gross or net gaming revenue, typically in the region of 10% to 40% depending on volume, services and whether a licence is included. It keeps upfront cost low but means a growing casino pays more every month while the platform stays with the provider."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What ongoing costs does a white label casino have?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The revenue share, platform and hosting fees, payment processing fees, games royalties, compliance and certification, and marketing, which is usually the largest spend. Ongoing cost often exceeds the setup fee over time."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is a white label casino cheaper than a custom casino?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It is cheaper to launch but not necessarily cheaper over three years. A revenue share scales with success, so a higher-upfront turnkey or custom build can cost less per player and become an owned asset as volume grows."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What hidden costs should I budget for?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A gaming licence (Curaçao is cheaper; MGA and UKGC cost more), games and live-casino royalties, payment onboarding and transaction fees, RNG and system certification by labs like iTech Labs, GLI or eCOGRA, and marketing. These can match or exceed the platform cost."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I reduce white label casino costs?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Negotiate the revenue-share percentage and how it is calculated, confirm minimums and games royalties, and secure data-portability and exit terms. Choosing a provider that allows migration to an owned platform protects you from a high-share deal as you scale."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does white label casino cost include a licence?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sometimes. Many white label deals let you operate under the provider's umbrella licence as part of the revenue share, while others expect you to hold your own licence. Always confirm, because licensing materially changes both cost and control."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How should I budget for a white label casino?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Model three years of setup plus ongoing revenue share, platform, payments, games, compliance and marketing, and compare against turnkey and custom builds. Get all commercial and exit terms in writing before signing."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "commercial",
+    "funnel": "BOFU",
+    "cluster": "white-label",
+    "primary_kw": "white label casino cost",
+    "secondary_kws": [
+      "white label casino price",
+      "white label casino setup cost",
+      "cost of a white label casino"
+    ],
+    "outbound_links": [
+      {
+        "to": "/white-label-igaming-solutions/",
+        "anchor": "white label iGaming solutions",
+        "reason": "pillar-up"
+      },
+      {
+        "to": "/white-label-casino-software/",
+        "anchor": "white label casino software",
+        "reason": "sibling"
+      },
+      {
+        "to": "/turnkey-igaming-solutions/",
+        "anchor": "turnkey iGaming solutions",
+        "reason": "sibling"
+      },
+      {
+        "to": "/custom-casino-software-development/",
+        "anchor": "custom casino software development",
+        "reason": "supporting"
+      },
+      {
+        "to": "/services/",
+        "anchor": "our iGaming development services",
+        "reason": "hub"
+      }
+    ],
+    "inbound_from": [
+      "/white-label-igaming-solutions/",
+      "/white-label-igaming-solutions/"
+    ],
+    "audit_missing": []
+  },
+  "/turnkey-igaming-solutions/": {
+    "path": "/turnkey-igaming-solutions/",
+    "layer": "subservice",
+    "seo_title": "Turnkey iGaming Solutions | Turnkey Casino | Sudonex",
+    "meta_description": "Turnkey iGaming solutions explained: launch a branded casino or sportsbook under your own licence fast — what's included, turnkey vs white label vs custom, cost and timeline.",
+    "h1": "Turnkey iGaming Solutions | Sudonex",
+    "canonical": "https://www.sudonex.com/turnkey-igaming-solutions/",
+    "body_html": "<p>Turnkey iGaming solutions let an operator launch a complete online casino or sportsbook under their own brand and, usually, their own licence — using a provider's pre-integrated platform that they configure rather than build. A turnkey casino solution sits between a rented white label and a fully custom build: you get speed and a proven core, with real control over games, margins, bonusing and branding. For operators who want to own more of the business than white label allows but launch faster than a custom build, turnkey is often the sweet spot.</p>\n<p>This guide explains what turnkey iGaming solutions include, how they compare to white label and custom, realistic cost and timelines, the compliance you carry, and how to choose. It sits under our <a href=\"/white-label-igaming-solutions/\">white label iGaming solutions</a> pillar and links to <a href=\"/custom-casino-software-development/\">custom casino software development</a> for full ownership.</p>\n<h2 id=\"what-is\">What Is a Turnkey iGaming Solution?</h2>\n<p>A turnkey casino solution is a complete, pre-integrated iGaming platform delivered ready to brand and configure: player account management, wallet and bonusing, a games portfolio via aggregators, payments and KYC, responsible-gambling tooling, and a back office. \"Turnkey\" means the engineering and integrations are done — you apply your brand, configure games, limits, margins and promotions, obtain or attach a licence, and launch. Unlike a thin white label, turnkey gives you meaningful control over the commercial levers.</p>\n<h2 id=\"whats-included\">What's Included in a Turnkey iGaming Solution</h2>\n<p>A credible turnkey package includes: a branded casino and/or sportsbook; an aggregated games library (slots, live casino, table games) and, for sportsbook, an odds and trading engine; a PAM for accounts, wallets, bonuses and limits; a multi-PSP cashier with crypto support; KYC/AML and responsible-gambling controls; a back office for CRM, bonusing and GGR/NGR reporting; and ongoing maintenance. Crucially, you typically operate under your own licence and keep more control of margins and player data than a white label allows.</p>\n<h2 id=\"turnkey-vs\">Turnkey vs White Label vs Custom</h2>\n<p>The three models trade speed for ownership. <strong>White label</strong> is fastest and cheapest, often under the provider's licence, with the least control. <strong>Turnkey</strong> is a brandable, configurable platform, usually with your own licence and real control over games, margins and bonusing. <strong>Custom</strong> gives full ownership of code, data and roadmap via <a href=\"/custom-casino-software-development/\">custom casino software development</a>. Many operators start turnkey for speed and migrate to custom as they scale.</p>\n<h2 id=\"cost-timeline\">Cost and Timeline</h2>\n<p>As planning ranges, a turnkey iGaming solution commonly costs from roughly USD 40,000 to USD 200,000 in setup, often plus a revenue share or monthly fee, and can launch in about 6 to 12 weeks — faster than a custom build (4 to 9 months) but with more control than white label. Licensing, games royalties and payment setup are separate. Compare the full picture in our <a href=\"/white-label-casino-cost/\">white label casino cost</a> guide and model three years, not three months.</p>\n<h2 id=\"compliance\">Licensing and Compliance</h2>\n<p>With turnkey you usually hold your own licence, which means you carry the compliance directly: KYC/AML, responsible-gambling limits, geo-fencing, and adherence to your licence terms (MGA, UKGC or Curaçao). Games and RNGs should be certified by labs such as iTech Labs, GLI or eCOGRA, and systems tested to recognised standards. Owning the licence gives you more control and credibility, but also more responsibility — a good turnkey provider helps you navigate it.</p>\n<h2 id=\"pros-cons\">Pros, Cons and Who It Suits</h2>\n<p><strong>Pros:</strong> faster than custom, more control than white label, your own brand and usually your own licence, a proven platform. <strong>Cons:</strong> higher cost than white label, some dependency on the provider's roadmap, and configuration limits at the edges. <strong>Best for:</strong> operators who want to own their brand and licence and launch quickly, with a path to custom ownership as they scale.</p>\n<h2 id=\"choosing\">How to Choose a Turnkey Provider</h2>\n<p>Evaluate on: breadth and quality of games and (for sportsbook) trading, control over margins and bonusing, payment and withdrawal reliability, compliance support for your licence, uptime (99.9%+), commercial transparency, and whether you can migrate to a fully custom platform later without losing player data. Sudonex builds white label, turnkey and custom iGaming platforms, so you are never locked into a model you outgrow — <a href=\"/services/\">see our services</a> or talk to our team.</p>",
+    "toc": [
+      {
+        "text": "What Is a Turnkey iGaming Solution?",
+        "href": "#what-is"
+      },
+      {
+        "text": "What's Included in a Turnkey iGaming Solution",
+        "href": "#whats-included"
+      },
+      {
+        "text": "Turnkey vs White Label vs Custom",
+        "href": "#turnkey-vs"
+      },
+      {
+        "text": "Cost and Timeline",
+        "href": "#cost-timeline"
+      },
+      {
+        "text": "Licensing and Compliance",
+        "href": "#compliance"
+      },
+      {
+        "text": "Pros, Cons and Who It Suits",
+        "href": "#pros-cons"
+      },
+      {
+        "text": "How to Choose a Turnkey Provider",
+        "href": "#choosing"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What are turnkey iGaming solutions?",
+        "a": "Turnkey iGaming solutions are complete, pre-integrated casino or sportsbook platforms an operator brands and configures, usually under their own licence. They include the platform, games or trading, payments, KYC, compliance and a back office, giving more control than white label with a faster launch than custom."
+      },
+      {
+        "q": "What is the difference between turnkey and white label iGaming?",
+        "a": "White label rents a shared platform and often the provider's licence with the least control, while turnkey gives a brandable, configurable platform, usually with your own licence and real control over games, margins and bonusing. Turnkey is more ownable; white label is faster and cheaper."
+      },
+      {
+        "q": "How much does a turnkey iGaming solution cost?",
+        "a": "As a planning range, setup commonly runs from about USD 40,000 to USD 200,000, often plus a revenue share or monthly fee, with licensing, games royalties and payments as separate costs. It is more than white label but gives more control."
+      },
+      {
+        "q": "How long does a turnkey casino take to launch?",
+        "a": "Typically 6 to 12 weeks, faster than a custom build (4 to 9 months) but with more control than white label. Licensing and payment onboarding are usually the biggest timeline variables."
+      },
+      {
+        "q": "Do I need my own licence for a turnkey casino?",
+        "a": "Usually yes — turnkey operators typically hold their own MGA, UKGC or Curaçao licence, which gives more control and credibility but means you carry the compliance directly, including KYC/AML, responsible gambling and geo-fencing."
+      },
+      {
+        "q": "What's included in a turnkey iGaming solution?",
+        "a": "A branded casino or sportsbook, an aggregated games library or trading engine, player account management, a multi-PSP cashier with crypto, KYC/AML and responsible-gambling tooling, a back office for CRM and reporting, and ongoing maintenance, usually under your own licence."
+      },
+      {
+        "q": "Can I move from turnkey to a custom casino later?",
+        "a": "With the right provider, yes. Choose a turnkey partner that lets you keep your player data and migrate to a fully owned custom platform as your volume grows, so a fast launch does not lock you in."
+      },
+      {
+        "q": "Who are turnkey iGaming solutions best for?",
+        "a": "Operators who want to own their brand and licence and launch quickly with real control over games, margins and bonusing, and who may migrate to a custom platform as the business scales."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Turnkey iGaming Solutions",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        },
+        "name": "Turnkey iGaming Solutions | Turnkey Casino | Sudonex",
+        "description": "Turnkey iGaming solutions explained: launch a branded casino or sportsbook under your own licence fast — what's included, turnkey vs white label vs custom, cost and timeline.",
+        "url": "https://sudonex.com/turnkey-igaming-solutions/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Turnkey iGaming Solutions | Sudonex",
+            "item": "https://www.sudonex.com/turnkey-igaming-solutions/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What are turnkey iGaming solutions?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Turnkey iGaming solutions are complete, pre-integrated casino or sportsbook platforms an operator brands and configures, usually under their own licence. They include the platform, games or trading, payments, KYC, compliance and a back office, giving more control than white label with a faster launch than custom."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between turnkey and white label iGaming?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "White label rents a shared platform and often the provider's licence with the least control, while turnkey gives a brandable, configurable platform, usually with your own licence and real control over games, margins and bonusing. Turnkey is more ownable; white label is faster and cheaper."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How much does a turnkey iGaming solution cost?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "As a planning range, setup commonly runs from about USD 40,000 to USD 200,000, often plus a revenue share or monthly fee, with licensing, games royalties and payments as separate costs. It is more than white label but gives more control."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long does a turnkey casino take to launch?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Typically 6 to 12 weeks, faster than a custom build (4 to 9 months) but with more control than white label. Licensing and payment onboarding are usually the biggest timeline variables."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I need my own licence for a turnkey casino?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Usually yes — turnkey operators typically hold their own MGA, UKGC or Curaçao licence, which gives more control and credibility but means you carry the compliance directly, including KYC/AML, responsible gambling and geo-fencing."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What's included in a turnkey iGaming solution?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A branded casino or sportsbook, an aggregated games library or trading engine, player account management, a multi-PSP cashier with crypto, KYC/AML and responsible-gambling tooling, a back office for CRM and reporting, and ongoing maintenance, usually under your own licence."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I move from turnkey to a custom casino later?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "With the right provider, yes. Choose a turnkey partner that lets you keep your player data and migrate to a fully owned custom platform as your volume grows, so a fast launch does not lock you in."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who are turnkey iGaming solutions best for?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Operators who want to own their brand and licence and launch quickly with real control over games, margins and bonusing, and who may migrate to a custom platform as the business scales."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "commercial",
+    "funnel": "BOFU",
+    "cluster": "white-label",
+    "primary_kw": "turnkey casino solution",
+    "secondary_kws": [
+      "turnkey igaming solutions",
+      "ready-made casino",
+      "turnkey gaming platform"
+    ],
+    "outbound_links": [
+      {
+        "to": "/white-label-igaming-solutions/",
+        "anchor": "white label iGaming solutions",
+        "reason": "pillar-up"
+      },
+      {
+        "to": "/custom-casino-software-development/",
+        "anchor": "custom casino software development",
+        "reason": "sibling"
+      },
+      {
+        "to": "/white-label-casino-cost/",
+        "anchor": "white label casino cost",
+        "reason": "sibling"
+      },
+      {
+        "to": "/services/",
+        "anchor": "our iGaming development services",
+        "reason": "hub"
+      }
+    ],
+    "inbound_from": [
+      "/white-label-igaming-solutions/",
+      "/custom-casino-software-development/",
+      "/white-label-igaming-solutions/"
     ],
     "audit_missing": []
   }
