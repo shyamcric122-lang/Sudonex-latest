@@ -2135,6 +2135,11 @@
         "to": "/casino-game-development/",
         "anchor": "casino game development",
         "reason": "related"
+      },
+      {
+        "to": "/online-casino-software/",
+        "anchor": "online casino software",
+        "reason": "pillar-up"
       }
     ],
     "inbound_from": [
@@ -4763,6 +4768,11 @@
       {
         "to": "/white-label-igaming-solutions/",
         "anchor": "white label iGaming solutions",
+        "reason": "pillar-up"
+      },
+      {
+        "to": "/online-casino-software/",
+        "anchor": "online casino software",
         "reason": "pillar-up"
       }
     ],
@@ -27278,6 +27288,11 @@
         "to": "/turnkey-igaming-solutions/",
         "anchor": "turnkey iGaming solutions",
         "reason": "hub-spoke"
+      },
+      {
+        "to": "/custom-white-label-igaming-software/",
+        "anchor": "custom white label iGaming software",
+        "reason": "hub-spoke"
       }
     ],
     "inbound_from": [
@@ -27724,6 +27739,433 @@
       "/white-label-igaming-solutions/",
       "/custom-casino-software-development/",
       "/white-label-igaming-solutions/"
+    ],
+    "audit_missing": []
+  },
+  "/custom-white-label-igaming-software/": {
+    "path": "/custom-white-label-igaming-software/",
+    "layer": "subservice",
+    "seo_title": "Custom White Label iGaming Software | Sudonex",
+    "meta_description": "Custom white label iGaming software: the hybrid of white-label speed and bespoke branding, bonusing, games and payments. What's customisable, cost, timeline and how to choose.",
+    "h1": "Custom White Label iGaming Software | Sudonex",
+    "canonical": "https://www.sudonex.com/custom-white-label-igaming-software/",
+    "body_html": "<p>Custom white label iGaming software is a hybrid model: you take the speed of a white-label launch but have the platform customised to your brand, markets and commercial rules — rather than accepting a fixed, shared configuration. For operators who find pure white label too restrictive and a full custom build too slow or costly to start, bespoke white label software is the middle path: a proven core, tailored where it matters, with a route to full ownership later.</p>\n<p>This guide explains what can actually be customised in a white label iGaming platform, how it differs from standard white label and fully custom development, the realistic cost and timeline, and how to choose a partner. It sits under our <a href=\"/white-label-igaming-solutions/\">white label iGaming solutions</a> pillar and links to <a href=\"/custom-casino-software-development/\">custom casino software development</a> for full ownership.</p>\n<h2 id=\"what-is\">What Is Custom White Label iGaming Software?</h2>\n<p>Custom white label iGaming software starts from a provider's proven platform and layers bespoke work on top: your own UI/UX and brand system, custom bonusing and loyalty logic, specific game-provider integrations, tailored payment and KYC flows for your markets, and sometimes custom reporting or risk rules. You launch faster than a ground-up custom build, but with a product that feels and behaves like yours rather than a template shared with dozens of other brands.</p>\n<h2 id=\"what-customise\">What Can Be Customised?</h2>\n<p>The useful customisations fall into a few areas: <strong>front end</strong> (fully bespoke UI/UX, not a reskin); <strong>bonusing and CRM</strong> (promotions and loyalty tuned to your segments); <strong>games mix</strong> (specific studios, exclusive or branded titles via aggregators); <strong>payments</strong> (local methods, crypto, smart routing for your regions); <strong>compliance flows</strong> (KYC/AML and responsible-gambling tuned per jurisdiction); and <strong>reporting</strong>. What usually stays shared is the deep platform core — which is exactly what keeps the launch fast.</p>\n<h2 id=\"vs-standard\">Custom White Label vs Standard White Label vs Custom Build</h2>\n<p><strong>Standard white label</strong> is fastest and cheapest but a shared template with little control. <strong>Custom white label</strong> keeps much of that speed while tailoring the brand, bonusing, games and payments to you. <strong>Full custom development</strong> builds the platform from the ground up for total ownership of code, data and margins via <a href=\"/custom-casino-software-development/\">custom casino software development</a>. Custom white label is the pragmatic step for operators who want differentiation without a 6-9 month build.</p>\n<h2 id=\"cost-timeline\">Cost and Timeline</h2>\n<p>As planning ranges, custom white label iGaming software commonly costs from roughly USD 50,000 to USD 200,000+ depending on the depth of customisation, often with a revenue share, and launches in about 8 to 16 weeks — slower than a plain white label but far faster than a full custom build (4 to 9 months). The more you customise, the closer the cost and timeline move toward a custom build, so prioritise the customisations that drive differentiation and revenue.</p>\n<h2 id=\"compliance\">Compliance and Ownership</h2>\n<p>As with any iGaming platform, you carry KYC/AML, responsible-gambling and geo-fencing obligations, and games and RNGs should be certified by labs such as iTech Labs, GLI or eCOGRA. The key question with custom white label is ownership and portability: confirm whether the bespoke work and your player data are yours, and whether you can migrate to a fully owned platform later. A good partner designs the customisation so it can graduate into a custom build.</p>\n<h2 id=\"choosing\">How to Choose a Partner</h2>\n<p>Evaluate on: how much is genuinely customisable versus cosmetic, control over margins and bonusing, payment and withdrawal reliability, compliance support, uptime (99.9%+), and whether the bespoke work and player data are portable to an owned platform. Sudonex builds white label, custom white label and fully custom iGaming platforms, so your customisation is an investment you keep, not a sunk cost — <a href=\"/services/\">see our services</a> or talk to our team.</p>",
+    "toc": [
+      {
+        "text": "What Is Custom White Label iGaming Software?",
+        "href": "#what-is"
+      },
+      {
+        "text": "What Can Be Customised?",
+        "href": "#what-customise"
+      },
+      {
+        "text": "Custom White Label vs Standard vs Custom Build",
+        "href": "#vs-standard"
+      },
+      {
+        "text": "Cost and Timeline",
+        "href": "#cost-timeline"
+      },
+      {
+        "text": "Compliance and Ownership",
+        "href": "#compliance"
+      },
+      {
+        "text": "How to Choose a Partner",
+        "href": "#choosing"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is custom white label iGaming software?",
+        "a": "It is a hybrid model that starts from a provider's proven platform and layers bespoke work on top — custom UI/UX, bonusing, game integrations, payment and compliance flows — so you launch faster than a ground-up build but get a product that behaves like yours rather than a shared template."
+      },
+      {
+        "q": "What can be customised in white label iGaming software?",
+        "a": "Typically the front end and brand, bonusing and CRM logic, the games mix via aggregators, payment and KYC flows per market, compliance flows and reporting. The deep platform core usually stays shared, which is what keeps the launch fast."
+      },
+      {
+        "q": "How is custom white label different from standard white label?",
+        "a": "Standard white label is a shared template with little control, while custom white label tailors the brand, bonusing, games and payments to you. Full custom development builds the platform from scratch for total ownership of code, data and margins."
+      },
+      {
+        "q": "How much does custom white label iGaming software cost?",
+        "a": "As a planning range, roughly USD 50,000 to USD 200,000+ depending on the depth of customisation, often with a revenue share, launching in about 8 to 16 weeks. The more you customise, the closer cost and timeline move toward a full custom build."
+      },
+      {
+        "q": "How long does custom white label take to launch?",
+        "a": "Typically 8 to 16 weeks, slower than a plain white label but far faster than a full custom build, which takes 4 to 9 months. Licensing and payment onboarding are usually the biggest timeline variables."
+      },
+      {
+        "q": "Do I own the customisations and player data?",
+        "a": "It depends on the contract. Confirm up front whether the bespoke work and your player data are yours and portable, and whether you can migrate to a fully owned platform later. A good partner designs customisation so it can graduate into a custom build."
+      },
+      {
+        "q": "Who is custom white label iGaming software best for?",
+        "a": "Operators who find pure white label too restrictive and a full custom build too slow or costly to start, and who want real brand and commercial differentiation with a path to full ownership as they scale."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Custom White Label iGaming Software",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        },
+        "name": "Custom White Label iGaming Software | Sudonex",
+        "description": "Custom white label iGaming software: the hybrid of white-label speed and bespoke branding, bonusing, games and payments. What's customisable, cost, timeline and how to choose.",
+        "url": "https://sudonex.com/custom-white-label-igaming-software/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Custom White Label iGaming Software | Sudonex",
+            "item": "https://www.sudonex.com/custom-white-label-igaming-software/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is custom white label iGaming software?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It is a hybrid model that starts from a provider's proven platform and layers bespoke work on top — custom UI/UX, bonusing, game integrations, payment and compliance flows — so you launch faster than a ground-up build but get a product that behaves like yours rather than a shared template."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What can be customised in white label iGaming software?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Typically the front end and brand, bonusing and CRM logic, the games mix via aggregators, payment and KYC flows per market, compliance flows and reporting. The deep platform core usually stays shared, which is what keeps the launch fast."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is custom white label different from standard white label?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Standard white label is a shared template with little control, while custom white label tailors the brand, bonusing, games and payments to you. Full custom development builds the platform from scratch for total ownership of code, data and margins."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How much does custom white label iGaming software cost?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "As a planning range, roughly USD 50,000 to USD 200,000+ depending on the depth of customisation, often with a revenue share, launching in about 8 to 16 weeks. The more you customise, the closer cost and timeline move toward a full custom build."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long does custom white label take to launch?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Typically 8 to 16 weeks, slower than a plain white label but far faster than a full custom build, which takes 4 to 9 months. Licensing and payment onboarding are usually the biggest timeline variables."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I own the customisations and player data?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It depends on the contract. Confirm up front whether the bespoke work and your player data are yours and portable, and whether you can migrate to a fully owned platform later. A good partner designs customisation so it can graduate into a custom build."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who is custom white label iGaming software best for?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Operators who find pure white label too restrictive and a full custom build too slow or costly to start, and who want real brand and commercial differentiation with a path to full ownership as they scale."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "commercial",
+    "funnel": "BOFU",
+    "cluster": "white-label",
+    "primary_kw": "custom white label igaming software",
+    "secondary_kws": [
+      "bespoke white label casino",
+      "custom white label casino platform",
+      "tailored igaming software"
+    ],
+    "outbound_links": [
+      {
+        "to": "/white-label-igaming-solutions/",
+        "anchor": "white label iGaming solutions",
+        "reason": "pillar-up"
+      },
+      {
+        "to": "/white-label-casino-software/",
+        "anchor": "white label casino software",
+        "reason": "sibling"
+      },
+      {
+        "to": "/custom-casino-software-development/",
+        "anchor": "custom casino software development",
+        "reason": "sibling"
+      },
+      {
+        "to": "/services/",
+        "anchor": "our iGaming development services",
+        "reason": "hub"
+      }
+    ],
+    "inbound_from": [
+      "/white-label-igaming-solutions/",
+      "/white-label-igaming-solutions/"
+    ],
+    "audit_missing": []
+  },
+  "/online-casino-software/": {
+    "path": "/online-casino-software/",
+    "layer": "service",
+    "seo_title": "Online Casino Software | Casino Platform | Sudonex",
+    "meta_description": "Online casino software explained: core components (PAM, games, payments, compliance), white label vs turnkey vs custom, cost, timelines and how to choose a provider.",
+    "h1": "Online Casino Software | Sudonex",
+    "canonical": "https://www.sudonex.com/online-casino-software/",
+    "body_html": "<p>Online casino software is the complete technology platform that powers a real-money casino: the player account and wallet system, the games and aggregator integrations, payments and KYC, bonusing and CRM, and the back office that keeps it all compliant and profitable. Whether you buy it white label, turnkey or custom, the software decides your margins, your player experience and how much of the business you actually own. Choosing and building it well is the single most important technical decision an online casino operator makes.</p>\n<p>This pillar explains what online casino software contains, the build models and their trade-offs, realistic cost and timelines, the compliance you must meet, and how to choose a casino software provider. It links to our deeper guides on <a href=\"/casino-app-development/\">casino app development</a> and <a href=\"/custom-casino-software-development/\">custom casino software development</a>.</p>\n<h2 id=\"what-is\">What Is Online Casino Software?</h2>\n<p>Online casino software (also called an iGaming or casino platform) is the integrated system that runs a real-money casino. At its core sits a Player Account Management (PAM) layer — accounts, wallets, bonuses, limits and KYC status — surrounded by a games library (via studios and aggregators), a payments and cashier layer, bonusing and CRM, responsible-gambling and compliance tooling, and reporting. The front end (web and mobile) is what players see; the platform underneath decides whether the casino is profitable, compliant and scalable.</p>\n<h2 id=\"core-components\">Core Components</h2>\n<ul><li><strong>PAM</strong> — the system of record for accounts, wallets, bonuses, limits and KYC.</li><li><strong>Games and aggregation</strong> — slots, live casino and table games from multiple studios via an aggregator, with certified RNGs.</li><li><strong>Payments and cashier</strong> — multiple PSPs, multi-currency and crypto with smart routing for fast deposits and withdrawals.</li><li><strong>Bonusing and CRM</strong> — welcome offers, free spins, loyalty and lifecycle automation that are profitable, not generic.</li><li><strong>Compliance</strong> — KYC/AML, responsible-gambling limits, geo-fencing and regulatory reporting.</li><li><strong>Back office and reporting</strong> — real-time GGR/NGR, hold and player-value analytics.</li></ul>\n<h2 id=\"build-models\">Build Models: White Label, Turnkey, Custom</h2>\n<p>There are three routes. <strong>White label</strong> rents a platform and often a licence for the fastest, cheapest launch with the least control — see <a href=\"/white-label-igaming-solutions/\">white label iGaming solutions</a>. <strong>Turnkey</strong> gives a brandable, configurable platform, usually with your own licence, via <a href=\"/turnkey-igaming-solutions/\">turnkey iGaming solutions</a>. <strong>Custom</strong> builds the platform for full ownership of code, data and margins through <a href=\"/custom-casino-software-development/\">custom casino software development</a>. The right model depends on how fast you need to launch and how much you intend to own.</p>\n<h2 id=\"games-rng\">Games, RNG and Fairness</h2>\n<p>Players and regulators both demand provable fairness. Games should use certified Random Number Generators (RNGs) tested by independent labs such as iTech Labs, GLI or eCOGRA, and the platform should surface RTP (return to player) accurately. A strong aggregator integration gives you breadth (thousands of titles across studios) without integrating each one yourself, while live casino adds engagement and higher player value.</p>\n<h2 id=\"payments-compliance\">Payments and Compliance</h2>\n<p>Fast, reliable payments are a retention feature: multiple PSPs with smart routing, multi-currency and crypto rails reduce failed transactions and speed withdrawals. On compliance, regulated casinos must run KYC/AML, enforce responsible-gambling limits, geo-fence to licensed markets and report to regulators. Licensing routes range from Curaçao (cheaper, faster) to MGA and UKGC (costlier, higher trust), and systems must be built to certify.</p>\n<h2 id=\"cost-timeline\">Cost and Timeline</h2>\n<p>As planning ranges: a white label casino starts from roughly USD 25,000 to USD 100,000+ in setup plus revenue share (4-10 weeks); a turnkey from about USD 40,000 to USD 200,000 (6-12 weeks); and a custom platform generally starts near USD 150,000 and can exceed USD 500,000 for a full build (4-9 months). Licensing, games royalties and payments are separate. Model three years, not three months — the revenue share on rented models is the real long-term cost.</p>\n<h2 id=\"choosing\">How to Choose a Casino Software Provider</h2>\n<p>Evaluate on: breadth and quality of games, payment and withdrawal reliability, compliance and certifications, uptime (99.9%+), control over margins and bonusing, commercial transparency, and whether you can keep your player data and migrate to an owned platform later. Sudonex builds online casino software across white label, turnkey and custom models — <a href=\"/services/\">see our services</a> or talk to our team about the right route for your market.</p>",
+    "toc": [
+      {
+        "text": "What Is Online Casino Software?",
+        "href": "#what-is"
+      },
+      {
+        "text": "Core Components",
+        "href": "#core-components"
+      },
+      {
+        "text": "Build Models: White Label, Turnkey, Custom",
+        "href": "#build-models"
+      },
+      {
+        "text": "Games, RNG and Fairness",
+        "href": "#games-rng"
+      },
+      {
+        "text": "Payments and Compliance",
+        "href": "#payments-compliance"
+      },
+      {
+        "text": "Cost and Timeline",
+        "href": "#cost-timeline"
+      },
+      {
+        "text": "How to Choose a Casino Software Provider",
+        "href": "#choosing"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is online casino software?",
+        "a": "Online casino software is the complete platform that runs a real-money casino: a player account and wallet system (PAM), a games library via aggregators, payments and KYC, bonusing and CRM, responsible-gambling and compliance tooling, and reporting, with web and mobile front ends on top."
+      },
+      {
+        "q": "How much does online casino software cost?",
+        "a": "As planning ranges, white label starts from about USD 25,000-100,000+ plus revenue share, turnkey from about USD 40,000-200,000, and custom from about USD 150,000, exceeding USD 500,000 for a full build. Licensing, games royalties and payments are additional."
+      },
+      {
+        "q": "What are the build models for online casino software?",
+        "a": "White label (rented, fastest, least control), turnkey (brandable and configurable, usually your own licence), and custom (full ownership of code, data and margins). The right model depends on how fast you need to launch and how much you intend to own."
+      },
+      {
+        "q": "What is a PAM in casino software?",
+        "a": "A Player Account Management system is the core system of record for accounts, wallets, bonuses, limits and KYC status. It sits at the centre of the platform, surrounded by games, payments, CRM, compliance and reporting."
+      },
+      {
+        "q": "Are online casino games fair and certified?",
+        "a": "Reputable platforms use certified Random Number Generators tested by independent labs such as iTech Labs, GLI or eCOGRA, and surface RTP accurately. Always confirm game and RNG certification for your target jurisdictions."
+      },
+      {
+        "q": "What compliance does online casino software need?",
+        "a": "KYC/AML onboarding, responsible-gambling limits, geo-fencing to licensed markets and regulatory reporting, built to certify under your licence. Licensing ranges from Curaçao (cheaper, faster) to MGA and UKGC (costlier, higher trust)."
+      },
+      {
+        "q": "How long does it take to launch an online casino?",
+        "a": "Roughly 4-10 weeks for white label, 6-12 weeks for turnkey, and 4-9 months for a custom build, with licensing and payment onboarding usually the biggest timeline drivers."
+      },
+      {
+        "q": "How do I choose a casino software provider?",
+        "a": "Evaluate breadth and quality of games, payment reliability, compliance and certifications, uptime, control over margins and bonusing, commercial transparency, and whether you can keep your player data and migrate to an owned platform later."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Online Casino Software",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        },
+        "name": "Online Casino Software | Casino Platform | Sudonex",
+        "description": "Online casino software explained: core components (PAM, games, payments, compliance), white label vs turnkey vs custom, cost, timelines and how to choose a provider.",
+        "url": "https://sudonex.com/online-casino-software/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Online Casino Software | Sudonex",
+            "item": "https://www.sudonex.com/online-casino-software/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is online casino software?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Online casino software is the complete platform that runs a real-money casino: a player account and wallet system (PAM), a games library via aggregators, payments and KYC, bonusing and CRM, responsible-gambling and compliance tooling, and reporting, with web and mobile front ends on top."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How much does online casino software cost?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "As planning ranges, white label starts from about USD 25,000-100,000+ plus revenue share, turnkey from about USD 40,000-200,000, and custom from about USD 150,000, exceeding USD 500,000 for a full build. Licensing, games royalties and payments are additional."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the build models for online casino software?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "White label (rented, fastest, least control), turnkey (brandable and configurable, usually your own licence), and custom (full ownership of code, data and margins). The right model depends on how fast you need to launch and how much you intend to own."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is a PAM in casino software?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A Player Account Management system is the core system of record for accounts, wallets, bonuses, limits and KYC status. It sits at the centre of the platform, surrounded by games, payments, CRM, compliance and reporting."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are online casino games fair and certified?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Reputable platforms use certified Random Number Generators tested by independent labs such as iTech Labs, GLI or eCOGRA, and surface RTP accurately. Always confirm game and RNG certification for your target jurisdictions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What compliance does online casino software need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "KYC/AML onboarding, responsible-gambling limits, geo-fencing to licensed markets and regulatory reporting, built to certify under your licence. Licensing ranges from Curaçao (cheaper, faster) to MGA and UKGC (costlier, higher trust)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long does it take to launch an online casino?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Roughly 4-10 weeks for white label, 6-12 weeks for turnkey, and 4-9 months for a custom build, with licensing and payment onboarding usually the biggest timeline drivers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I choose a casino software provider?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Evaluate breadth and quality of games, payment reliability, compliance and certifications, uptime, control over margins and bonusing, commercial transparency, and whether you can keep your player data and migrate to an owned platform later."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "commercial",
+    "funnel": "BOFU",
+    "cluster": "online-casino",
+    "primary_kw": "online casino software",
+    "secondary_kws": [
+      "casino platform software",
+      "igaming software",
+      "casino gaming software"
+    ],
+    "outbound_links": [
+      {
+        "to": "/casino-app-development/",
+        "anchor": "casino app development",
+        "reason": "hub-spoke"
+      },
+      {
+        "to": "/custom-casino-software-development/",
+        "anchor": "custom casino software development",
+        "reason": "hub-spoke"
+      },
+      {
+        "to": "/white-label-igaming-solutions/",
+        "anchor": "white label iGaming solutions",
+        "reason": "pillar-pillar"
+      },
+      {
+        "to": "/turnkey-igaming-solutions/",
+        "anchor": "turnkey iGaming solutions",
+        "reason": "supporting"
+      },
+      {
+        "to": "/services/",
+        "anchor": "our iGaming development services",
+        "reason": "hub"
+      }
+    ],
+    "inbound_from": [
+      "/casino-app-development/",
+      "/custom-casino-software-development/",
+      "/casino-app-development/",
+      "/custom-casino-software-development/"
     ],
     "audit_missing": []
   }
