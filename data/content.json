@@ -28169,6 +28169,16 @@
         "to": "/start-an-online-casino/",
         "anchor": "start an online casino",
         "reason": "hub-spoke"
+      },
+      {
+        "to": "/casino-software-provider/",
+        "anchor": "casino software provider",
+        "reason": "hub-spoke"
+      },
+      {
+        "to": "/igaming-platform-provider/",
+        "anchor": "iGaming platform provider",
+        "reason": "hub-spoke"
       }
     ],
     "inbound_from": [
@@ -28563,6 +28573,398 @@
       {
         "to": "/how-to-start-an-online-casino/",
         "anchor": "how to start an online casino",
+        "reason": "sibling"
+      },
+      {
+        "to": "/services/",
+        "anchor": "our iGaming development services",
+        "reason": "hub"
+      }
+    ],
+    "inbound_from": [
+      "/online-casino-software/"
+    ],
+    "audit_missing": []
+  },
+  "/casino-software-provider/": {
+    "path": "/casino-software-provider/",
+    "layer": "subservice",
+    "seo_title": "Casino Software Provider | How to Choose | Sudonex",
+    "meta_description": "What a casino software provider does and how to choose one: platform, games, payments, compliance, uptime and ownership. A practical buyer's guide from Sudonex.",
+    "h1": "Casino Software Provider | Sudonex",
+    "canonical": "https://www.sudonex.com/casino-software-provider/",
+    "body_html": "<p>A casino software provider supplies the technology that powers an online casino — the platform, games integrations, payments, compliance and support — so an operator can run a real-money casino without building it all in-house. Choosing the right provider is the most consequential decision an operator makes, because it sets your margins, player experience and how much of the business you own. This buyer's guide explains what providers do and how to pick one. It sits under <a href=\"/online-casino-software/\">online casino software</a>.</p>\n<h2 id=\"what-they-do\">What a Casino Software Provider Does</h2>\n<p>A provider delivers some or all of: the casino platform and PAM, a games library via aggregation, payments and a cashier, bonusing and CRM, compliance and responsible-gambling tooling, hosting and uptime, and ongoing support. Some also supply a licence (white label) or help you obtain your own (turnkey/custom).</p>\n<h2 id=\"types\">Types of Providers</h2>\n<p>Providers specialise: white-label platform providers, turnkey providers, custom development companies, games studios, and aggregators. Match the provider type to your goal — a fast launch needs a white-label or turnkey provider; an owned, differentiated brand needs a custom development partner like Sudonex.</p>\n<h2 id=\"evaluate\">How to Evaluate a Provider</h2>\n<p>Score candidates on: breadth and quality of games, payment and withdrawal reliability, compliance and certifications, uptime (99.9%+), control over margins and bonusing, commercial transparency, and whether you can keep your player data and migrate later. Weight by your priorities and shortlist three to five.</p>\n<h2 id=\"red-flags\">Red Flags</h2>\n<p>Avoid providers that will not explain margins and risk, cannot evidence certifications, hide payment reliability, quote suspiciously flat low prices, or refuse to confirm data portability. Sales-stage opaqueness predicts operational opaqueness.</p>\n<h2 id=\"ownership\">Ownership and Migration</h2>\n<p>The key long-term question is ownership: who controls the margins, player data and roadmap, and can you migrate to an owned platform as you scale? A provider that locks you in with a high revenue share and your data on their system limits your future.</p>\n<h2 id=\"sudonex\">Where Sudonex Fits</h2>\n<p>Sudonex is a casino software provider and development company that builds ownable platforms across white label, turnkey and custom models, with reliable payments, compliance built to certify and 99.9%+ uptime. <a href=\"/services/\">See our services</a>.</p>",
+    "toc": [
+      {
+        "text": "What a Casino Software Provider Does",
+        "href": "#what-they-do"
+      },
+      {
+        "text": "Types of Providers",
+        "href": "#types"
+      },
+      {
+        "text": "How to Evaluate a Provider",
+        "href": "#evaluate"
+      },
+      {
+        "text": "Red Flags",
+        "href": "#red-flags"
+      },
+      {
+        "text": "Ownership and Migration",
+        "href": "#ownership"
+      },
+      {
+        "text": "Where Sudonex Fits",
+        "href": "#sudonex"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is a casino software provider?",
+        "a": "A casino software provider supplies the technology that powers an online casino — the platform and PAM, games via aggregation, payments, bonusing and CRM, compliance tooling, hosting and support — so an operator can run a casino without building it all in-house."
+      },
+      {
+        "q": "How do I choose a casino software provider?",
+        "a": "Score candidates on games breadth and quality, payment reliability, compliance and certifications, uptime, control over margins and bonusing, commercial transparency, and data portability. Match the provider type to your goal and shortlist three to five."
+      },
+      {
+        "q": "What types of casino software providers are there?",
+        "a": "White-label platform providers, turnkey providers, custom development companies, games studios and aggregators. A fast launch suits white-label or turnkey; an owned, differentiated brand suits a custom development partner."
+      },
+      {
+        "q": "Does a casino software provider supply a licence?",
+        "a": "Some do. White-label providers often let you operate under their umbrella licence, while turnkey and custom providers typically help you obtain your own licence for more control."
+      },
+      {
+        "q": "What red flags indicate a weak provider?",
+        "a": "Refusing to explain margins and risk, inability to evidence certifications, hidden payment reliability, suspiciously flat low pricing, and refusing to confirm you can keep and migrate your player data."
+      },
+      {
+        "q": "Why does ownership matter with a casino provider?",
+        "a": "Ownership of margins, player data and roadmap determines your long-term economics and freedom. A provider that locks you in with a high revenue share and keeps your data limits your ability to scale and differentiate."
+      },
+      {
+        "q": "Is Sudonex a casino software provider?",
+        "a": "Yes. Sudonex builds ownable casino platforms across white label, turnkey and custom models, with reliable payments, compliance built to certify and a 99.9%+ uptime target."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Casino Software Provider",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        },
+        "name": "Casino Software Provider | How to Choose | Sudonex",
+        "description": "What a casino software provider does and how to choose one: platform, games, payments, compliance, uptime and ownership. A practical buyer's guide from Sudonex.",
+        "url": "https://sudonex.com/casino-software-provider/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Casino Software Provider | Sudonex",
+            "item": "https://www.sudonex.com/casino-software-provider/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is a casino software provider?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A casino software provider supplies the technology that powers an online casino — the platform and PAM, games via aggregation, payments, bonusing and CRM, compliance tooling, hosting and support — so an operator can run a casino without building it all in-house."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I choose a casino software provider?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Score candidates on games breadth and quality, payment reliability, compliance and certifications, uptime, control over margins and bonusing, commercial transparency, and data portability. Match the provider type to your goal and shortlist three to five."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What types of casino software providers are there?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "White-label platform providers, turnkey providers, custom development companies, games studios and aggregators. A fast launch suits white-label or turnkey; an owned, differentiated brand suits a custom development partner."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does a casino software provider supply a licence?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Some do. White-label providers often let you operate under their umbrella licence, while turnkey and custom providers typically help you obtain your own licence for more control."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What red flags indicate a weak provider?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Refusing to explain margins and risk, inability to evidence certifications, hidden payment reliability, suspiciously flat low pricing, and refusing to confirm you can keep and migrate your player data."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why does ownership matter with a casino provider?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ownership of margins, player data and roadmap determines your long-term economics and freedom. A provider that locks you in with a high revenue share and keeps your data limits your ability to scale and differentiate."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Sudonex a casino software provider?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Sudonex builds ownable casino platforms across white label, turnkey and custom models, with reliable payments, compliance built to certify and a 99.9%+ uptime target."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "commercial",
+    "funnel": "BOFU",
+    "cluster": "online-casino",
+    "primary_kw": "casino software provider",
+    "secondary_kws": [
+      "casino software vendor",
+      "igaming software supplier",
+      "casino platform provider"
+    ],
+    "outbound_links": [
+      {
+        "to": "/online-casino-software/",
+        "anchor": "online casino software",
+        "reason": "pillar-up"
+      },
+      {
+        "to": "/custom-casino-software-development/",
+        "anchor": "custom casino software development",
+        "reason": "supporting"
+      },
+      {
+        "to": "/services/",
+        "anchor": "our iGaming development services",
+        "reason": "hub"
+      }
+    ],
+    "inbound_from": [
+      "/online-casino-software/"
+    ],
+    "audit_missing": []
+  },
+  "/igaming-platform-provider/": {
+    "path": "/igaming-platform-provider/",
+    "layer": "subservice",
+    "seo_title": "iGaming Platform Provider | What to Look For | Sudonex",
+    "meta_description": "What an iGaming platform provider delivers and how to choose one: platform, aggregation, payments, compliance, uptime and ownership. A practical guide from Sudonex.",
+    "h1": "iGaming Platform Provider | Sudonex",
+    "canonical": "https://www.sudonex.com/igaming-platform-provider/",
+    "body_html": "<p>An iGaming platform provider delivers the core technology that powers casino and sportsbook operations — the platform, player management, aggregation, payments and compliance — as a foundation operators build their brand on. The provider you choose sets your margins, scalability and ownership, so the decision deserves a structured evaluation rather than a logo comparison. This guide explains what platform providers deliver and how to choose. It sits under <a href=\"/online-casino-software/\">online casino software</a>.</p>\n<h2 id=\"what-they-deliver\">What an iGaming Platform Provider Delivers</h2>\n<p>A platform provider supplies the integrated core: player account management, wallet and bonusing, games and (for sportsbook) trading aggregation, payments and KYC, compliance and responsible-gambling tooling, reporting, and the APIs that serve web and mobile clients. Some add a licence; others help you obtain your own.</p>\n<h2 id=\"platform-vs-games\">Platform vs Games vs Aggregator</h2>\n<p>Do not confuse the layers. A platform provider runs the core operation; games studios make the content; aggregators connect many studios to the platform. A strong platform provider integrates cleanly with leading aggregators so you get breadth without bespoke integrations.</p>\n<h2 id=\"evaluate\">How to Choose a Platform Provider</h2>\n<p>Score on: platform depth and API quality, breadth and latency of games and trading, payment and withdrawal reliability, compliance and certifications, uptime (99.9%+), control over margins and bonusing, and whether you can keep your data and migrate later.</p>\n<h2 id=\"scalability\">Scalability and Uptime</h2>\n<p>iGaming traffic is spiky. A serious platform scales for peaks, targets 99.9%+ uptime, and keeps latency low for live products. Downtime during a marquee event is the costliest failure, so resilience is an architecture decision.</p>\n<h2 id=\"ownership\">Ownership and Lock-In</h2>\n<p>Ask who controls margins, player data and roadmap, and whether you can migrate to an owned platform. Rented platforms get you live fast, but owning the platform is what turns a growing operation into an asset.</p>\n<h2 id=\"sudonex\">Where Sudonex Fits</h2>\n<p>Sudonex is an iGaming platform provider and development company building ownable casino and sportsbook platforms with clean APIs, reliable payments, compliance built to certify and 99.9%+ uptime. <a href=\"/services/\">See our services</a>.</p>",
+    "toc": [
+      {
+        "text": "What an iGaming Platform Provider Delivers",
+        "href": "#what-they-deliver"
+      },
+      {
+        "text": "Platform vs Games vs Aggregator",
+        "href": "#platform-vs-games"
+      },
+      {
+        "text": "How to Choose a Platform Provider",
+        "href": "#evaluate"
+      },
+      {
+        "text": "Scalability and Uptime",
+        "href": "#scalability"
+      },
+      {
+        "text": "Ownership and Lock-In",
+        "href": "#ownership"
+      },
+      {
+        "text": "Where Sudonex Fits",
+        "href": "#sudonex"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is an iGaming platform provider?",
+        "a": "An iGaming platform provider delivers the core technology for casino and sportsbook operations — player management, aggregation, payments, compliance, reporting and the APIs for web and mobile — as a foundation operators build their brand on."
+      },
+      {
+        "q": "What is the difference between a platform provider, a games studio and an aggregator?",
+        "a": "A platform provider runs the core operation; games studios make the content; aggregators connect many studios to the platform. A strong platform integrates cleanly with aggregators so you get game breadth without bespoke integrations."
+      },
+      {
+        "q": "How do I choose an iGaming platform provider?",
+        "a": "Score on platform depth and API quality, breadth and latency of games or trading, payment reliability, compliance and certifications, uptime, control over margins and bonusing, and whether you can keep your data and migrate later."
+      },
+      {
+        "q": "What uptime should an iGaming platform provider offer?",
+        "a": "A serious provider targets 99.9% uptime or better, scales for match-day and peak traffic, and keeps latency low for live products, because downtime during a marquee event is the costliest failure."
+      },
+      {
+        "q": "Does an iGaming platform provider supply a licence?",
+        "a": "Some do, via a white-label umbrella licence, while others help you obtain your own licence for more control. Confirm the licensing model, as it changes both cost and control."
+      },
+      {
+        "q": "Why does platform ownership matter?",
+        "a": "Ownership of margins, player data and roadmap determines long-term economics and freedom. Rented platforms launch fast, but owning the platform turns a growing operation into an asset."
+      },
+      {
+        "q": "Is Sudonex an iGaming platform provider?",
+        "a": "Yes. Sudonex builds ownable casino and sportsbook platforms with clean APIs, reliable payments, compliance built to certify and a 99.9%+ uptime target, across white label, turnkey and custom models."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "iGaming Platform Provider",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        },
+        "name": "iGaming Platform Provider | What to Look For | Sudonex",
+        "description": "What an iGaming platform provider delivers and how to choose one: platform, aggregation, payments, compliance, uptime and ownership. A practical guide from Sudonex.",
+        "url": "https://sudonex.com/igaming-platform-provider/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "iGaming Platform Provider | Sudonex",
+            "item": "https://www.sudonex.com/igaming-platform-provider/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is an iGaming platform provider?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "An iGaming platform provider delivers the core technology for casino and sportsbook operations — player management, aggregation, payments, compliance, reporting and the APIs for web and mobile — as a foundation operators build their brand on."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between a platform provider, a games studio and an aggregator?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A platform provider runs the core operation; games studios make the content; aggregators connect many studios to the platform. A strong platform integrates cleanly with aggregators so you get game breadth without bespoke integrations."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I choose an iGaming platform provider?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Score on platform depth and API quality, breadth and latency of games or trading, payment reliability, compliance and certifications, uptime, control over margins and bonusing, and whether you can keep your data and migrate later."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What uptime should an iGaming platform provider offer?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A serious provider targets 99.9% uptime or better, scales for match-day and peak traffic, and keeps latency low for live products, because downtime during a marquee event is the costliest failure."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does an iGaming platform provider supply a licence?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Some do, via a white-label umbrella licence, while others help you obtain your own licence for more control. Confirm the licensing model, as it changes both cost and control."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why does platform ownership matter?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ownership of margins, player data and roadmap determines long-term economics and freedom. Rented platforms launch fast, but owning the platform turns a growing operation into an asset."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Sudonex an iGaming platform provider?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Sudonex builds ownable casino and sportsbook platforms with clean APIs, reliable payments, compliance built to certify and a 99.9%+ uptime target, across white label, turnkey and custom models."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "commercial",
+    "funnel": "BOFU",
+    "cluster": "online-casino",
+    "primary_kw": "igaming platform provider",
+    "secondary_kws": [
+      "igaming platform vendor",
+      "gaming platform supplier",
+      "igaming software provider"
+    ],
+    "outbound_links": [
+      {
+        "to": "/online-casino-software/",
+        "anchor": "online casino software",
+        "reason": "pillar-up"
+      },
+      {
+        "to": "/casino-software-provider/",
+        "anchor": "casino software provider",
         "reason": "sibling"
       },
       {
