@@ -28179,6 +28179,16 @@
         "to": "/igaming-platform-provider/",
         "anchor": "iGaming platform provider",
         "reason": "hub-spoke"
+      },
+      {
+        "to": "/casino-platform-provider/",
+        "anchor": "casino platform provider",
+        "reason": "hub-spoke"
+      },
+      {
+        "to": "/online-casino-business/",
+        "anchor": "online casino business",
+        "reason": "hub-spoke"
       }
     ],
     "inbound_from": [
@@ -28966,6 +28976,403 @@
         "to": "/casino-software-provider/",
         "anchor": "casino software provider",
         "reason": "sibling"
+      },
+      {
+        "to": "/services/",
+        "anchor": "our iGaming development services",
+        "reason": "hub"
+      }
+    ],
+    "inbound_from": [
+      "/online-casino-software/"
+    ],
+    "audit_missing": []
+  },
+  "/casino-platform-provider/": {
+    "path": "/casino-platform-provider/",
+    "layer": "subservice",
+    "seo_title": "Casino Platform Provider | Selection Guide | Sudonex",
+    "meta_description": "How to choose a casino platform provider: platform core, games aggregation, payments, compliance, uptime and ownership. A practical selection guide from Sudonex.",
+    "h1": "Casino Platform Provider | Sudonex",
+    "canonical": "https://www.sudonex.com/casino-platform-provider/",
+    "body_html": "<p>A casino platform provider supplies the central system an online casino runs on — player management, games aggregation, payments, bonusing and compliance — so operators can launch and scale without building the core themselves. As with any critical vendor, the right choice protects your margins and growth while the wrong one quietly caps them. This selection guide covers what a casino platform provider does and how to evaluate one. It sits under <a href=\"/online-casino-software/\">online casino software</a>.</p>\n<h2 id=\"role\">The Role of a Casino Platform Provider</h2>\n<p>The platform provider delivers the PAM, wallet and bonusing, games aggregation, payments and cashier, compliance and responsible-gambling tooling, reporting, and the APIs for web and mobile. It is the operational heart of the casino; games and payments plug into it.</p>\n<h2 id=\"evaluate\">Selection Criteria</h2>\n<p>Score candidates on: platform depth and API quality, breadth and quality of games, payment and withdrawal reliability, compliance and certifications (RNG testing, jurisdiction fit), uptime (99.9%+), control over margins and bonusing, and data portability.</p>\n<h2 id=\"games\">Games and Aggregation</h2>\n<p>A strong platform integrates with leading aggregators so you access thousands of certified titles and live casino without bespoke work. Game breadth and live-casino quality drive acquisition and player value.</p>\n<h2 id=\"compliance\">Compliance and Trust</h2>\n<p>Confirm the provider supports your licensing route (Curaçao, MGA, UKGC), enforces KYC/AML, responsible-gambling limits and geo-fencing, and uses certified RNGs tested by labs such as iTech Labs, GLI or eCOGRA.</p>\n<h2 id=\"ownership\">Ownership and Migration</h2>\n<p>Ask who owns the margins, player data and roadmap, and whether you can migrate to an owned platform as you scale. Avoid being locked into a high revenue share with your data on the provider's system.</p>\n<h2 id=\"sudonex\">Where Sudonex Fits</h2>\n<p>Sudonex is a casino platform provider and development company building ownable platforms with clean APIs, deep game aggregation, reliable payments, compliance built to certify and 99.9%+ uptime. <a href=\"/services/\">See our services</a>.</p>",
+    "toc": [
+      {
+        "text": "The Role of a Casino Platform Provider",
+        "href": "#role"
+      },
+      {
+        "text": "Selection Criteria",
+        "href": "#evaluate"
+      },
+      {
+        "text": "Games and Aggregation",
+        "href": "#games"
+      },
+      {
+        "text": "Compliance and Trust",
+        "href": "#compliance"
+      },
+      {
+        "text": "Ownership and Migration",
+        "href": "#ownership"
+      },
+      {
+        "text": "Where Sudonex Fits",
+        "href": "#sudonex"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is a casino platform provider?",
+        "a": "A casino platform provider supplies the central system an online casino runs on — player management, games aggregation, payments, bonusing, compliance, reporting and APIs for web and mobile — so operators can launch and scale without building the core themselves."
+      },
+      {
+        "q": "How do I choose a casino platform provider?",
+        "a": "Score on platform depth and API quality, breadth and quality of games, payment reliability, compliance and certifications, uptime, control over margins and bonusing, and data portability. Shortlist three to five and compare on a weighted scorecard."
+      },
+      {
+        "q": "What is the difference between a casino platform and a games provider?",
+        "a": "The platform is the operational core (player management, payments, compliance, APIs); games providers make the content. A strong platform integrates with aggregators to access many studios' games without bespoke integrations."
+      },
+      {
+        "q": "What compliance should a casino platform provider support?",
+        "a": "Your licensing route (Curaçao, MGA or UKGC), KYC/AML, responsible-gambling limits, geo-fencing and certified RNGs tested by labs such as iTech Labs, GLI or eCOGRA."
+      },
+      {
+        "q": "What uptime should a casino platform provider offer?",
+        "a": "A serious provider targets 99.9% uptime or better and scales for traffic peaks, because downtime directly costs revenue and player trust."
+      },
+      {
+        "q": "Can I migrate off a casino platform provider later?",
+        "a": "With the right provider, yes. Confirm data portability and a migration path to an owned platform before committing, so a growing casino is not trapped by a high revenue share."
+      },
+      {
+        "q": "Is Sudonex a casino platform provider?",
+        "a": "Yes. Sudonex builds ownable casino platforms with clean APIs, deep game aggregation, reliable payments, compliance built to certify and a 99.9%+ uptime target."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Casino Platform Provider",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        },
+        "name": "Casino Platform Provider | Selection Guide | Sudonex",
+        "description": "How to choose a casino platform provider: platform core, games aggregation, payments, compliance, uptime and ownership. A practical selection guide from Sudonex.",
+        "url": "https://sudonex.com/casino-platform-provider/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Casino Platform Provider | Sudonex",
+            "item": "https://www.sudonex.com/casino-platform-provider/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is a casino platform provider?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A casino platform provider supplies the central system an online casino runs on — player management, games aggregation, payments, bonusing, compliance, reporting and APIs for web and mobile — so operators can launch and scale without building the core themselves."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I choose a casino platform provider?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Score on platform depth and API quality, breadth and quality of games, payment reliability, compliance and certifications, uptime, control over margins and bonusing, and data portability. Shortlist three to five and compare on a weighted scorecard."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between a casino platform and a games provider?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The platform is the operational core (player management, payments, compliance, APIs); games providers make the content. A strong platform integrates with aggregators to access many studios' games without bespoke integrations."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What compliance should a casino platform provider support?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Your licensing route (Curaçao, MGA or UKGC), KYC/AML, responsible-gambling limits, geo-fencing and certified RNGs tested by labs such as iTech Labs, GLI or eCOGRA."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What uptime should a casino platform provider offer?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A serious provider targets 99.9% uptime or better and scales for traffic peaks, because downtime directly costs revenue and player trust."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I migrate off a casino platform provider later?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "With the right provider, yes. Confirm data portability and a migration path to an owned platform before committing, so a growing casino is not trapped by a high revenue share."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Sudonex a casino platform provider?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Sudonex builds ownable casino platforms with clean APIs, deep game aggregation, reliable payments, compliance built to certify and a 99.9%+ uptime target."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "commercial",
+    "funnel": "BOFU",
+    "cluster": "online-casino",
+    "primary_kw": "casino platform provider",
+    "secondary_kws": [
+      "casino platform vendor",
+      "online casino platform provider",
+      "casino software platform"
+    ],
+    "outbound_links": [
+      {
+        "to": "/online-casino-software/",
+        "anchor": "online casino software",
+        "reason": "pillar-up"
+      },
+      {
+        "to": "/igaming-platform-provider/",
+        "anchor": "iGaming platform provider",
+        "reason": "sibling"
+      },
+      {
+        "to": "/services/",
+        "anchor": "our iGaming development services",
+        "reason": "hub"
+      }
+    ],
+    "inbound_from": [
+      "/online-casino-software/"
+    ],
+    "audit_missing": []
+  },
+  "/online-casino-business/": {
+    "path": "/online-casino-business/",
+    "layer": "subservice",
+    "seo_title": "Online Casino Business | Model, Revenue, Costs | Sudonex",
+    "meta_description": "How the online casino business works: revenue model (GGR/NGR), costs, margins, licensing and what makes an operator profitable. A practical overview from Sudonex.",
+    "h1": "Online Casino Business | Sudonex",
+    "canonical": "https://www.sudonex.com/online-casino-business/",
+    "body_html": "<p>The online casino business is, at its core, a margin business built on volume, retention and disciplined cost control. Revenue comes from the house edge across games, measured as gross gaming revenue (GGR), while profit depends on acquisition cost, retention, payment and platform fees, and compliance. Understanding the economics before you launch is what separates operators who compound profit from those who burn capital. This overview explains the model, revenue and costs. It sits under <a href=\"/online-casino-software/\">online casino software</a>.</p>\n<h2 id=\"model\">The Business Model</h2>\n<p>An online casino earns from the house edge built into its games. Players win and lose individual bets, but over volume the mathematical edge produces gross gaming revenue (GGR). Net gaming revenue (NGR) is GGR minus bonuses and certain costs. The business scales by acquiring players efficiently and retaining them profitably.</p>\n<h2 id=\"revenue\">Revenue: GGR and NGR</h2>\n<p>GGR is total stakes minus player winnings; NGR deducts bonuses, fees and sometimes taxes. Operators track GGR, NGR, hold and player lifetime value obsessively, because small changes in retention or bonus efficiency move profit materially.</p>\n<h2 id=\"costs\">The Cost Stack</h2>\n<p>Costs include platform fees or revenue share (on rented models), games royalties, payment processing, licensing and compliance, hosting, and — usually the largest — marketing and player acquisition. Underestimating acquisition cost is the most common reason new casinos fail.</p>\n<h2 id=\"margins\">What Drives Profitability</h2>\n<p>Profit comes from efficient acquisition, strong retention (bonusing and CRM that are profitable, not generic), fast reliable payments that reduce churn, and controlling the platform revenue share by owning more of the stack as you scale.</p>\n<h2 id=\"licensing\">Licensing and Risk</h2>\n<p>Licensing (Curaçao, MGA, UKGC) affects cost, trust, market access and tax. Compliance failures, chargebacks and bonus abuse are real risks that disciplined operations and the right platform mitigate.</p>\n<h2 id=\"scale\">Scaling the Business</h2>\n<p>As volume grows, the economics favour owning the platform: a custom build removes the revenue share, lowers cost per player and turns the operation into an asset. See <a href=\"/custom-casino-software-development/\">custom casino software development</a>.</p>",
+    "toc": [
+      {
+        "text": "The Business Model",
+        "href": "#model"
+      },
+      {
+        "text": "Revenue: GGR and NGR",
+        "href": "#revenue"
+      },
+      {
+        "text": "The Cost Stack",
+        "href": "#costs"
+      },
+      {
+        "text": "What Drives Profitability",
+        "href": "#margins"
+      },
+      {
+        "text": "Licensing and Risk",
+        "href": "#licensing"
+      },
+      {
+        "text": "Scaling the Business",
+        "href": "#scale"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How does an online casino business make money?",
+        "a": "From the house edge built into its games. Over volume, that edge produces gross gaming revenue (GGR); net gaming revenue (NGR) is GGR minus bonuses and certain costs. Profit depends on acquisition cost, retention and cost control."
+      },
+      {
+        "q": "What is GGR in an online casino?",
+        "a": "Gross gaming revenue is total player stakes minus player winnings. Net gaming revenue (NGR) deducts bonuses, fees and sometimes taxes. Operators track both closely because small retention or bonus changes move profit materially."
+      },
+      {
+        "q": "What are the main costs of an online casino?",
+        "a": "Platform fees or revenue share, games royalties, payment processing, licensing and compliance, hosting, and — usually the largest — marketing and player acquisition. Underestimating acquisition cost is a common cause of failure."
+      },
+      {
+        "q": "What makes an online casino profitable?",
+        "a": "Efficient player acquisition, strong retention through profitable bonusing and CRM, fast reliable payments that reduce churn, and controlling the platform revenue share by owning more of the stack as you scale."
+      },
+      {
+        "q": "How does licensing affect the casino business?",
+        "a": "Licensing (Curaçao, MGA, UKGC) affects cost, trust, market access and tax. Higher-trust licences cost more but open better markets and payment options; cheaper licences launch faster."
+      },
+      {
+        "q": "Why do many online casinos fail?",
+        "a": "Most commonly, underestimating marketing and acquisition cost, weak retention, poor payment reliability, or compliance failures. Disciplined economics and the right platform mitigate these risks."
+      },
+      {
+        "q": "When should an online casino move to a custom platform?",
+        "a": "As volume grows, owning the platform removes the revenue share, lowers cost per player and turns the operation into an asset, making custom development the economic choice for scaling operators."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Online Casino Business",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        },
+        "name": "Online Casino Business | Model, Revenue, Costs | Sudonex",
+        "description": "How the online casino business works: revenue model (GGR/NGR), costs, margins, licensing and what makes an operator profitable. A practical overview from Sudonex.",
+        "url": "https://sudonex.com/online-casino-business/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Online Casino Business | Sudonex",
+            "item": "https://www.sudonex.com/online-casino-business/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How does an online casino business make money?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "From the house edge built into its games. Over volume, that edge produces gross gaming revenue (GGR); net gaming revenue (NGR) is GGR minus bonuses and certain costs. Profit depends on acquisition cost, retention and cost control."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is GGR in an online casino?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Gross gaming revenue is total player stakes minus player winnings. Net gaming revenue (NGR) deducts bonuses, fees and sometimes taxes. Operators track both closely because small retention or bonus changes move profit materially."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the main costs of an online casino?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Platform fees or revenue share, games royalties, payment processing, licensing and compliance, hosting, and — usually the largest — marketing and player acquisition. Underestimating acquisition cost is a common cause of failure."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What makes an online casino profitable?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Efficient player acquisition, strong retention through profitable bonusing and CRM, fast reliable payments that reduce churn, and controlling the platform revenue share by owning more of the stack as you scale."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does licensing affect the casino business?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Licensing (Curaçao, MGA, UKGC) affects cost, trust, market access and tax. Higher-trust licences cost more but open better markets and payment options; cheaper licences launch faster."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why do many online casinos fail?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most commonly, underestimating marketing and acquisition cost, weak retention, poor payment reliability, or compliance failures. Disciplined economics and the right platform mitigate these risks."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When should an online casino move to a custom platform?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "As volume grows, owning the platform removes the revenue share, lowers cost per player and turns the operation into an asset, making custom development the economic choice for scaling operators."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "commercial",
+    "funnel": "BOFU",
+    "cluster": "online-casino",
+    "primary_kw": "online casino business",
+    "secondary_kws": [
+      "online casino business model",
+      "casino business revenue",
+      "igaming business"
+    ],
+    "outbound_links": [
+      {
+        "to": "/online-casino-software/",
+        "anchor": "online casino software",
+        "reason": "pillar-up"
+      },
+      {
+        "to": "/how-to-start-an-online-casino/",
+        "anchor": "how to start an online casino",
+        "reason": "sibling"
+      },
+      {
+        "to": "/custom-casino-software-development/",
+        "anchor": "custom casino software development",
+        "reason": "supporting"
       },
       {
         "to": "/services/",
