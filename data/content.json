@@ -23061,6 +23061,21 @@
         "to": "/custom-casino-software-development/",
         "anchor": "custom casino software development",
         "reason": "related"
+      },
+      {
+        "to": "/sportsbook-software/",
+        "anchor": "sportsbook software development",
+        "reason": "hub-authority-funnel"
+      },
+      {
+        "to": "/online-casino-software/",
+        "anchor": "online casino software development",
+        "reason": "hub-authority-funnel"
+      },
+      {
+        "to": "/white-label-igaming-solutions/",
+        "anchor": "white label iGaming solutions",
+        "reason": "hub-authority-funnel"
       }
     ],
     "inbound_from": [
@@ -25715,7 +25730,8 @@
     ],
     "inbound_from": [
       "/sports-exchange-development/",
-      "/sportsbook-payment-software/"
+      "/sportsbook-payment-software/",
+      "/igaming-software-development/"
     ],
     "audit_missing": []
   },
@@ -27300,7 +27316,8 @@
       "/custom-casino-software-development/",
       "/white-label-casino-software/",
       "/solutions/white-label-casino-solutions/",
-      "/custom-casino-software-development/"
+      "/custom-casino-software-development/",
+      "/igaming-software-development/"
     ],
     "audit_missing": []
   },
@@ -28195,7 +28212,8 @@
       "/casino-app-development/",
       "/custom-casino-software-development/",
       "/casino-app-development/",
-      "/custom-casino-software-development/"
+      "/custom-casino-software-development/",
+      "/igaming-software-development/"
     ],
     "audit_missing": []
   },
