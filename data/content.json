@@ -28216,6 +28216,11 @@
         "to": "/crypto-casino-software/",
         "anchor": "crypto casino software",
         "reason": "hub-spoke"
+      },
+      {
+        "to": "/casino-game-development-company/",
+        "anchor": "casino game development company",
+        "reason": "hub-spoke"
       }
     ],
     "inbound_from": [
@@ -30596,6 +30601,398 @@
       {
         "to": "/crypto-payment-integration/",
         "anchor": "crypto payment integration",
+        "reason": "supporting"
+      },
+      {
+        "to": "/services/",
+        "anchor": "our iGaming development services",
+        "reason": "hub"
+      }
+    ],
+    "inbound_from": [
+      "/online-casino-software/"
+    ],
+    "audit_missing": []
+  },
+  "/slot-game-development-company/": {
+    "path": "/slot-game-development-company/",
+    "layer": "subservice",
+    "seo_title": "Slot Game Development Company | Sudonex",
+    "meta_description": "Slot game development company building HTML5 slots: math and RNG, engaging mechanics, mobile-first design and GLI-certified fairness for operators and studios. Talk to Sudonex.",
+    "h1": "Slot Game Development Company | Sudonex",
+    "canonical": "https://www.sudonex.com/slot-game-development-company/",
+    "body_html": "<p>A slot game development company designs and builds the slot games that are the backbone of online casino revenue — from math models and RNG to art, animation and mobile-first delivery. Great slots combine compelling mechanics, balanced volatility and certified fairness. This guide covers what slot development involves and how to choose a studio. It relates to our <a href=\"/online-casino-software/\">online casino software</a> and <a href=\"/custom-slot-game-development/\">custom slot game development</a> work.</p>\n<h2 id=\"what-they-do\">What a Slot Game Development Company Does</h2>\n<p>A slot studio handles game concept and theme, the math model (paylines or ways, RTP and volatility), RNG, features (free spins, wilds, bonus rounds), art and animation, sound, and HTML5 engineering for web and mobile, plus certification.</p>\n<h2 id=\"math-rng\">Math, RTP and Volatility</h2>\n<p>The math model defines the player experience and the operator's margin. RTP (return to player) and volatility are tuned to the target audience, and the RNG must be certified fair by labs such as GLI or iTech Labs.</p>\n<h2 id=\"mechanics\">Mechanics and Engagement</h2>\n<p>Modern slots compete on mechanics — Megaways-style ways to win, cluster pays, hold-and-win, cascading reels, and bonus features — and on polish. Engaging mechanics and satisfying feedback drive retention.</p>\n<h2 id=\"html5\">HTML5 and Mobile-First</h2>\n<p>Slots must run flawlessly on mobile browsers. HTML5 engineering ensures fast load, smooth animation and responsive layouts across devices, since most slot play is on phones.</p>\n<h2 id=\"certification\">Certification and Compliance</h2>\n<p>Games are certified for fairness (RNG) and compliance in each jurisdiction before going live, and integrate via aggregators into operator platforms with responsible-gambling controls.</p>\n<h2 id=\"choosing\">Choosing a Slot Studio</h2>\n<p>Evaluate math and RNG expertise, portfolio quality, mechanics creativity, HTML5 and mobile skill, and certification track record. Sudonex develops custom HTML5 slots and casino games. <a href=\"/services/\">See our services</a>.</p>",
+    "toc": [
+      {
+        "text": "What a Slot Game Development Company Does",
+        "href": "#what-they-do"
+      },
+      {
+        "text": "Math, RTP and Volatility",
+        "href": "#math-rng"
+      },
+      {
+        "text": "Mechanics and Engagement",
+        "href": "#mechanics"
+      },
+      {
+        "text": "HTML5 and Mobile-First",
+        "href": "#html5"
+      },
+      {
+        "text": "Certification and Compliance",
+        "href": "#certification"
+      },
+      {
+        "text": "Choosing a Slot Studio",
+        "href": "#choosing"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What does a slot game development company do?",
+        "a": "It designs and builds slot games end to end: concept and theme, the math model (paylines, RTP, volatility), RNG, features, art, animation, sound, HTML5 engineering for web and mobile, and certification."
+      },
+      {
+        "q": "What is RTP and volatility in slots?",
+        "a": "RTP (return to player) is the long-run percentage of stakes returned to players; volatility describes how often and how large wins come. Both are tuned to the target audience and define player experience and operator margin."
+      },
+      {
+        "q": "Are slot games certified fair?",
+        "a": "Yes. The RNG and math must be certified by independent labs such as GLI or iTech Labs, and games are certified for compliance in each jurisdiction before going live."
+      },
+      {
+        "q": "Why must slots be HTML5 and mobile-first?",
+        "a": "Most slot play is on phones, so games must load fast and animate smoothly in mobile browsers. HTML5 ensures responsive, cross-device performance."
+      },
+      {
+        "q": "What slot mechanics are popular?",
+        "a": "Ways-to-win (Megaways-style), cluster pays, hold-and-win, cascading reels and rich bonus features, combined with polished art and feedback that drive engagement and retention."
+      },
+      {
+        "q": "How do I choose a slot development company?",
+        "a": "Evaluate math and RNG expertise, portfolio quality, mechanics creativity, HTML5 and mobile skill, and certification track record."
+      },
+      {
+        "q": "Does Sudonex develop slot games?",
+        "a": "Yes. Sudonex develops custom HTML5 slot games with balanced math and RNG, engaging mechanics and mobile-first delivery for operators and studios."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Slot Game Development Company",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        },
+        "name": "Slot Game Development Company | Sudonex",
+        "description": "Slot game development company building HTML5 slots: math and RNG, engaging mechanics, mobile-first design and GLI-certified fairness for operators and studios. Talk to Sudonex.",
+        "url": "https://sudonex.com/slot-game-development-company/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Slot Game Development Company | Sudonex",
+            "item": "https://www.sudonex.com/slot-game-development-company/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What does a slot game development company do?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It designs and builds slot games end to end: concept and theme, the math model (paylines, RTP, volatility), RNG, features, art, animation, sound, HTML5 engineering for web and mobile, and certification."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is RTP and volatility in slots?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RTP (return to player) is the long-run percentage of stakes returned to players; volatility describes how often and how large wins come. Both are tuned to the target audience and define player experience and operator margin."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are slot games certified fair?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. The RNG and math must be certified by independent labs such as GLI or iTech Labs, and games are certified for compliance in each jurisdiction before going live."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why must slots be HTML5 and mobile-first?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most slot play is on phones, so games must load fast and animate smoothly in mobile browsers. HTML5 ensures responsive, cross-device performance."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What slot mechanics are popular?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ways-to-win (Megaways-style), cluster pays, hold-and-win, cascading reels and rich bonus features, combined with polished art and feedback that drive engagement and retention."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I choose a slot development company?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Evaluate math and RNG expertise, portfolio quality, mechanics creativity, HTML5 and mobile skill, and certification track record."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does Sudonex develop slot games?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Sudonex develops custom HTML5 slot games with balanced math and RNG, engaging mechanics and mobile-first delivery for operators and studios."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "commercial",
+    "funnel": "BOFU",
+    "cluster": "games",
+    "primary_kw": "slot game development company",
+    "secondary_kws": [
+      "slot game developers",
+      "custom slot development",
+      "html5 slot development"
+    ],
+    "outbound_links": [
+      {
+        "to": "/online-casino-software/",
+        "anchor": "online casino software",
+        "reason": "pillar-pillar"
+      },
+      {
+        "to": "/custom-slot-game-development/",
+        "anchor": "custom slot game development",
+        "reason": "sibling"
+      },
+      {
+        "to": "/services/",
+        "anchor": "our iGaming development services",
+        "reason": "hub"
+      }
+    ],
+    "inbound_from": [
+      "/custom-slot-game-development/"
+    ],
+    "audit_missing": []
+  },
+  "/casino-game-development-company/": {
+    "path": "/casino-game-development-company/",
+    "layer": "subservice",
+    "seo_title": "Casino Game Development Company | Sudonex",
+    "meta_description": "Casino game development company building slots, table games and live casino: math, RNG, HTML5 engineering and certified fairness for operators. Talk to Sudonex.",
+    "h1": "Casino Game Development Company | Sudonex",
+    "canonical": "https://www.sudonex.com/casino-game-development-company/",
+    "body_html": "<p>A casino game development company builds the games that fill an online casino — slots, table games (blackjack, roulette, baccarat), video poker and increasingly live and crash games. It spans game design, math and RNG, engineering and certification. This guide covers what casino game development involves and how to choose a studio. It relates to our <a href=\"/online-casino-software/\">online casino software</a> pillar.</p>\n<h2 id=\"what-they-do\">What a Casino Game Development Company Does</h2>\n<p>A casino game studio handles concept and design, the math model and RNG, art and animation, sound, HTML5 engineering for web and mobile, and certification, then integrates games into operator platforms via aggregators or direct APIs.</p>\n<h2 id=\"game-types\">Game Types</h2>\n<p>Studios build slots (the revenue backbone), classic table games, video poker, scratch and instant-win games, and newer formats like crash and provably fair titles. Breadth and quality shape a casino's appeal.</p>\n<h2 id=\"math-rng\">Math, RNG and Fairness</h2>\n<p>Every game's economics come from its math model and certified RNG. RTP and house edge are tuned per game, and independent labs (GLI, iTech Labs, eCOGRA) certify fairness before launch.</p>\n<h2 id=\"engineering\">HTML5 Engineering</h2>\n<p>Games must run smoothly across mobile and desktop browsers, so HTML5 performance, responsive design and fast load are essential — most casino play is on mobile.</p>\n<h2 id=\"integration\">Integration and Distribution</h2>\n<p>Games reach operators via aggregators or direct integration, plugging into the platform's wallet, bonusing and reporting with responsible-gambling controls.</p>\n<h2 id=\"choosing\">Choosing a Casino Game Studio</h2>\n<p>Evaluate portfolio breadth and quality, math and RNG expertise, HTML5 and mobile skill, certification track record and integration options. Sudonex develops custom casino games across formats. <a href=\"/services/\">See our services</a>.</p>",
+    "toc": [
+      {
+        "text": "What a Casino Game Development Company Does",
+        "href": "#what-they-do"
+      },
+      {
+        "text": "Game Types",
+        "href": "#game-types"
+      },
+      {
+        "text": "Math, RNG and Fairness",
+        "href": "#math-rng"
+      },
+      {
+        "text": "HTML5 Engineering",
+        "href": "#engineering"
+      },
+      {
+        "text": "Integration and Distribution",
+        "href": "#integration"
+      },
+      {
+        "text": "Choosing a Casino Game Studio",
+        "href": "#choosing"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What does a casino game development company do?",
+        "a": "It builds casino games end to end — slots, table games, video poker, and newer formats — covering game design, math and RNG, art, HTML5 engineering and certification, then integrates them into operator platforms."
+      },
+      {
+        "q": "What types of casino games are developed?",
+        "a": "Slots (the revenue backbone), classic table games like blackjack, roulette and baccarat, video poker, scratch and instant-win games, and newer formats such as crash and provably fair titles."
+      },
+      {
+        "q": "How is casino game fairness ensured?",
+        "a": "Through a certified RNG and math model, with RTP and house edge tuned per game and independent labs such as GLI, iTech Labs or eCOGRA certifying fairness before launch."
+      },
+      {
+        "q": "Why is HTML5 important for casino games?",
+        "a": "Most casino play is on mobile, so games must run smoothly across mobile and desktop browsers. HTML5 ensures responsive design, fast load and smooth animation."
+      },
+      {
+        "q": "How do casino games reach operators?",
+        "a": "Via aggregators or direct integration, plugging into the platform's wallet, bonusing and reporting with responsible-gambling controls."
+      },
+      {
+        "q": "How do I choose a casino game development company?",
+        "a": "Evaluate portfolio breadth and quality, math and RNG expertise, HTML5 and mobile skill, certification track record and integration options."
+      },
+      {
+        "q": "Does Sudonex develop casino games?",
+        "a": "Yes. Sudonex develops custom casino games across slots, table games and other formats, with certified fairness and mobile-first HTML5 engineering."
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Casino Game Development Company",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sudonex",
+          "url": "https://sudonex.com"
+        },
+        "name": "Casino Game Development Company | Sudonex",
+        "description": "Casino game development company building slots, table games and live casino: math, RNG, HTML5 engineering and certified fairness for operators. Talk to Sudonex.",
+        "url": "https://sudonex.com/casino-game-development-company/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://sudonex.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://sudonex.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Casino Game Development Company | Sudonex",
+            "item": "https://www.sudonex.com/casino-game-development-company/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What does a casino game development company do?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It builds casino games end to end — slots, table games, video poker, and newer formats — covering game design, math and RNG, art, HTML5 engineering and certification, then integrates them into operator platforms."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What types of casino games are developed?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Slots (the revenue backbone), classic table games like blackjack, roulette and baccarat, video poker, scratch and instant-win games, and newer formats such as crash and provably fair titles."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is casino game fairness ensured?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Through a certified RNG and math model, with RTP and house edge tuned per game and independent labs such as GLI, iTech Labs or eCOGRA certifying fairness before launch."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why is HTML5 important for casino games?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most casino play is on mobile, so games must run smoothly across mobile and desktop browsers. HTML5 ensures responsive design, fast load and smooth animation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do casino games reach operators?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Via aggregators or direct integration, plugging into the platform's wallet, bonusing and reporting with responsible-gambling controls."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I choose a casino game development company?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Evaluate portfolio breadth and quality, math and RNG expertise, HTML5 and mobile skill, certification track record and integration options."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does Sudonex develop casino games?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Sudonex develops custom casino games across slots, table games and other formats, with certified fairness and mobile-first HTML5 engineering."
+            }
+          }
+        ]
+      }
+    ],
+    "intent": "commercial",
+    "funnel": "BOFU",
+    "cluster": "games",
+    "primary_kw": "casino game development company",
+    "secondary_kws": [
+      "casino game developers",
+      "casino game studio",
+      "igaming game development"
+    ],
+    "outbound_links": [
+      {
+        "to": "/online-casino-software/",
+        "anchor": "online casino software",
+        "reason": "pillar-up"
+      },
+      {
+        "to": "/custom-casino-software-development/",
+        "anchor": "custom casino software development",
         "reason": "supporting"
       },
       {
