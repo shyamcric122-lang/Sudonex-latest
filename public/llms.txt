@@ -106,6 +106,23 @@ Sudonex builds owned, certifiable iGaming technology — not rented white-label 
 - [Custom Slot Suite Case Study](https://www.sudonex.com/case-studies/slot-game-development/): How we built a six-title slot suite for a studio, from PAR-sheet math and art integration to RGS and GLI certification. See how the games reached market.
 - [Sports Exchange Build Case Study](https://www.sudonex.com/case-studies/sports-exchange-development/): How we built a peer-to-peer sports betting exchange with order book and matching engine for a regulated operator that owns every line. See the build.
 
+## Games & Verticals
+- [Poker Game Development](https://www.sudonex.com/poker-game-development/): Poker game development company building custom real-money online poker platforms — Texas Hold'em, Omaha, real-time multiplayer engine, tournaments, certified RNG, anti-collusion and crypto payments.
+- [Rummy Game Development](https://www.sudonex.com/rummy-game-development/): Rummy game development company building real-money rummy platforms — points, pool and deals rummy, certified RNG, real-time multiplayer engine, tournaments, anti-fraud and UPI/crypto payments.
+- [Fantasy Sports Software](https://www.sudonex.com/fantasy-sports-software/): Fantasy sports software development for daily fantasy (DFS) and season-long platforms — real-time scoring engine, salary-cap drafting, multi-sport and fantasy cricket, AI analytics, contests and crypto payments.
+- [Sports Betting App Development](https://www.sudonex.com/sports-betting-app-development/): Sports betting app development for iOS and Android: live odds, in-play betting, cash-out, fast payments and 99.9% uptime.
+- [Crypto Sportsbook Software](https://www.sudonex.com/crypto-sportsbook-software/): Crypto sportsbook software — Bitcoin, Ethereum and stablecoin betting, fast on-chain payouts, provably fair, real-time odds, in-play betting, secure wallets and AML compliance.
+- [Crypto Casino Software](https://www.sudonex.com/crypto-casino-software/): Crypto casino software to launch a Bitcoin and stablecoin casino — provably fair games, multi-coin wallets, instant payouts, slots, live dealer and AML compliance.
+- [Live Casino Software](https://www.sudonex.com/live-casino-software/): Live casino software and live dealer platform development — real-time HD streaming, live blackjack, roulette and baccarat, game control, multi-table play and provably fair integrity.
+- [iGaming Platform Development](https://www.sudonex.com/igaming-platform-development/): iGaming platform development — build an ownable casino or sportsbook platform with PAM, wallet and bonus engine, games aggregation, payments, compliance, clean APIs and 99.9% uptime.
+- [Casino Platform Provider](https://www.sudonex.com/casino-platform-provider/): Casino platform provider building ownable online casino platforms — player management, games aggregation, payments, bonus engine, compliance and 99.9% uptime.
+- [Casino Software Provider](https://www.sudonex.com/casino-software-provider/): Casino software provider delivering custom and white-label casino software — platform, slots, live dealer, payments and compliance, built to own with no revenue share.
+- [Start an Online Casino](https://www.sudonex.com/start-an-online-casino/): Start an online casino in 2026 — licensing, software, payments, games and compliance explained step by step, with realistic costs and timelines.
+
+## Guides & Costs
+- [Casino Game Development Cost](https://www.sudonex.com/casino-game-development-cost/): Casino game development cost explained — slots, table and live-dealer pricing, what drives cost, math and certification, timelines, recurring costs and how to budget.
+- [Slot Game Development Cost](https://www.sudonex.com/slot-game-development-cost/): Slot game development cost explained — what drives price, simple vs feature-rich slots, math and RTP, art, HTML5 engineering, progressive jackpots and certification.
+
 ## Company
 - Founded: 2018 · Custom iGaming software development
 - Contact: Sudonexofficial@gmail.com · WhatsApp +91 8252595013
