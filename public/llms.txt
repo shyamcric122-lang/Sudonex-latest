@@ -119,6 +119,9 @@ Sudonex builds owned, certifiable iGaming technology — not rented white-label 
 - [Casino Software Provider](https://www.sudonex.com/casino-software-provider/): Casino software provider delivering custom and white-label casino software — platform, slots, live dealer, payments and compliance, built to own with no revenue share.
 - [Start an Online Casino](https://www.sudonex.com/start-an-online-casino/): Start an online casino in 2026 — licensing, software, payments, games and compliance explained step by step, with realistic costs and timelines.
 
+- [Casino API Integration](https://www.sudonex.com/casino-api-integration/): Casino API integration services — connect game, payment, crypto, wallet and KYC APIs into one clean layer you own.
+- [iGaming Affiliate Software](https://www.sudonex.com/igaming-affiliate-software/): iGaming affiliate software development — build an owned affiliate platform with real-time tracking, revshare/CPA/hybrid commissions, fraud detection and reporting for casino and sportsbook operators.
+
 ## Guides & Costs
 - [Casino Game Development Cost](https://www.sudonex.com/casino-game-development-cost/): Casino game development cost explained — slots, table and live-dealer pricing, what drives cost, math and certification, timelines, recurring costs and how to budget.
 - [Slot Game Development Cost](https://www.sudonex.com/slot-game-development-cost/): Slot game development cost explained — what drives price, simple vs feature-rich slots, math and RTP, art, HTML5 engineering, progressive jackpots and certification.
