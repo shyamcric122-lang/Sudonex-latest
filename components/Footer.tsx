@@ -1,6 +1,7 @@
 'use client';
 import Link from 'next/link';
-import { NAV } from '@/lib/nav';
+import { NAV, getByLayer } from '@/lib/nav';
+import { COUNTRY_LABELS } from '@/lib/geo-markets';
 import { Mail, MapPin, ShieldCheck, AlertTriangle, Phone, Instagram, Facebook, Linkedin } from 'lucide-react';
 import Logo from '@/components/Logo';
 import { trackLead } from '@/lib/track';
@@ -39,6 +40,19 @@ export default function Footer() {
             </div>
           ))}
         </div>
+
+        <nav aria-label="All markets" className="mb-6 pb-6 border-b border-white/5">
+          <h4 className="section-eyebrow mb-3">All markets we serve</h4>
+          <ul className="flex flex-wrap gap-x-4 gap-y-2">
+            {getByLayer('geo').map(p => {
+              const slug = p.path.replace('/igaming-development-company-', '').replace(/\/$/, '');
+              const label = p.path.startsWith('/igaming-development-company-')
+                ? (COUNTRY_LABELS[slug] || slug.replace(/-/g, ' ').replace(/(^|\s)\S/g, c => c.toUpperCase()))
+                : p.title.replace(/ \| Sudonex$/, '');
+              return <li key={p.path}><Link href={p.path} className="text-xs text-ink-muted hover:text-white transition-colors">{label}</Link></li>;
+            })}
+          </ul>
+        </nav>
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-3 py-6 border-y border-white/5 mb-6">
           <Link href="/about-us/#editorial-standards" className="flex items-start gap-3 p-3 rounded-lg hover:bg-white/5 transition-colors">

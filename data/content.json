@@ -545,6 +545,11 @@
         "to": "/peer-to-peer-betting-system/",
         "anchor": "peer-to-peer betting platform development",
         "reason": "sibling-spoke"
+      },
+      {
+        "to": "/sports-exchange-development-company-canada/",
+        "anchor": "sports exchange development company in Canada",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
@@ -1884,6 +1889,11 @@
         "to": "/casino-game-development/",
         "anchor": "casino game development company",
         "reason": "spoke-to-hub"
+      },
+      {
+        "to": "/casino-app-development-company-usa/",
+        "anchor": "casino app development company in the USA",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
@@ -2080,10 +2090,19 @@
         "to": "/casino-app-development/",
         "anchor": "casino app development company",
         "reason": "geo-to-service"
+      },
+      {
+        "to": "/igaming-mvp-development-company-usa/",
+        "anchor": "iGaming MVP development company in the USA",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
-      "/igaming-software-development/"
+      "/igaming-software-development/",
+      "/igaming-development-company-usa/",
+      "/casino-app-development/",
+      "/real-money-casino-app-development/",
+      "/igaming-mvp-development-company-usa/"
     ],
     "audit_missing": []
   },
@@ -2968,6 +2987,11 @@
         "to": "/sportsbook-ui-ux-design/",
         "anchor": "sportsbook UI/UX design",
         "reason": "sibling-spoke"
+      },
+      {
+        "to": "/conversion-rate-optimization/",
+        "anchor": "iGaming conversion rate optimization",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
@@ -3133,6 +3157,11 @@
         "to": "/mvp-to-scale-roadmap/",
         "anchor": "iGaming MVP to scale roadmap",
         "reason": "sibling-spoke"
+      },
+      {
+        "to": "/igaming-mvp-development-company-usa/",
+        "anchor": "iGaming MVP development company in the USA",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
@@ -3643,7 +3672,13 @@
         "reason": "spoke-to-hub"
       }
     ],
-    "inbound_from": [],
+    "inbound_from": [
+      "/igaming-ui-ux-design/",
+      "/igaming-crm-solutions/",
+      "/igaming-retargeting-solutions/",
+      "/casino-lobby-design/",
+      "/igaming-wireframe-design/"
+    ],
     "audit_missing": []
   },
   "/crypto-casino-development/": {
@@ -5318,10 +5353,29 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-uk/",
+        "anchor": "iGaming development company in UK",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-singapore/",
+        "anchor": "iGaming development company in Singapore",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-usa/",
+        "anchor": "iGaming development company in USA",
+        "reason": "geo-sibling"
       }
     ],
     "inbound_from": [
-      "/igaming-software-development/"
+      "/igaming-software-development/",
+      "/igaming-development-company-usa/",
+      "/igaming-development-company-canada/",
+      "/igaming-development-company-singapore/",
+      "/igaming-development-company-philippines/"
     ],
     "audit_missing": []
   },
@@ -5464,10 +5518,31 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-usa/",
+        "anchor": "iGaming development company in USA",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-uk/",
+        "anchor": "iGaming development company in UK",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-australia/",
+        "anchor": "iGaming development company in Australia",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/sports-exchange-development-company-canada/",
+        "anchor": "sports exchange development company in Canada",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
-      "/igaming-software-development/"
+      "/igaming-software-development/",
+      "/igaming-development-company-usa/"
     ],
     "audit_missing": []
   },
@@ -5646,10 +5721,27 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-sweden/",
+        "anchor": "iGaming development company in Sweden",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-norway/",
+        "anchor": "iGaming development company in Norway",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-netherlands/",
+        "anchor": "iGaming development company in Netherlands",
+        "reason": "geo-sibling"
       }
     ],
     "inbound_from": [
-      "/igaming-software-development/"
+      "/igaming-software-development/",
+      "/igaming-development-company-norway/",
+      "/igaming-development-company-sweden/"
     ],
     "audit_missing": []
   },
@@ -5812,10 +5904,26 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-uae/",
+        "anchor": "iGaming development company in UAE",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-india/",
+        "anchor": "iGaming development company in India",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-singapore/",
+        "anchor": "iGaming development company in Singapore",
+        "reason": "geo-sibling"
       }
     ],
     "inbound_from": [
-      "/igaming-software-development/"
+      "/igaming-software-development/",
+      "/igaming-development-company-uae/"
     ],
     "audit_missing": []
   },
@@ -5958,10 +6066,29 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-netherlands/",
+        "anchor": "iGaming development company in Netherlands",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-sweden/",
+        "anchor": "iGaming development company in Sweden",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-malta/",
+        "anchor": "iGaming development company in Malta",
+        "reason": "geo-sibling"
       }
     ],
     "inbound_from": [
-      "/igaming-software-development/"
+      "/igaming-software-development/",
+      "/igaming-development-company-malta/",
+      "/igaming-development-company-italy/",
+      "/igaming-development-company-netherlands/",
+      "/igaming-development-company-sweden/"
     ],
     "audit_missing": []
   },
@@ -6108,9 +6235,30 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-singapore/",
+        "anchor": "iGaming development company in Singapore",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-philippines/",
+        "anchor": "iGaming development company in Philippines",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-uae/",
+        "anchor": "iGaming development company in UAE",
+        "reason": "geo-sibling"
       }
     ],
-    "inbound_from": [],
+    "inbound_from": [
+      "/igaming-development-company-uae/",
+      "/igaming-development-company-dubai/",
+      "/igaming-development-company-singapore/",
+      "/igaming-development-company-philippines/",
+      "/igaming-development-company-south-africa/"
+    ],
     "audit_missing": []
   },
   "/igaming-development-company-ireland/": {
@@ -6252,9 +6400,27 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-uk/",
+        "anchor": "iGaming development company in UK",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-malta/",
+        "anchor": "iGaming development company in Malta",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-netherlands/",
+        "anchor": "iGaming development company in Netherlands",
+        "reason": "geo-sibling"
       }
     ],
-    "inbound_from": [],
+    "inbound_from": [
+      "/igaming-development-company-uk/",
+      "/igaming-development-company-netherlands/"
+    ],
     "audit_missing": []
   },
   "/igaming-development-company-italy/": {
@@ -6428,9 +6594,27 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-spain/",
+        "anchor": "iGaming development company in Spain",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-malta/",
+        "anchor": "iGaming development company in Malta",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-germany/",
+        "anchor": "iGaming development company in Germany",
+        "reason": "geo-sibling"
       }
     ],
-    "inbound_from": [],
+    "inbound_from": [
+      "/igaming-development-company-malta/",
+      "/igaming-development-company-spain/"
+    ],
     "audit_missing": []
   },
   "/igaming-development-company-malta/": {
@@ -6572,9 +6756,30 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-italy/",
+        "anchor": "iGaming development company in Italy",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-uk/",
+        "anchor": "iGaming development company in UK",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-germany/",
+        "anchor": "iGaming development company in Germany",
+        "reason": "geo-sibling"
       }
     ],
-    "inbound_from": [],
+    "inbound_from": [
+      "/igaming-development-company-uk/",
+      "/igaming-development-company-germany/",
+      "/igaming-development-company-ireland/",
+      "/igaming-development-company-italy/",
+      "/igaming-development-company-spain/"
+    ],
     "audit_missing": []
   },
   "/igaming-development-company-netherlands/": {
@@ -6720,9 +6925,28 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-germany/",
+        "anchor": "iGaming development company in Germany",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-ireland/",
+        "anchor": "iGaming development company in Ireland",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-sweden/",
+        "anchor": "iGaming development company in Sweden",
+        "reason": "geo-sibling"
       }
     ],
-    "inbound_from": [],
+    "inbound_from": [
+      "/igaming-development-company-germany/",
+      "/igaming-development-company-ireland/",
+      "/igaming-development-company-denmark/"
+    ],
     "audit_missing": []
   },
   "/igaming-development-company-norway/": {
@@ -6896,9 +7120,27 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-sweden/",
+        "anchor": "iGaming development company in Sweden",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-denmark/",
+        "anchor": "iGaming development company in Denmark",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-uk/",
+        "anchor": "iGaming development company in UK",
+        "reason": "geo-sibling"
       }
     ],
-    "inbound_from": [],
+    "inbound_from": [
+      "/igaming-development-company-sweden/",
+      "/igaming-development-company-denmark/"
+    ],
     "audit_missing": []
   },
   "/igaming-development-company-philippines/": {
@@ -7076,9 +7318,27 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-singapore/",
+        "anchor": "iGaming development company in Singapore",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-india/",
+        "anchor": "iGaming development company in India",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-australia/",
+        "anchor": "iGaming development company in Australia",
+        "reason": "geo-sibling"
       }
     ],
-    "inbound_from": [],
+    "inbound_from": [
+      "/igaming-development-company-india/",
+      "/igaming-development-company-singapore/"
+    ],
     "audit_missing": []
   },
   "/igaming-development-company-singapore/": {
@@ -7240,9 +7500,30 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-philippines/",
+        "anchor": "iGaming development company in Philippines",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-india/",
+        "anchor": "iGaming development company in India",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-australia/",
+        "anchor": "iGaming development company in Australia",
+        "reason": "geo-sibling"
       }
     ],
-    "inbound_from": [],
+    "inbound_from": [
+      "/igaming-development-company-australia/",
+      "/igaming-development-company-india/",
+      "/igaming-development-company-uae/",
+      "/igaming-development-company-dubai/",
+      "/igaming-development-company-philippines/"
+    ],
     "audit_missing": []
   },
   "/igaming-development-company-south-africa/": {
@@ -7416,6 +7697,21 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-uk/",
+        "anchor": "iGaming development company in UK",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-india/",
+        "anchor": "iGaming development company in India",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-uae/",
+        "anchor": "iGaming development company in UAE",
+        "reason": "geo-sibling"
       }
     ],
     "inbound_from": [],
@@ -7592,9 +7888,26 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-italy/",
+        "anchor": "iGaming development company in Italy",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-malta/",
+        "anchor": "iGaming development company in Malta",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-uk/",
+        "anchor": "iGaming development company in UK",
+        "reason": "geo-sibling"
       }
     ],
-    "inbound_from": [],
+    "inbound_from": [
+      "/igaming-development-company-italy/"
+    ],
     "audit_missing": []
   },
   "/igaming-development-company-sweden/": {
@@ -7768,9 +8081,29 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-norway/",
+        "anchor": "iGaming development company in Norway",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-denmark/",
+        "anchor": "iGaming development company in Denmark",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-germany/",
+        "anchor": "iGaming development company in Germany",
+        "reason": "geo-sibling"
       }
     ],
-    "inbound_from": [],
+    "inbound_from": [
+      "/igaming-development-company-germany/",
+      "/igaming-development-company-netherlands/",
+      "/igaming-development-company-norway/",
+      "/igaming-development-company-denmark/"
+    ],
     "audit_missing": []
   },
   "/igaming-development-company-uae/": {
@@ -7940,9 +8273,28 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-dubai/",
+        "anchor": "iGaming development company in Dubai",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-india/",
+        "anchor": "iGaming development company in India",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-singapore/",
+        "anchor": "iGaming development company in Singapore",
+        "reason": "geo-sibling"
       }
     ],
-    "inbound_from": [],
+    "inbound_from": [
+      "/igaming-development-company-india/",
+      "/igaming-development-company-dubai/",
+      "/igaming-development-company-south-africa/"
+    ],
     "audit_missing": []
   },
   "/igaming-development-company-uk/": {
@@ -8120,9 +8472,38 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-ireland/",
+        "anchor": "iGaming development company in Ireland",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-malta/",
+        "anchor": "iGaming development company in Malta",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-usa/",
+        "anchor": "iGaming development company in USA",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/slot-game-development-company-uk/",
+        "anchor": "slot game development company in the UK",
+        "reason": "orphan-fix"
       }
     ],
-    "inbound_from": [],
+    "inbound_from": [
+      "/igaming-development-company-usa/",
+      "/igaming-development-company-canada/",
+      "/igaming-development-company-australia/",
+      "/igaming-development-company-malta/",
+      "/igaming-development-company-ireland/",
+      "/igaming-development-company-norway/",
+      "/igaming-development-company-spain/",
+      "/igaming-development-company-south-africa/"
+    ],
     "audit_missing": [
       "UKGC licensing requirements",
       "UK responsible gambling tools (GAMSTOP, deposit limits)",
@@ -8308,9 +8689,33 @@
         "to": "/contact/",
         "anchor": "contact iGaming development company",
         "reason": "geo-to-cta"
+      },
+      {
+        "to": "/igaming-development-company-canada/",
+        "anchor": "iGaming development company in Canada",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/igaming-development-company-uk/",
+        "anchor": "iGaming development company in UK",
+        "reason": "geo-sibling"
+      },
+      {
+        "to": "/casino-app-development-company-usa/",
+        "anchor": "casino app development company in the USA",
+        "reason": "orphan-fix"
+      },
+      {
+        "to": "/igaming-mvp-development-company-usa/",
+        "anchor": "iGaming MVP development company in the USA",
+        "reason": "orphan-fix"
       }
     ],
-    "inbound_from": [],
+    "inbound_from": [
+      "/igaming-development-company-uk/",
+      "/igaming-development-company-canada/",
+      "/igaming-development-company-australia/"
+    ],
     "audit_missing": [
       "State-by-state US licensing (NJ, MI, PA, etc.)",
       "DGE/MGCB compliance",
@@ -8752,14 +9157,14 @@
         "reason": "hub-to-spoke"
       },
       {
-        "to": "/industries/igaming-startups/",
-        "anchor": "iGaming startup development partner",
-        "reason": "hub-to-spoke"
-      },
-      {
         "to": "/mvp-to-scale-roadmap/",
         "anchor": "iGaming MVP to scale roadmap",
         "reason": "hub-to-spoke"
+      },
+      {
+        "to": "/resources/how-to-launch-igaming-startup/",
+        "anchor": "how to launch an iGaming startup",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
@@ -8946,10 +9351,18 @@
         "to": "/igaming-mvp-consultancy/",
         "anchor": "iGaming MVP development services",
         "reason": "spoke-to-hub"
+      },
+      {
+        "to": "/casino-app-development-company-usa/",
+        "anchor": "casino app development company in the USA",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
-      "/igaming-mvp-consultancy/"
+      "/igaming-mvp-consultancy/",
+      "/igaming-development-company-usa/",
+      "/casino-mvp-development/",
+      "/casino-app-development-company-usa/"
     ],
     "audit_missing": []
   },
@@ -9116,6 +9529,11 @@
         "to": "/sportsbook-mvp-development/",
         "anchor": "sportsbook MVP development",
         "reason": "sibling-spoke"
+      },
+      {
+        "to": "/resources/how-to-launch-igaming-startup/",
+        "anchor": "how to launch an iGaming startup",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
@@ -9341,9 +9759,9 @@
         "reason": "hub-to-spoke"
       },
       {
-        "to": "/online-casino-software/",
-        "anchor": "online casino software",
-        "reason": "hub-bridge"
+        "to": "/conversion-rate-optimization/",
+        "anchor": "iGaming conversion rate optimization",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
@@ -9521,6 +9939,11 @@
         "to": "/sportsbook-ui-ux-design/",
         "anchor": "sportsbook UI/UX design",
         "reason": "sibling-spoke"
+      },
+      {
+        "to": "/conversion-rate-optimization/",
+        "anchor": "iGaming conversion rate optimization",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
@@ -11410,6 +11833,11 @@
         "to": "/sportsbook-mvp-development/",
         "anchor": "sportsbook MVP development",
         "reason": "sibling-spoke"
+      },
+      {
+        "to": "/resources/how-to-launch-igaming-startup/",
+        "anchor": "how to launch an iGaming startup",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
@@ -12333,6 +12761,11 @@
         "to": "/white-label-casino-software/",
         "anchor": "white-label casino software provider",
         "reason": "sibling-spoke"
+      },
+      {
+        "to": "/casino-app-development-company-usa/",
+        "anchor": "casino app development company in the USA",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
@@ -13620,7 +14053,14 @@
         "reason": "content-to-service"
       }
     ],
-    "inbound_from": [],
+    "inbound_from": [
+      "/igaming-startup-consulting/",
+      "/how-to-start-an-online-casino/",
+      "/igaming-mvp-consultancy/",
+      "/start-an-online-casino/",
+      "/online-casino-business/",
+      "/mvp-to-scale-roadmap/"
+    ],
     "audit_missing": []
   },
   "/resources/igaming-api-integration-guide/": {
@@ -15957,11 +16397,6 @@
     ],
     "outbound_links": [
       {
-        "to": "/case-studies/slot-game-development/",
-        "anchor": "slot game development case study",
-        "reason": "hub-to-spoke"
-      },
-      {
         "to": "/custom-slot-game-development/",
         "anchor": "custom slot game development",
         "reason": "hub-to-spoke"
@@ -15985,6 +16420,11 @@
         "to": "/resources/slot-game-math-rtp/",
         "anchor": "slot game math and RTP design guide",
         "reason": "hub-to-spoke"
+      },
+      {
+        "to": "/slot-game-development-company-uk/",
+        "anchor": "slot game development company in the UK",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
@@ -16193,7 +16633,11 @@
         "reason": "geo-to-service"
       }
     ],
-    "inbound_from": [],
+    "inbound_from": [
+      "/igaming-development-company-uk/",
+      "/slot-game-development/",
+      "/slot-game-development-company/"
+    ],
     "audit_missing": []
   },
   "/slot-game-math-rng/": {
@@ -17670,11 +18114,6 @@
         "reason": "hub-to-spoke"
       },
       {
-        "to": "/case-studies/sports-exchange-development/",
-        "anchor": "sports exchange development case study",
-        "reason": "hub-to-spoke"
-      },
-      {
         "to": "/industries/sports-betting-operators/",
         "anchor": "sportsbook and exchange software development",
         "reason": "hub-to-spoke"
@@ -17693,6 +18132,11 @@
         "to": "/real-time-odds-engine/",
         "anchor": "real-time odds engine development",
         "reason": "hub-to-spoke"
+      },
+      {
+        "to": "/sports-exchange-development-company-canada/",
+        "anchor": "sports exchange development company in Canada",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
@@ -17897,7 +18341,11 @@
         "reason": "geo-to-service"
       }
     ],
-    "inbound_from": [],
+    "inbound_from": [
+      "/igaming-development-company-canada/",
+      "/sports-exchange-development/",
+      "/betting-exchange-software/"
+    ],
     "audit_missing": []
   },
   "/sports-trading-platform/": {
@@ -25072,6 +25520,11 @@
         "to": "/live-casino-software/",
         "anchor": "live casino software",
         "reason": "sibling-spoke"
+      },
+      {
+        "to": "/resources/how-to-launch-igaming-startup/",
+        "anchor": "how to launch an iGaming startup",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
@@ -25282,6 +25735,11 @@
         "to": "/online-casino-business/",
         "anchor": "online casino business",
         "reason": "sibling-spoke"
+      },
+      {
+        "to": "/resources/how-to-launch-igaming-startup/",
+        "anchor": "how to launch an iGaming startup",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
@@ -26117,6 +26575,11 @@
         "to": "/start-an-online-casino/",
         "anchor": "start an online casino",
         "reason": "sibling-spoke"
+      },
+      {
+        "to": "/resources/how-to-launch-igaming-startup/",
+        "anchor": "how to launch an iGaming startup",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
@@ -26779,6 +27242,11 @@
         "to": "/igaming-server-solutions/",
         "anchor": "igaming server solutions",
         "reason": "sibling-spoke"
+      },
+      {
+        "to": "/conversion-rate-optimization/",
+        "anchor": "iGaming conversion rate optimization",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
@@ -26993,6 +27461,11 @@
         "to": "/igaming-server-solutions/",
         "anchor": "igaming server solutions",
         "reason": "sibling-spoke"
+      },
+      {
+        "to": "/conversion-rate-optimization/",
+        "anchor": "iGaming conversion rate optimization",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
@@ -27671,6 +28144,11 @@
         "to": "/rummy-game-development/",
         "anchor": "rummy game development",
         "reason": "sibling-spoke"
+      },
+      {
+        "to": "/slot-game-development-company-uk/",
+        "anchor": "slot game development company in the UK",
+        "reason": "orphan-fix"
       }
     ],
     "inbound_from": [
