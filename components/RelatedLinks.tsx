@@ -16,7 +16,7 @@ export default function RelatedLinks({ links }: { links: { to: string; anchor: s
           <h2 className="font-display text-2xl md:text-3xl font-bold text-white">Related on Sudonex</h2>
         </div>
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {enriched.slice(0, 6).map((l, i) => (
+          {enriched.slice(0, 12).map((l, i) => (
             <motion.div key={l.to} initial={{ opacity: 0, y: 16 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ delay: i * 0.05 }}>
               <Link href={l.to} className="glow-card block p-5 group h-full">
                 <div className="flex items-start justify-between gap-3 mb-2">
