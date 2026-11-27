@@ -1,5 +1,6 @@
 import type { MetadataRoute } from 'next';
 import { getAllPaths, getPage } from '@/lib/content';
+import LASTMOD from '@/data/lastmod.json';
 
 const BASE = 'https://www.sudonex.com';
 
@@ -13,12 +14,12 @@ const FREQ: Record<string, MetadataRoute.Sitemap[0]['changeFrequency']> = {
 };
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const today = new Date().toISOString().slice(0, 10);
+  const lm = LASTMOD as Record<string, { d: string }>;
   return getAllPaths().map((p) => {
     const layer = getPage(p)?.layer || 'top';
     return {
       url: `${BASE}${p}`,
-      lastModified: today,
+      lastModified: lm[p]?.d ?? '2026-11-26',
       changeFrequency: FREQ[layer] ?? 'monthly',
       priority: PRIORITY[layer] ?? 0.5,
     };
